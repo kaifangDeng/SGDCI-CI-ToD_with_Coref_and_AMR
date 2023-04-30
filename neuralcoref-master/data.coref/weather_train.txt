@@ -1,0 +1,848 @@
+driver:what is the temperature outside.assistant:where are you located.driver:what is the temperature in camarillo right now.assistant:right now the temperature in los_angeles is a low of 50f and a high of 70f.
+driver:will there be a blizzard in seattle this week.assistant:there is gonna be no blizzard this week in grand_rapids.
+driver:is it going to rain in new_york next_week.assistant:there will not be rain in new_york next_week.
+driver:will it be stormy in grand_rapids during the week.assistant:it is predicted to be stormy in redwood_city on sunday.
+driver:is it overcast now in grand_rapids.assistant:no now there are clear_skies in seattle.
+driver:when is the next cloudy day.assistant:what city are you asking about.driver:mountain_view on tuesday please s.assistant:it will not be raining in seattle on tuesday.
+driver:will there be snow on wednesday in oakland.assistant:there will not be clear in fresno on sunday.
+driver:check today s weather.assistant:what city are you interested in.driver:will it be overcast in mountain_view.assistant:it will not be foggy in cleveland next_week.
+driver:please let me know the weather forecast for tomorrow.assistant:what city are you interested in the forecast for.driver:los_angeles.assistant:it will blizzard in downtown_chicago tomorrow with a low of 70f and a high of 70f.
+driver:will it be warm in new_york today and tomorrow.assistant:today and tomorrow in new_york will be warm the lows will be 50f and 60f the highs will be in the 70s.
+driver:what s the weather going to be like for this week.assistant:what city are you inquiring about.driver:will it dew in alhambra.assistant:there is not gonna be any snow in boston this week.
+driver:what s the forecast for the city this week.assistant:can you tell me what city you are referring to please.driver:mountain_view.assistant:this week in mountian_view the wearther varies between dew clear humid and cold days.
+driver:will there be drizzle in oakland on sunday.assistant:no on sunday the weather forecast calls for hail in oakland.
+driver:what is the weather is it going to rain.assistant:what city do you want the weather for.driver:menlo_park find out if it will rain today.assistant:today in los_angeles there will be lowest_temperature with low of 30f and high of 60f.
+driver:find out if it s supposed to rain.assistant:what city shall i check for rain.driver:camarillo please tomorrow s forecast.assistant:it will be clear tomorrow in camarillo.
+driver:what will the high temperature be for los_angeles.assistant:today there is going to be frost in los_angeles would you like to know about some other day.driver:what will the highest_temperature be on monday.assistant:the high in boston will be 50f on friday.
+driver:is there a chance of snow in this weeks weather forecast.assistant:where do you want to know about snow for what city.driver:downtown_chicago please.assistant:i see no snow but it will be raining scheduled on thursday in mountain_view.
+driver:what s the weekly weather report for the city.assistant:what city would you like the weekly weather report for.driver:will it be humid in corona next_week.assistant:the forecast for sunday is supposed to be humid for redwood_city.
+driver:what is the weather forecast in the city.assistant:which city are you asking about.driver:i m going to corona.assistant:what day are you wanting the forecast for corona.driver:i need the forecast for the whole week if possible.assistant:it will be blizzard in corona on sunday.
+driver:is it going to snow next_week.assistant:where should i check for snow.driver:cleveland please.assistant:sunday it will snow on cleveland.driver:thank you.assistant:you are welcome.driver:great.assistant:no problem.
+driver:look at the seven day forecast and see if it will be hot in oakland.assistant:it s not gonna be frost during the next_week in san_mateo.
+driver:what is the weather like today in tomorrow.assistant:what city are you inquiring about.driver:will it be cloudy in compton today.assistant:exeter is not showing a forecast for snow dew today.
+driver:will it be any blizzard on sunday in alhambra.assistant:there will be clear in oakland on tuesday.
+driver:car what is the temperature going to be today and tomorrow.assistant:which city would you like today and tomorrow s temperature for.driver:alhambra please.assistant:in brentwood is gonna be clear_skies on monday overcast on wednesday windy on thrusday windy again on saturday cold on sunday.
+driver:is it cloudy in the next 7 days.assistant:what city do you want to know if it will be cloudy in.driver:fresno.assistant:it will be dry on monday in carson.
+driver:is it gonna be misty in corona on monday.assistant:dew is predicted on monday in san_mateo.
+driver:is it going to be raining this weekend.assistant:what city would you like me to check to see if it s raining this weekend.driver:exeter please.assistant:it will be raining on saturday and snowing on friday in corona.
+driver:what is the weather for next_week.assistant:what location do you want the weather for.driver:i will traveling to mountain_view so i need information for there please.assistant:any day in particular you need the forecast for or do you just want the whole week for mountain_view.driver:for the whole week please.assistant:the weather next_week for oakland is going to be a series of ups and downs from hail on friday to a blizzard on saturday and to rain on monday the highs are forecast to be near 100 with lows near 20.
+driver:what s the weather going to be like this week.assistant:what location should i look up the weekly forecast for.driver:will it be hot in brentwood.assistant:it should not be hot in brentwood this week.
+driver:what is the forecast in my city.assistant:what city are you in.driver:what is the forecast for today and tomorrow in durham.assistant:the forecast for today in durham will be cloudy with a low of 20f and a high of 40f tomorrow s forecast will be dry with a low of 60f and a high of 80f.
+driver:what is the forecast in my city.assistant:in which city are you now.driver:i m in inglewood which one is it the weather forecast for the next two_days.assistant:in inglewood it s gonna be foggy today and there will be dew on tuesday.
+driver:what is the weather forecast in the city.assistant:which city are you asking about.driver:i m going to corona.assistant:what day are you wanting the forecast for mountain_view.
+driver:what s the temperature going to be for the week.assistant:what city do you want the weather for.driver:fresno.assistant:next_week durham s temperatures will vary between lows in the 20s to a high of 80f.
+driver:what s the temperature in the city.assistant:what city would you like to know the temperature for.driver:san_mateo.assistant:for what day are you interested.
+driver:what s the weather going to be like in the city on thursday.assistant:what city do you want to hear thursday s weather for.driver:will it be overcast in atherton on thursday.assistant:san_jose will be raining on tuesday.
+driver:what s the weather like on my drive today.assistant:what city will you be driving in.driver:im in new_york find out if there is snow today.assistant:there will be snow in redwood_city today.
+driver:what is the forecast for the rest of the day.assistant:what city.driver:tell me if it s windy in exeter right now.assistant:in exeter is hail now.driver:is it windy right now.assistant:yes as you said is it is snowing in exeter now don t get distracted and focus on the road.
+driver:what is the weather forecast for the next 7 days.assistant:what city are you interested in knowing about.driver:i am wanting to know about mountain_view please.assistant:it will be between 70f - 90f friday to wednesday followed by 40f - 90f tuesday and saturday 20f - 80f tuesday and 60f - 70f friday in compton.
+driver:what s the highest_temperature going to be in cleveland this week.assistant:this week the highest_temperature in carson will be 70f on saturday.
+driver:does the forecast say it will snow.assistant:what city do you want to know the snow forecast for.driver:i need to know about compton for my trip.assistant:do you want me to check if it will snow on a specific day or the entire week.driver:please check if it will snow today or tomorrow.assistant:frost is predicted in compton today but there is no snow for today or tomorrow.
+driver:find out if it s going to be cloudy next_week.assistant:which city are you wondering about the cloudy forecast for.driver:compton.assistant:it is not predicted to be cloudy this week in compton.driver:thank you.assistant:you are welcome.driver:great.assistant:no problem.
+driver:car is it going to snow today.assistant:what city do you want the forecast for.driver:chicago.assistant:it is not snowing in exeter today.
+driver:check weather for new_york city.assistant:atherton is supposed to be fair with a chance of skies on thursday with the highs in the 90s and lows in the 20s.
+driver:is durham stormy right now.assistant:yes it appears as if it is currently misty in manhattan.
+driver:what is the weather like this week.assistant:you would like to know what the weather is like for what city.driver:will it be hot in grand_rapids this week.assistant:it will not be warm in manhattan this week.
+driver:how hot is it going to be this week.assistant:in which location do you want to know if it s going to be hot.driver:los_angeles.assistant:it is not supposed to drizzle on monday and saturday in seattle.
+driver:how cloudy is it going to be for the next_week.assistant:what city are you interested in.driver:san_jose.assistant:in corona it will be dew on tuesday and on sunday.
+driver:what is the weather like today and tomorrow.assistant:what city should i check the 2 day forecast for.driver:in compton please tell me if it will be humid.assistant:it will not be drizzle the next week in san_mateo.
+driver:what s the temperature going to be like on friday.assistant:what city should i find friday s temperature for.driver:alhambra.assistant:on friday there will be clear_skies in alhambra.driver:and the temperature.assistant:it will be between 20f - 30f in alhambra on friday.
+driver:please tell me the weather for today and what the weather will be tomorrow.assistant:for which city did you need information about today s and tomorrow s weather.driver:in brentwood will it be cloudy.assistant:it will be cloudy on friday in brentwood.
+driver:what s the temperature outside like today.assistant:what city are you in.driver:i m in new_york.assistant:in camarillo there is a low temperature of 80f and a high of 30f.
+driver:will it snow this week.assistant:which city would you like to find out if it s snowing in.driver:cleveland.assistant:rain is predicted to fall in brentwood today.
+driver:what is the weather today in tomorrow.assistant:what city do you want the forecast for.driver:please tell me the weather report for menlo_park today.assistant:in san_jose today is going to be foggy low of 50f high of 70f and tomorrow is going to be rain low of 60f high of 80f.
+driver:what s the weather like.assistant:what city would you like to find out the weather about.driver:i need to know weather information about atherton.assistant:what days are you interested in.driver:find out if there will be a blizzard on tuesday.assistant:on tuesday there will be clear_skies.
+driver:you tell me if the forecast for the next_week calls for it to be above 86 degrees on any day.assistant:for which city would you like to know those specific details for.driver:i need to know if it will be windy in compton this week.assistant:i am not seeing any weather predictions showing that it will be snow in boston this week.
+driver:what is the temperature outside.assistant:where are you located.driver:i m in carson.assistant:today in durham the temperature is at it s highest with a low of 30f and a high of 50f.
+driver:what s the weather like this week.assistant:for what city would you like to know the weather for.driver:let me know if it is going to be cloudy in compton this week.assistant:it will not be windy in compton this week.
+driver:what is the weather like in new_york city.assistant:what would you like to know about the weather in new_york city.driver:there will be clear_skies today.assistant:today in new_york city it will snow.
+driver:check forecast for today and tomorrow.assistant:what city would you like the forecast for.driver:los_angeles.assistant:in grand_rapids it will cloudy today with a low of 20f and a high of 30f tomorrow will be rainy between 80f - 90f.
+driver:what is the weather in new_york city.assistant:what can i tell you about the weather in new_york.driver:i d like to know the weather overcast in the next_weekend.assistant:it will be hot on sunday for this weekend in corona.
+driver:is it misty in san_francisco now.assistant:no in corona the weather is dry now.
+driver:what is the 48 hour forecast for oakland.assistant:storms and a high of 100f are predicted today in new_york followed by cloudy weather with a high of 60f.
+driver:what is the forecast for this week.assistant:you would like to know the weekly forecast for what city.driver:will it blizzard in seattle this week >.assistant:it will not rain in oakland on sunday.
+driver:tell me if there will be frost in cleveland the next 7 days.assistant:inglewood s weather forecast does not predict any frost over the next 7 days.
+driver:is the weather overcast in grand_rapids now.assistant:right now in menlo_park the weather is not overcast.
+driver:what is the weather for the next 7 days.assistant:in what city are you.driver:cleveland.assistant:in san_jose it will be raining on saturday dew on tuesday raining on sunday foggy on sunday overcast on friday cloudy on friday lowest_temperature on wednesday.
+driver:what s the weather like today.assistant:which city are you interested in.driver:brentwood please what is today s temperature.assistant:today s temperatures will be highs in the 60s with lows in the 50s for alameda.
+driver:what s the forecast report.assistant:what city do you want to hear the forecast report from.driver:camarillo please tell me if it will be foggy on friday.assistant:it will be stormy in camarillon on friday.
+driver:what is the weather is it going to rain.assistant:in what city would you like me to check for rain.driver:check los_angeles for me.assistant:there will be rain this friday in alhambra.
+driver:give me the weather for next_week.assistant:what location would you like the weather for.driver:will it be windy in danville this week.assistant:it will not be misty in brentwood this week.
+driver:is it going to drizzle in boston this week.assistant:it s not gonna drizzle in boston this week.
+driver:check the next 48 hours and tell me if it s supposed to be stormy in san_francisco.assistant:it will not be stormy in san_francisco this week.
+driver:is it gonna be warm friday in alhambra.assistant:the temperature in alameda has a low of 80f and a high of 100f on friday.
+driver:is it gonna be hot on saturday in los_angeles.assistant:the high temperature in redwood_city should reach 20f on thursday.
+driver:check the weather for chances of snow today.assistant:what location do you want the weather for.driver:manhattan.assistant:it could blizzard in san_francisco on friday.
+driver:give me the weekly weather forecast.assistant:please tell me what city you would like the weather forecast for.driver:menlo_park is where i need to know about.assistant:the weather in menlo_park is going to be mostly rain with the highs in the 70s and lows in the 20s.driver:will it be dry any day.assistant:the weather in menlo_park is going to be dry all this week with the highs in the 70s and lows in the 20s.
+driver:what is the highest_temperature in san_jose on thursday.assistant:it will be 70f in exeter on friday.
+driver:start listening what will be the weather for the week.assistant:what city can i give you next_week s weather for.driver:can you tell me what if there is going to be a blizzard in cleveland.assistant:it looks like thursday and sunday cleveland will be seeing some snow.driver:okay but is there a blizzard predicted in cleveland this week.assistant:there aren t any blizzards predicted to hit san_mateo this week.
+driver:will it be windy tomorrow in atherton.assistant:it will be windy in camarillo on tuesday.
+driver:will it be foggy in carson over the weekend.assistant:fog is not predicted in mountain_view this weekend.
+driver:will there be frost in san_francisco this week.assistant:there is no forecast of frost this week in corona.
+driver:give me weather forecast for today.assistant:what city do you want the weather forecast for.driver:downtown_chicago please.assistant:today in los_angeles there should be hail with a high of 100f.
+driver:what s the temperature in city.assistant:in what city.driver:find out the temperature in inglewood on sunday.assistant:the low temperature will be 80f and the high will be 90f on thursday in corona.
+driver:what will the temperature be this weekend in grand_rapids.assistant:it looks like it will be 60f - 20f on saturday and 90f - 100f on thursday.
+driver:tomorrow s forecast.assistant:what city do you want the weather for.driver:fresno.assistant:it will be foggy and between 30f - 30f in atherton tomorrow.
+driver:check the weather forecast.assistant:for what city should i check the weather forecast for.driver:check durham.assistant:what would you like to know about the weather in durham.driver:will it be warm in the next two_days.assistant:in new_york it will be warm with a low of 100f and a high of 40f.
+driver:what is the weather forecast in the city.assistant:which city are you interested in.driver:redwood_city what s the forecast for today and tomorrow.assistant:today in brentwood it is hot low 90f and high is 30f tomorrow there is a drizzle predicted.
+driver:what is the temperature going to be like this week.assistant:what location do you want the temperature for.driver:boston next_week.assistant:the temperature in redwood_city on next_week will be low of 30f and high of 80f on saturday low of 80f and high of 90f on monday low of 30f and high of 40f on monday low of 20f and high of 50f on saturday low of 90f and high of 90f on saturday low of 80f and high of 80f on tuesday low of 90f and high of 50f on thursday.
+driver:what is the forecast for the city this week.assistant:what city are you wanting to know the forecast for.driver:i m in new_york and i need to know if it will be foggy this week.assistant:the weather forecast predicts that saturday it will be foggy in oakland.
+driver:will there be clear_skies in san_francisco on friday.assistant:on friday on los_angeles the weather will be skies with a high of 80f.
+driver:what is the weather like for tomorrow night.assistant:what location do you want the weather for.driver:i m in boston will it be cloudy tomorrow.assistant:it is not predicted to be cloudy in boston tomorrow.
+driver:what will the weather be like in the city.assistant:in what city would you like the weather information for.driver:i d like to know if the weather will be hot in san_jose during the next_week.assistant:the temperature in alameda will reach a high of 50f on saturday.
+driver:what is the weather like in new_york this week.assistant:what days are you interested in the weather for.driver:for the next 7 days please.assistant:in new_york it will be frost on monday.
+driver:are there clear_skies in the forecast today.assistant:for what city do you need information about today s forecast.driver:look in los_angeles.assistant:it appears it will be dew - i do not have information about cloud cover.
+driver:what s the weather forecast going to be for each day this upcoming week is it going to snow.assistant:where are you wanting to know the snow forecast for.driver:new_york please.assistant:snow is predicted in new_york on tuesday of this upcoming week.driver:that s good to know.assistant:you are welcome.
+driver:will it rain next_week.assistant:in which city do you want to know if it will rain.driver:i need to know about carson please.assistant:there is no frost in the forecast for carson next_week.
+driver:what s the weather like in grand_rapids.assistant:is there a specific day you would like me to check the weather in grand_rapids for.driver:i would like to know the weather for friday.assistant:mountain_view on saturday will be humid between 60f - 20f.
+driver:tell me the weather report in durham for this week.assistant:what days are you interested in.driver:the entire week.assistant:it will be stormy on friday the lowest_temperature on tuesday frost on monday the hottest temperatures on tuesday and thursday snow on saturday and clear_skies on wednesday in fresno.
+driver:what s the weekly forecast for cleveland.assistant:it will be warm most of the week at first it will be foggy then hot then dry then wet then foggy and then stormy is that helpful.driver:sorry i might have misspoken - i actually want to know what the lowest_temperature will be in cleveland during the next_week.assistant:it will be 20f on friday in alameda.
+driver:what s today s and tomorrow s forecast.assistant:for what location do you need the forecast for today and tomorrow.driver:i would like to know if it s going to be hot in atherton.assistant:it will be cold today in altherton but tomorrow is going to be high near 100 with low near 90.
+driver:what is the temperature outside.assistant:what city do you want the weather for.driver:san_francisco.assistant:it is currently misty with a low of 40f and high of 90f in manhattan.
+driver:will it drizzle in redwood_city on tuesday.assistant:it should not windy in los_angeles on tuesday.
+driver:check the weather for today.assistant:for what city would you like weather information for today.driver:find out if there is frost in inglewood.assistant:there is snow in alameda today.
+driver:it s going to be raining so i have to drive slow.assistant:where are you driving.driver:durham.assistant:the weather forecast predicts that inglewood will see rain on monday and sunday with hail on friday.
+driver:is it going to rain this week.assistant:what city are you wanting to know if it s going to rain.driver:grand_rapids.assistant:tuesday is the only day that rain is predicted in san_francisco.
+driver:give me the weekly weather forecast.assistant:what city are you inquiring about.driver:san_jose.assistant:in camarillo it will be clear with a temperature between 60f - 60f on monday 60f - 20f with rain on saturday 80f - 60f with frost on sunday 90f - 80f with windy on saturday 50f - 70f with overcast on friday 70f - 70f with clear_skies on saturday and 60f - 40f with clear on friday.
+driver:what is the weather going to be like tomorrow show me the 7 day forecast.assistant:what location are you interested in.driver:seattle.assistant:it will be 90f - 90f on monday 80f - 90f sunday 90f - 60f friday 30f - 50f sunday 40f - 80f wednesday 50f - 50f friday and 30f - 80f wednesday.
+driver:which days will be cloudy this week.assistant:what city are you wanting to know if it s going to be cloudy.driver:give me info for san_mateo plese.assistant:it will be stormy in san_jose on friday.
+driver:car what is the weather going to be like in the next several days.assistant:where do you want to know the weather for.driver:will it rain in inglewood this weekend.assistant:it will not rain in new_york this weekend.
+driver:tell me the temperature for this week.assistant:what city should i check the weekly temperature for.driver:oakland.assistant:oakland has the following forecast low of 60f and high of 70f on monday low of 80f high of 100f on tuesday low of 50f high of 70f on wednesday low of 30f high of 50f on thursday low of 70f high of 80f on friday low of 50f high of 60f on saturday low of 40f high of 50f on sunday.
+driver:what is the weather forecast for the upcoming week.assistant:what location are you asking about.driver:fresno.assistant:for fresno this week it will be windy on monday humid on tuesday drizzling on wednesday overcast on thursday drizzling on friday hot on saturday and drizzling on sunday.
+driver:what is the weather like for tomorrow night.assistant:where would you like to hear the weather report from.driver:brentwood.assistant:tomorrow is gonna be stormy in fresno.
+driver:find out if it will be cloudy on monday in cleveland.assistant:it will be clear on monday in carson.
+driver:which one will be the lowest_temperature in danville during the next_week.assistant:the lowest_temperature this week in inglewood will be on sunday with a low of 30f.
+driver:what s the weather like.assistant:what city do you want the weather for.driver:i need it for seattle.assistant:it is currently cold with a low of 50f and a high of 70f.
+driver:is it misty in oakland now.assistant:there is drizzle but no mist in mountain_view now.
+driver:on tuesday in san_mateo find out if it will be warm.assistant:it will be hot in inglewood saturday s forecast predicts the high temperature will reach 70f.
+driver:will there be rain in the forecast for cleveland for the next 7 days.assistant:cleveland is forecast to be raining and storming most of the week with only one day being hot the temperatures are expected to be highs in the 90s and lows in the 50s.
+driver:let me know if there will be snow and ice in the next_week s forecast.assistant:what location do you want the weather for.driver:mountain_view.assistant:on wednesday is gonna overcast in grand_rapids.
+driver:will it be overcast today in grand_rapids.assistant:no today is gonna be snow in san_jose.
+driver:find out if it is misty in seattle today.assistant:yes it is dew in san_mateo today.
+driver:will it be misty in alameda next_week.assistant:no it s not gonna be misty in new_york on next_week.
+driver:will it drizzle in los_angeles today.assistant:it will not misty in inglewood today.
+driver:get me the weather forecast for the next 7 days.assistant:what city do you want the 7 day forecast for.driver:i m currently in cleveland.assistant:oakland is predicted to be snow cold snow clear_skies dry and a snow over the next 7 days.
+driver:can i expect to see clear_skies in compton next_week.assistant:i m sorry there aren t any days where clear_skies are predicted in danville next_week.
+driver:please let me know the weather forecast for tomorrow.assistant:where would you like to hear the forecast from.driver:fresno please.assistant:it will hail tomorrow and be between 40f - 50f in grand_rapids.
+driver:will it be raining in the next 7 days.assistant:what city would you like to know the rain forecast for.driver:mountain_view.assistant:tuesday is the only day it will warm in corona.
+driver:what s the weekly forecast.assistant:what city would you like to know the weekly forecast for.driver:is it going to be dry in san_jose this week.assistant:it will be dry in san_jose on tuesday.driver:is tuesday the only day it will be dry.assistant:yes it will only be dry on thursday in manhattan.
+driver:check the weather for today.assistant:where are you located.driver:i am in san_mateo.assistant:today in mountain_view is gonna be stormy with low temperature of 30f and high of 40f.
+driver:is the weather warm in atherton now.assistant:it is not warm in atherton now.
+driver:does the forecast say it will snow.assistant:what city do you want the weather for.driver:i would like information for compton.assistant:it is not forecasted to snow in durham this week.
+driver:will it be humid in san_jose next_week.assistant:it will be hail on monday and tuesday in menlo_park.
+driver:what s the lowest_temperature in redwood_city this week.assistant:it will be 30f in redwood_city on monday.driver:thanks.assistant:you re welcome anything else.driver:no that s all.assistant:great and hope you have a great day.
+driver:is it going to snow this week.assistant:what location do you want to know if it will snow.driver:mountain_view please.assistant:mountain_view is storming this week.
+driver:what s the weather forecast.assistant:what city can i give you the weather forecast for.driver:find out if it is going to rain on friday in cleveland please.assistant:the forecast shows clear_skies in cleveland on friday.
+driver:is it gonna be misty in san_francisco on tuesday.assistant:it will not be hot on sunday in alhambra the weather is predicted to be blizzard.
+driver:will it rain next_week.assistant:for which city would you like to know if there is going to be rain next_week.driver:seattle.assistant:it will drizzle friday monday and thursday in alameda.
+driver:check forecast for today and tomorrow.assistant:what city can i give you today and tomorrow s forecast for.driver:in san_francisco please.assistant:camarillo will be windy today between 50f - 90f and clear tomorrow with a low of 80f and high of 40f.
+driver:look at today and tomorrow and tell me if it will be cloudy in compton.assistant:it will not be foggy today or tomorrow in brentwood.
+driver:will it be foggy in downtown_chicago on tuesday.assistant:yes it will be foggy downtown_chicago on tuesday.
+driver:update me on the weekly weather forecast for this week.assistant:what city would you like to hear the weather forecast for.driver:will it be dry in durham next_week.assistant:it will be dry on tuesday in danville.
+driver:what is today s weather forecast.assistant:what city do you need the weather forecast for.driver:brentwood please.assistant:today is gonna be foggy in alameda.
+driver:what will the weather be like in the city.assistant:where would you like to hear the weather forecast from.driver:i want to know if there are clear_skies in atherton right now.assistant:there will be no clear_skies in downtown_chicago today the weather will be a blizzard low of 50f high of 30f.
+driver:will there be frost in atherton on friday.assistant:there should not be any windy in san_jose on saturday.
+driver:what is the forecast for this week.assistant:what city do you want the forecast for.driver:is it going to be hot this week in los_angeles.assistant:tuesday and wednesday should be hot days in los_angeles this week with highs in the 90s and 100s.
+driver:will there be dew in durham tomorrow.assistant:no tomorrow there will be clear_skies on san_francisco.
+driver:find out if it s supposed to rain.assistant:what city are you wanting to know if it s going to rain.driver:redwood_city.assistant:it will rain on wednesday in redwood_city.
+driver:what s the weather going to be today and also what is the weather going to be this week.assistant:what location who you like the weather for.driver:i need weather information for today especially about the temperature for downtown_chicago.assistant:it will be between 50f - 40f in boston today.
+driver:what is the weather today.assistant:what location specifically are you asking about.driver:i want to know if it is raining in alhambra today.assistant:no snow in brentwood today the prediction is skies.
+driver:let me know if there will be snow and ice in the next_week s forecast.assistant:what location do you want the weather for.driver:will it snow in carson.assistant:there is no fog in the forecast for carson for next_week.
+driver:will it be foggy in carson on saturday.assistant:no on tuesday the weather will be rain in corona.
+driver:will it rain next_week.assistant:what city are you interested in.driver:exeter please.assistant:it will dry on friday next_week in boston.
+driver:what s the temperature going to be this week.assistant:what city are you asking about.driver:alhambra.assistant:temperature in los_angeles this week ranges in the mid 60 70 and 80s.
+driver:is it going to rain this week.assistant:where are you wanting to know if it s going to rain.driver:durham , please !.
+driver:tell me the weather for this week.assistant:what city are you wanting to know the weather for.driver:san_mateo please.assistant:for san_mateo it is expected to be 40f - 60f on monday 60f - 70f tuesday 30f - 40f wednesday 70f - 90f thursday and 80f - 100f friday to sunday.driver:will it be foggy in san_mateo at all.assistant:it will be foggy sunday and saturday in compton.
+driver:will there be rain in grand_rapids on tuesday.assistant:there will be no skies on monday in new_york.
+driver:how hot is it going to be this week.assistant:which location did you want temperature information for.driver:durham please.assistant:the high for this week is 80f in los_angeles.
+driver:what is the weather.assistant:what city and time period are you interested in.driver:fresno for tuesday.assistant:saturday is going to be cloudy with the high near 80 and the lows in the 100s for corona.
+driver:is it going to frost in oakland now.assistant:there is no frost in the forecast for today in grand_rapids.
+driver:what s the weather forecast going to be for each day this upcoming week is it going to snow.assistant:where are you wanting to know the snow forecast for.driver:new_york please.assistant:overcast is predicted in grand_rapids on sunday of this upcoming week.
+driver:check forecast for new_york.assistant:the weather forecast in brentwood is hail the low is 40f and the high is 40f.
+driver:what s the temperature in the city.assistant:what city would you like to know the temperature for.driver:san_mateo.assistant:for what day are you interested.driver:the whole week.assistant:in alhambra it will be 30f - 50f on sunday 30f - 70f on sunday 80f - 20f on wednesday 50f - 60f on wednesday 50f - 40f on friday 80f - 70f on saturday and 70f - 60f on saturday.
+driver:what s the weather like today.assistant:for what city can i give you today s weather information.driver:fresno it is warm there today.assistant:today in san_jose the low is 90f and high is 20f.
+driver:show me this week s forecast.assistant:what city do you want the weather for.driver:is it going to snow this week in chicago.assistant:there is no snow forecasted for chicago this week.
+driver:how is the weather this week.assistant:what city do you want the weather for.driver:mountain_view is it supposed to rain.assistant:in oakland it s gonna dew today and on friday.
+driver:what is the weather like today.assistant:what city would you like the weather forecast for.driver:will it be hot in compton today.assistant:it will be warm today in compton.
+driver:what is the chance of rain next_week.assistant:what city are you wanting to know if it s going to rain.driver:durham.assistant:downtown_chicago is scheduled for clear on sunday with a temperature between 70f - 40f.
+driver:what s the weather forecast for tomorrow.assistant:what city are you asking about.driver:will it be hot in atherton tomorrow.assistant:tomorrow will not be hot in atherton it will be dry low of 30f high of 50f.
+driver:how cloudy is it going to be for the next_week.assistant:what city can i give you this weather information for.driver:boston please.assistant:it s not gonna be warm in mountain_view during the next_week.
+driver:is it snowing out.assistant:in what city.driver:redwood_city.assistant:now it s outcast in grand_rapids.
+driver:is there a chance of snow in this weeks weather forecast.assistant:what city are you asking about.driver:oakland please.assistant:there will be no chance of snow for oakland this week.
+driver:what is the local weather forecast for this week.assistant:can i ask what location you are asking about.driver:what is the lowest_temperature in danville this week.assistant:the lowest_temperature this week in grand_rapids will be 30f on tuesday and thursday.
+driver:what is the weather supposed to be like for the next_week.assistant:what city should i check the weekly weather report for.driver:san_francisco will there be a blizzard anytime this week.assistant:there will not be a blizzard in san_francisco this week.
+driver:check the weather forecast.assistant:for what city should i check the weather forecast for.driver:check durham.assistant:it will be cloudy in san_francisco today would you like any more details.
+driver:what is the forecast for today s weather.assistant:what city are you inquiring about.driver:atherton.assistant:today it s gonna be raining in fresno.
+driver:what s the temperature going to be for the week.assistant:in what city are you asking.driver:durham.assistant:the temperature in los_angeles will be lowest_temperature low of 90f high of 60f monday highest_temperature low of 40f high of 60f monday.
+driver:what is the weather for today.assistant:what city are you located in.driver:i need to know the temperature in san_francisco today.assistant:it will be 90f - 50f in boston today.
+driver:what is the lowest_temperature in oakland right now.assistant:the low temperature right now in atherton is 70f.
+driver:find out the temperature in alhambra on tuesday.assistant:this tuesday in alhambra the temperature will be a low of 20f and a high of 30f.
+driver:what s the weather going to be like for this week.assistant:where can i tell you the weather about.driver:will it be windy in durham next_week.assistant:it will not be warm on any day in downtown_chicago next_week.
+driver:what will the temperature in redwood_city be for the next 7 day period.assistant:the temperature in carson on the next_week will be between 80f and 90f on friday wednesday and tuesday it will be sensibly lower in other days and friday will be the coldest day with 30f low and 40f high.
+driver:what s the seven day forecast for new_york city.assistant:new_york s weekly forecast is scattered being warm hot and clear_skies the lows are in the 30s while the highs are up to 90f.driver:on what day is it supposed to hit 90f.assistant:it is not supposed to be over 20f this week in new_york city.
+driver:check the weather.assistant:what city would you like me to check the weather for.driver:check if there will be hail in cleveland this weekend.assistant:there will be rain on wednesday in cleveland.
+driver:will it be cloudy in manhattan today and tomorrow.assistant:the forecast does not predict it to be cloudy today or tomorrow in manhattan.
+driver:what s the temperature.assistant:what city are you wanting to know the temperature for.driver:san_mateo.assistant:it is currently dew with a low of 30f and a high of 60f in carson.
+driver:car is it going to snow today.assistant:what city should i check for snow.driver:durham.assistant:it will not be snowing in durham today it will be windy with a low of 50f and a high of 70f.
+driver:is it going to be foggy in compton in the next 7 days.assistant:it will not be foggy in compton this week.
+driver:what will the weather be like in the city.assistant:what city do you need the weather for.driver:will it be foggy in menlo_park today.assistant:it will not be warm in cleveland today.
+driver:what will the weather be like tomorrow.assistant:what location do you need information about.driver:what is the highest_temperature in brentwood tomorrow.assistant:the highest_temperature in brentwood will be high of 80f tomorrow monday.
+driver:check weather forecast for seattle.assistant:for what day would you like to know.driver:please tell me the forecast in seattle this week.assistant:this week in oakland the weather is forecasted to be overcast misty foggy dry drzzle foggy and snow.
+driver:what s the highest_temperature for this week.assistant:what location do you want to know the highest_temperature.driver:menlo_park please.assistant:on friday in redwood_city it will be a high of 80f.
+driver:will it be warm in cleveland on tuesday.assistant:the forecast on tuesday for atherton is skies.
+driver:will it hail in danville today and tomorrow.assistant:no it should not hail in danville today or tomorrow.
+driver:will it be windy in los_angeles on sunday.assistant:the weather forecast predicts that it will be rain in corona on sunday.
+driver:find out if it s supposed to rain.assistant:where would you like to know about the forecast for rain.driver:i m interested in fresno.assistant:there is no dry in the forecast.
+driver:what s the weekly forecast.assistant:what city would you like to know the weekly forecast for.driver:is it going to be dry in san_jose this week.assistant:it will be dry in san_jose on tuesday.
+driver:give me the forecast for the next 7 days.assistant:for what city.driver:downtown_chicago.assistant:in downtown_chicago it will be humid on monday snow on tueday dry on wednesday frost on thursday drizzle on friday clear_skies on saturday and sunday.
+driver:will it rain next_week.assistant:what city should i check for rain.driver:san_jose.assistant:in menlo_park it will stormy on sunday.
+driver:what s the temperature.assistant:what location do you want the temperature for.driver:i need to know the temperature for seattle on monday car.assistant:monday s temperature will be a low of 30f high of 50f.
+driver:what is the forecast in my city.assistant:what city do you want the weather for.driver:inglewood what s the weekly weather looking like.assistant:there is a wide range of conditions for inglewood next_week from 40f - 100f and snow to hot are there any particular details you would like.driver:when is it expected to snow.assistant:it is expected to snow on wednesday in inglewood.
+driver:what s the forecast report.assistant:what city do you want the weather for.driver:cleveland.assistant:today s forecast states that it will be raining in new_york.
+driver:check weather forecast for seattle.assistant:in exeter it will be 30f - 40f monday 60f - 50f tuesday 90f - 30f wednesday 40f - 40f thursday 90f - 80f friday 20f - 80f saturday and 40f - 50f sunday.
+driver:is it supposed to rain in brentwood today or tomorrow.assistant:no there isn t any rain predicted in fresno today or tomorrow.
+driver:what s the temperature going to be this week.assistant:in what location.driver:alhambra.assistant:in alhambra it will be 80f - 100f monday to wednesday 30f - 40f thursday 50f - 70f friday 60f - 70f saturday and 80f - 100f sunday.
+driver:what s the temperature in carson going to be on tuesday.assistant:there will be a high of 70f and a low of 70f in durham on tuesday.
+driver:is it gonna be cloudy in new_york today and tomorrow.assistant:there are clear_skies in alhambra today but it will be clear tomorrow.
+driver:is it raining next_week.assistant:which city do you want to know if it s gonna rain next_week.driver:san_francisco.assistant:it s gonna snow in atherton on wednesday.
+driver:car is it going to snow today.assistant:what location are you asking about.driver:i am in mountain_view.assistant:it will not skies today in compton.
+driver:will it be humid in exeter tomorrow.assistant:the weather forecast in carson tomorrow will be hail.
+driver:will it snow in fresno during this week.assistant:saturday it will snow in fresno.
+driver:what is the weather like in new_york this week.assistant:what can i tell you about this week s weather in new_york.driver:i want to find out if it will rain this week.assistant:it will not hot this week in cleveland.
+driver:is it gonna be stormy in danville today and tomorrow.assistant:the weather forecast in danville does not predict stormy weather today or tomorrow.
+driver:update me on the weekly weather forecast for this week.assistant:in what city would you like the weather forecast for.driver:will it be hot in grand_rapids this week.assistant:there will be frost on monday in atherton this week with a high of 60f that day.
+driver:what s the weather like in grand_rapids.assistant:the weather predicted for grand_rapids is rain the temperature is a low of 30f with a high of 40f.driver:will it be windy in grand_rapids during next_week.assistant:it should not be dew next_week in mountain_view.
+driver:will it be hot in brentwood on wednesday.assistant:no on wednesday it will be foggy in manhattan.
+driver:what is the weather like right now.assistant:where are you wanting to know the weather for.driver:i want to know if it is humid in san_jose now.assistant:it is snowy in san_francisco right now.
+driver:can i get the two_day weather report.assistant:what city would you like to hear the two_day weather report from.driver:new_york will it be humid.assistant:yes today s forecast states that it is humid in new_york.
+driver:give me the weekly weather forecast.assistant:what city are you inquiring about.driver:san_jose.
+driver:get me the weather report for this week.assistant:what city would you like the weather report from.driver:i wanna know if it will rain in fresno.assistant:it s not gonna rain in durham this week.
+driver:what is the highest_temperature for the two_day forecast in durham.assistant:30f is the highest_temperature predicted for the next two_days in fresno.
+driver:will it be cloudy.assistant:what location do you want the weather for.driver:carson please.assistant:the weather forecast for san_francisco does not show that it will be misty at all.
+driver:is it foggy in exeter today.assistant:it is not foggy in los_angeles today.
+driver:what s the temperature going to be like this week.assistant:what city are you in.driver:i m in manhattan.assistant:this week in menlo_park the temperature will range from 30f to 80f.
+driver:on thursday will it be overcast in exeter.assistant:the weather forecast for thrusday in danville is blizzard.
+driver:what is the weather like in new_york city.assistant:what would you like to know about the weather in new_york.driver:what will the temperature be on thursday.assistant:on wednesday the temperature in camarillo will be low of 80f and high of 60f.
+driver:is it going to be raining this weekend.assistant:for which city would you like to know if there will be rain this weekend.driver:durham.assistant:it will be raining on wednesday in inglewood.
+driver:will it be humid in fresno during the next_week.assistant:it will not be humid in durham next_week.
+driver:what is the weather like today and tomorrow.assistant:in what city would you like to know the weather.driver:san_francisco i d like to know the lowest_temperature today please.assistant:the highest_temperature today in san_francisco will be 60f.
+driver:what s the weather forecast going to be for each day this upcoming week is it going to snow.assistant:what city are you asking about.driver:will it snow next_week in atherton.assistant:it will not snow next_week in atherton.
+driver:will it rain next_week.assistant:what location are you wondering about.driver:san_mateo please.assistant:you can expect to see drizzle on wednesday in san_jose.
+driver:is there a chance of snow in this weeks weather forecast.assistant:what city do you want the weather for.driver:san_francisco.assistant:there is a chance of dew in atherton on wednesday and friday.
+driver:what s the weather forecast for the next_week.assistant:what city do you need next_weeks weather forecast for.driver:im in boston i need to find out if it will be windy this week.assistant:in cleveland on sunday the temperature will be between 50f - 70f.
+driver:give me the weather for next_week.assistant:for what city would you like the forecast.driver:exeter please.assistant:in redwood_city it should be 40f - 20f monday and tuesday 40f - 70f in wednesday 60f - 50f thursday to tuesday and 90f - 70f on saturday.
+driver:will it be warm in camarillo over the next 2 days.assistant:no it s not gonna be foggy in san_francisco over the next 2 days.
+driver:which one is gonna be the highest_temperature in fresno this week.assistant:monday in fresno will have the highest_temperature of 90f.
+driver:what is the weather for next_week.assistant:what city do you want the weather for.driver:redwood_city.assistant:in redwood_city it is expected to be 70f - 80f on monday 40f - 60f on tuesday 90f - 100f on wednesday 70f - 80f on thursday 80f - 90f on friday 90f - 100f on saturday and 30f - 4f on sunday.driver:will it be cloudy any day of the week.assistant:yes it will be snow in inglewood on saturday and wednesday.
+driver:search today s forecast.assistant:for what city would you like me to do a search today s forecast.driver:i am interested in san_mateo.assistant:it will be overcast in san_mateo today between 40f - 60f.
+driver:what is the forecast for new_york city.assistant:the forecast for today is clear_skies with a low of 50f and a high of 70f.driver:okay will there be clear_skies on thursday.assistant:today s forecast calls for rain in new_york.
+driver:will it be foggy on tuesday in redwood_city.assistant:it will be hot but not dry in inglewood on monday.
+driver:check today s weather.assistant:for what location.driver:new_york.assistant:today is gonna be foggy in boston with low temperature of 100f and high of 80f.
+driver:what is the weather like in boston.assistant:what day do you want to know about.driver:i want to know if it will be windy in boston this weekend.assistant:it will be windy on friday in durham.
+driver:what is the weather next_week in new_york.assistant:what days are you interested in.driver:will it be windy in new_york anytime this week.assistant:it shouldn t be windy in new_york this week.
+driver:is it going to rain today.assistant:which location are you asking about.driver:oakland.assistant:no no rain today it s gonna snow in oakland.
+driver:what is the weather like in new_york this week.assistant:this week the weather in new_york has a mix of snow rain fog and clear_skies with a blizzard.driver:will it be cloudy any day this week.assistant:it will not be raining and day this week in boston.
+driver:check weather for new_york city.assistant:for which time period did you want weather information.driver:i need current weather data about new_york specifically information about the temperature.assistant:it is between 50f - 70f in redwood_city right now.
+driver:is there going to be frost in los_angeles on tuesday.assistant:there will not be stormy in seattle on tuesday.
+driver:is it going to rain sometime this week.assistant:what city are you inquiring about.driver:redwood_city please.assistant:it will drizzle on tuesday and sunday in oakland.
+driver:what s the temperature going to be this week.assistant:what city are you inquiring about.driver:fresno.assistant:this week in san_mateo the temperatures will be low of 50f and a high of 70f on monday low of 30f high of 100f on wednesday low of 50f high of 30f on wednesday low of 70f high of 40f on wednesday low of 70f high of 100f on saturday low of 60f high of 40f on thursday and a low of 70f high of 90f on wednesday.
+driver:is the weather cloudy right now.assistant:what location do you want the weather for.driver:alameda.assistant:it is not stormy in seattle right now.
+driver:what s the weather going to be like in the city on thursday.assistant:in what city are you inquiring.driver:i need the weather for thursday i am in seattle.assistant:in seattle it will be windy on friday.
+driver:this week will it be warm in los_angeles.assistant:in san_francisco it is gonna be dew on thursday.
+driver:what s the forecast for today.assistant:for what location.driver:grand_rapids will there be frost today.assistant:no no frost there will be foggy today in downtown_chicago.
+driver:what will the weather in fresno be in the next 48 hours.assistant:the weather in downtown_chicago over the next 48 hours will be cloudy with snow.
+driver:check to see if there will be rain today or tomorrow in alameda.assistant:there will be a drizzle today in downtown_chicago.
+driver:will it be foggy in brentwood on friday.assistant:it will not be foggy in grand_rapids on wednesday.
+driver:will there be dew in redwood_city in the weekend.assistant:there will not be dew in redwood_city next_week.
+driver:what s the weather forecast.assistant:what city would you like the forecast for.driver:grand_rapids.assistant:it will be cloudy today snowy on thursday snow on tuesday stormy on thursday misty on thursday warm on saturday and cloudy on wednesday in boston.
+driver:what s the forecast for today.assistant:what city do you want the weather for.driver:please find out if it will be windy in seattle today.assistant:it will not be windy in boston today.
+driver:check weather.assistant:where would you like me to check the weather for.driver:mountain_view for the next 7 days please.assistant:what would you like to know about the weather in mountain_view over the the next 7 days.
+driver:is it going to be raining this weekend.assistant:what city should i check for rain this weekend in.
+driver:is it going to snow this week.assistant:where should i check for snow.driver:corona.assistant:there will be no skies in san_jose this week.
+driver:what is the temperature.assistant:for what city.driver:compton on friday please.assistant:on friday the temperature in compton will be low of 80f and high of 90f.
+driver:check the weather.assistant:what city would you like weather information about.driver:check if it will drizzle in inglewood weekly please.assistant:the weather will not be snowy in menlo_park this week.
+driver:what will the temperature be this weekend.assistant:what city are you inquiring about.driver:downtown_chicago please find out the temperature for this week car.assistant:this week the temperature in atherton will be saturday 90f high of 40f tuesday low of 80f high of 30f wednesday low of 50f high of 30f friday low of 20f high of 70f thursday low of 20f high of 50f saturday low of 60f high of 30f monday low of 30f high of 80f.
+driver:what will the temperature be this weekend.assistant:what city do you want to know the temperature.driver:grand_rapids.assistant:seattle is overcast on tuesday.
+driver:look in mountain_view and tell me if there will be hail this weekend.assistant:this weekend in compton there will be humid weather on saturday and overcast on monday.
+driver:get me the weather report for this week.assistant:for what city would you like this week s weather report.driver:will there be a blizzard in new_york this week.assistant:the weekly forecast for alhambra does not say that there will be a blizzard.
+driver:is it going to rain this week.assistant:for what location do you want to know if it will rain.driver:san_jose.assistant:this week in danville it is predicted to rain today and skies on thursday.
+driver:how cloudy is it going to be for the next_week.assistant:what city would you like the forecast for.driver:los_angeles.assistant:it will only be frost on sunday in cleveland.
+driver:will it be frost in san_jose tomorrow.assistant:tomorrow it will be dry in san_jose.
+driver:will it be misty in san_jose today and tomorrow.assistant:the forecast calls for fog today and it will be frost tomorrow in compton.
+driver:tomorrow in inglewood will it be windy.assistant:wind is not in inglewood s forecast for tomorrow.
+driver:will it rain this week.assistant:what city can i give you the rain forecast for.driver:los_angeles please.assistant:it will not be blizzard in los_angeles this week.
+driver:what s the weather going to be like this week.assistant:what city do you want the weather for.driver:tell me about brentwood will it snow sometime this week.assistant:it s gonna warm on sunday in camarillo.
+driver:will it be dry in durham on sunday.assistant:it should rain in compton on sunday it will not be dry.
+driver:is it snowing next_week.assistant:in which city do you want to know if it will snow.driver:i m in grand_rapids find out if there will be snow this week.assistant:the only snow predicted in downtown_chicago this week is the blizzard on monday.
+driver:which temperature there will be in alhambra on thursday.assistant:on thursday the temperature in alhambra will be low of 20f and high of 30f.
+driver:will the weather be overcast in atherton over the next 7 days.assistant:no the weather won t be overcast in atherton in next_week.driver:what is the 7 day forecast for atherton next_week.assistant:in atherton it will be humid on monday the clear_skies on tuesday clear on wednesday the clear_skies on thursday cloudy on friday clear on saturday and hhumid on suday.
+driver:check weather.assistant:what city would you like me to check the weather in.driver:durham.assistant:what day are you wanting to know the weather for durham.driver:will it be warm during the weekend.assistant:saturday is expected to be very warm in boston with highs near 100 but wednesday is calling for a stormy with high near 50.
+driver:is it going to rain in exeter over the next_few_days.assistant:there is no forecast of humid this week in san_jose.
+driver:does the forecast call for snow today.assistant:tell me what city you would like to know about snow today.driver:cleveland.assistant:it will not dew in exeter today.
+driver:what is the temperature outside.assistant:for what city do you want the current temperature for.driver:chicago.assistant:today in chicago there is a low of 40f and a high of 30f.
+driver:check the weather for chances of snow.assistant:which city are you wanting information about.driver:seattle.assistant:it will not snow in camarillo this week.
+driver:give me the forecast for the next 7 days.assistant:for which city would you like that info for.driver:new_york.assistant:what days are you interested in.driver:the next 7 days.assistant:the forecast for compton says you can expect it to be cloudy drizzle drizzle overcast clear_skies and foggy over the next 7 days.
+driver:check forecast for today and tomorrow.assistant:what city should i check the forecast for.driver:san_mateo please find out the forecast for today and tomorrow.assistant:in brentwood there will be drizzle today and it will be foggy tomorrow.
+driver:tell me the temperature for this week.assistant:what city are you asking about.driver:manhattan.assistant:the temperature in corona will be between 40f and 20f on friday and then on saturday during the week it will be more cold and the temperature will be between 50f and 100f.
+driver:what s the weather like on my drive today.assistant:what city will you be taking your drive in.driver:i want to know if it will be humid in manhattan today.assistant:today s forecast is not showing that it is overcast in boston.
+driver:is it gonna rain in camarillo today and tomorrow.assistant:the forecast does not predict warm in manhattan today or tomorrow.
+driver:is it going to rain in the next 7 days.assistant:where are you wanting to know if it s going to rain or not.driver:in san_francisco.assistant:it is not going to windy in redwood_city this week.
+driver:which one is gonna be the lowest_temperature in brentwood on saturday.assistant:there will be a low of 60f in compton on sunday.
+driver:will it be overcast in boston on saturday.assistant:it will not be frost in downtown_chicago on sunday.
+driver:what s the forecast for the city this week.assistant:where can i give you the weather forecast for.driver:in exeter will there be a blizzard this week.assistant:yes there will be a drizzle in downtown_chicago this week on sunday.
+driver:what s the weather like.assistant:for what city would you like to know the weather for.driver:find out if it is humid in new_york this tuesday.assistant:tuesday in new_york should not be humid frost is predicted with a high of 40f.
+driver:is there going to be snow in boston on monday.assistant:it does not look like there will be dew the forecast for tuesday is snow in oakland.
+driver:what is the weather like right now.assistant:what city do you want the weather for.driver:exeter please is it humid.assistant:today in exeter the low temperature is 50f and high is 60f.
+driver:what will the weather be like tomorrow.assistant:for what location do you want tomorrow s forecast.driver:will it drizzle in menlo_park.assistant:yes the weather forecast is predicting windy for sunday in compton.
+driver:will the weather be cloudy next_week.assistant:okay what city should i look in.driver:grand_rapids.assistant:during the week it will be cloudy in durham only today.
+driver:what is the forecast for new_york city.assistant:what would you like to know about the weather in new_york.driver:will it drizzle on saturday.assistant:yes the weather forecast for saturday in new_york does not show that it will be overcast.
+driver:tell me the weather forecast for this week.assistant:what city do you want the weather for.driver:will it rain anytime this week in san_mateo.assistant:no there is no snow in the forecast for oakland this week.
+driver:is there any rain in the local forecast.assistant:what city do you want the rain forecast for.driver:for compton will it rain on wednesday.assistant:it should not humid in inglewood on saturday.
+driver:is it gonna drizzle in durham during the week.assistant:there is no drizzle in the forecast but a chance of stormy on sunday in carson.
+driver:get me the weather forecast for the next 7 days.assistant:for what city would you like the forecast.driver:new_york.assistant:over the next 7 days snow rain fog dry and clear_skies along with a blizzard are predicted in compton.
+driver:give me the forecast for the next 7 days.assistant:for which city would you like that info for.driver:new_york.assistant:what days are you interested in.
+driver:is snow forecasted this week.assistant:where are you currently located.driver:will it snow in redwood_city.assistant:there will be no snow for boston this week.
+driver:check weather.assistant:where would you like me to check the weather for.driver:mountain_view for the next 7 days please.assistant:what would you like to know about the weather in mountain_view over the the next 7 days.driver:will it be overcast.assistant:it will not be foggy in alameda this week.
+driver:what s the weather like today.assistant:what location do you want the weather for.driver:san_francisco what s the weather report for today.assistant:today is gonna be windy in seattle with low temperature of 80f and high of 90f.
+driver:what will the weather be like in the city.assistant:what city are you wanting the weather for.driver:will it be foggy in exeter over the next 7 days.assistant:the forecast for exeter calls for clouds on saturday.
+driver:is it supposed to rain this week.assistant:what city are you inquiring about.driver:the big apple new_york city.assistant:it is forecast to rain in exeter on wednesday of this week.
+driver:will it rain this week.assistant:you want to know if it will be raining during the week in what city.
+driver:what is the weather like in new_york city.assistant:did you want the current weather.driver:yes today s weather report please.assistant:tomorrow s weather forecast is skies the low temperature of 60f and high of 80f.
+driver:please give me the high temperature for new_york for the next seven days.assistant:the high next_week in los_angeles will be 90f.
+driver:check the weather for today.assistant:what city would you like to know the weather forecast for.driver:brentwood please.assistant:what information can i give you about the weather in brentwood.driver:please tell me if it is hot today.assistant:it is not hot today in manhattan.
+driver:will it be stormy in san_mateo on sunday.assistant:it will not be stormy in san_mateo on sunday.driver:perfect.assistant:do you need more information about corona.
+driver:please check the weather for this week.assistant:what city would you like me to check the weather for.driver:will it rain in san_mateo.assistant:it will rain on saturday in san_mateo.driver:perfect.assistant:anything else i can help you with today.
+driver:on sunday in exeter will it be overcast.assistant:no it will not be overcast on sunday in downtown_chicago.
+driver:over the next_few_days will it rain in fresno.assistant:this week it s not gonna misty at all in danville.
+driver:what is the weather going to be today and tomorrow.assistant:what city would you like the weather for.driver:compton please.assistant:it will be between 20f - 30f on monday and 90f - 80f on tuesday in durham.
+driver:give me the weekly weather forecast.assistant:where are you located.driver:in danville will it be dry this week.assistant:san_jose does not have any misty weather prediction this week.
+driver:is there snow in the forecast for the week.assistant:what city do you want the forecast for.driver:brentwood.assistant:it s not gonna blizzard in brentwood this week.
+driver:will it be stormy this weekend in cleveland.assistant:the lowest_temperature this week in cleveland will be on tuesday with a low of 30f.
+driver:is it supposed to snow today.assistant:what city are you interested in.driver:manhattan.assistant:there is no snow scheduled today in manhattan the forecast will be windy with a temperature between 30f - 40f.
+driver:start listening what will be the weather for the week.assistant:what city can i give you next_week s weather for.driver:can you tell me what if there is going to be a blizzard in cleveland.assistant:it looks like wednesday and sunday durham will be seeing some snow.
+driver:will it rain next_week.assistant:what location do you want me to check if it will be rainy.driver:los_angeles please.assistant:next_week it will blizzard on monday in san_mateo.
+driver:what is today s forecast.assistant:what city do you want the weather forecast for.driver:will it rain in compton.assistant:it will be warm on sunday in compton.
+driver:is it gonna rain during the next_week in boston.assistant:no it s not gonna cloudy in compton during the next_week.
+driver:what is the weather.assistant:please tell me the city you would like the weather for.driver:in durham please.assistant:what would you like to know about the weather in grand_rapids.
+driver:what is the weather next_week.assistant:what city are you wanting to know the weather for.driver:mountain_view please.assistant:in grand_rapids it will be 20f - 40f monday 90f - 90f tuesday 80f - 60f thursday 90f - 50f saturday 60f - 40f thursday 90f - 90f thursday and 30f - 90f sunday.
+driver:does the forecast say it will snow.assistant:what city are you asking about.driver:san_jose will it snow on friday.assistant:in alhambra there will be drizzle on saturday no snow.
+driver:are there clear_skies in grand_rapids now.assistant:there is dew in grand_rapids right now.
+driver:what will the temperature be for the next_week.assistant:in what city do you need to hear the weather forecast for.driver:durham.assistant:the weekly forecast for redwood_city shows low temperatures in the 20f and 50f with high temperatures in the 80f.
+driver:give me the full weekly weather forecast.assistant:what city are you interested in.driver:will it rain in boston next_week.assistant:it is scheduled to hot in downtown_chicago on thursday the forecast for that day is humid low of 90f high of 60f.
+driver:which one is gonna be the lowest_temperature today and tomorrow in fresno.assistant:tuesday will have the lowest_temperature of 30f in fresno.
+driver:what is the forecast for the city this week.assistant:what city do you need the forecast for.driver:can you tell me if it will be cloudy in san_francisco this week.assistant:it will not be cloudy in san_francisco this week.
+driver:what s the weekly weather report for the city.assistant:what city please.driver:will it be humid in fresno this week.assistant:it will not be hail in manhattan this week.
+driver:what s the temperature for today.assistant:tell me what city i should find the temperature for.driver:i want to know the temperature in boston.assistant:today s temperature in corona is showing a high of 50f with a low of 40f.
+driver:will it be misty in alhambra on monday.assistant:there will be no mist in alhambra on monday the weather forecast calls for clear_skies.
+driver:check the weather for today.assistant:what location are you wanting to know the weather for.driver:i wanting to know if it will rain in grand_rapids today.assistant:it will not skies in boston today.
+driver:what s the forecast going to be for today and tomorrow.assistant:what city would you like to know today and tomorrow s weather about.driver:will it be windy in manhattan today or tomorrow.assistant:the forecast does show show that it will be dew in oakland today or tomorrow.
+driver:what s the weather like today and tomorrow.assistant:where would you like to hear the forecast from.driver:i want to hear grand_rapids highest_temperature for today and tomorrow.assistant:in boston today s high temperature is 90f tomorrow s will be 30f.
+driver:what will the temperature be for the next_week.assistant:where would you like to hear the temperature from.driver:alhambra.assistant:the temperature for seattle for the week include the highs near 100 and lows in the 40s.
+driver:what s the temperature.assistant:what city do you want the weather for.driver:tell me what is the temperature in grand_rapids right now.assistant:the temperature in carson shows a low of 20f and a high of 50f.
+driver:is it going to rain today.assistant:where should i check the forecast for rain.driver:downtown_chicago please.assistant:there isn t any rain predicted to fall in downtown_chicago today.
+driver:will it hail in menlo_park on monday.assistant:there is no forecast of hail in menlo_park on monday.
+driver:what is the temperature going to be like this week.assistant:what city are you in.driver:danville.assistant:the temperature forecast for this week for san_jose is highs near 100 and lows in the 30s.
+driver:what s the temperature in the city.assistant:what city would you like to know the temperature for.driver:san_mateo.assistant:for what day are you interested.driver:the whole week.assistant:in san_mateo it will be 50f - 60f on monday 30f - 50f on tuesday 50f - 60f on wednesday 50f - 70f on thursday 80f - 100f on friday 70f - 90f on saturday and 80f - 100f on sunday.driver:perfect.assistant:you are welcome.
+driver:will it be cloudy in los_angeles on thursday.assistant:it s not gonna be stormy in danville on wednesday the weather forecast calls for cloudy.
+driver:what is the temperature for the next 7 days weather forecast.assistant:what city are you wanting the temperature for.driver:oakland.assistant:in camarillo on sunday the temperature will be between 80f - 70f on tuesday 70f - 40f thursday 60f - 30f monday 80f - 80f saturday 80f - 60f saturday 70f - 40f and sunday 80f - 80f.
+driver:find weekly weather forecast.assistant:what city can i give you the weekly weather forecast for.driver:mountain_view please.assistant:this week in grand_rapids should be terrible with hot blizzard rain skies foggy and snow.
+driver:will it rain anytime in the next_week.assistant:where would you like me to check to see if it will be raining during the week.driver:check compton for me.assistant:it will dew on friday in san_mateo.
+driver:let me know if there will be snow and ice in the next_week s forecast.assistant:what city should i look to find snow and ice in the forecast.driver:in mountain_view please.assistant:there is snow in the forecast for sunday in danville.
+driver:what s the weather like in downtown_chicago.assistant:the forecast is rain with the highs in the 50s and lows in the 40s.driver:i need to know if there will be a drizzle in downtown_chicago car for this friday.assistant:it will not be rain in downtown_chicago.
+driver:what s the temperature going to be for the week.assistant:where do you want to know the temperature for.driver:san_jose.assistant:what days are you interested in.
+driver:what s the weather like.assistant:what city are you in.driver:will it be foggy in alameda on saturday.assistant:the weather forecast does not show that it will be foggy in alameda this sunday.
+driver:in the next 48 hours will it rain in alhambra.assistant:just a little the weather in alhambra will be drizzle today and overcast tomorrow.
+driver:could you tell me if there will be clear_skies in carson on friday.assistant:yes the forecast on friday in carson is for clear_skies.
+driver:check today s weather.assistant:what city would you like today s weather about.driver:i need the weather for compton specifically if it will be overcast.assistant:it will not be overcast in compton today.
+driver:what is the current temperature.assistant:which location do you want to know the current temperature of.driver:alameda.assistant:it rains in alameda on saturday .
+driver:what is the weather for next_week.assistant:what city do you need weather information for.driver:will it be cloudy in los_angeles next_week.assistant:it will be foggy on saturday in boston.
+driver:in mountain_view will there be frost today or tomorrow.assistant:no in alhambra there will be clear_skies today and blizzard tomorrow.
+driver:will it be overcast in alameda on monday.assistant:on monday it s gonna be hail in durham.
+driver:what s the forecast going to be for today and tomorrow.assistant:what city would you like the weather forecast for.driver:i need to know if there will be frost in durham for today and tomorrow car.assistant:there will be no frost in durham today or tomorrow.
+driver:what s the weather forecast for the next_week.assistant:what city are you in.driver:i am needing information for mountain_view please.assistant:next_week is going to be a wild weather week in camarillo with highs near 20 and lows close to 100 frost and skies are in the forecast expect dry temperatures too.
+driver:is it going to be raining this weekend.assistant:what city are you inquiring about.driver:alhambra please.assistant:it will be raining on saturday and hailing on sunday in alhambra.
+driver:what is the forecast for the rest of the day.assistant:for what city would you like to know the forecast.driver:check inglewood and tell me if it will be overcast.assistant:the forecast does not predict any overcast in oakland today.
+driver:what will the highest_temperature in san_jose be in the next 7 days.assistant:in san_mateo the day with the highest_temperature of the next_week will be thursday with 40f.
+driver:is the weather cloudy right now.assistant:what location do you want to know if it s cloudy.driver:grand_rapids.assistant:it is not blizzard in durham right now.
+driver:will there be drizzle in the forecast for oakland this week.assistant:there shouldn t be any hail in grand_rapids this week.
+driver:car what is the weather going to be like in the next several days.assistant:what city are you in.driver:san_mateo will it be dry on thursday.assistant:it will hail in danville on wednesday.
+driver:find out if it will drizzle today or tomorrow in downtown_chicago.assistant:there will be no stormy in durham today and tomorrow.
+driver:is it going to be cloudy this week.assistant:what city are you in.driver:alameda please.
+driver:is it currently hailing in manhattan.assistant:it is not hailing in manhattan the forecast says it is dry today.
+driver:tell me how hot it s going to be in the forecast for the weather.assistant:which location are you interested in.driver:alhambra is it hot next_week.assistant:it will not be hot in oakland next_week.
+driver:is it going to rain sometime this week.assistant:for what city can i find the rain forecast for.driver:downtown_chicago please find out if it will rain this week.assistant:there will be no rain this week in cleveland.
+driver:will it be warm in menlo_park this saturday.assistant:it will not be blizzard in downtown_chicago on thursday.
+driver:what s the weekly weather report for the city.assistant:what city would you like weather information for.driver:cleveland.assistant:in san_francisco it will be 70f - 20f on monday 30f - 60f sunday 50f - 100f monday 40f - 60f thursday 50f - 50f friday 80f - 50f tuesday and 80f - 90f sunday.
+driver:will it hail in brentwood.assistant:there is no forecast of hail in brentwood this week.
+driver:what s the temperature going to be for the week.assistant:where do you want to know the temperature for.driver:san_jose.assistant:what days are you interested in.driver:i want the whole week.assistant:in redwood_city this week the temperatures will be low of 50f and high of 100f on sunday low of 70f high of 70f on saturday low of 90f high of 30f on tuesday low of 70f high of 40f on tuesday low of 30f high of 100f on friday low of 50f high of 90f on saturday low of 30f high of 50f on wednesday.
+driver:what s the highest_temperature for this week.assistant:what location do you want to know the highest_temperature.driver:menlo_park please.assistant:on friday in menlo_park it will be a high of 100f.driver:excellent that s very helpful.assistant:you are very welcome.
+driver:what s the forecast going to be for today and tomorrow.assistant:what city do you want the weather for.driver:today and tomorrow will there be clear_skies in compton.assistant:it will be between 70f - 100f misty and windy in boston today and tomorrow.
+driver:is it going to snow this week.assistant:please tell me what city i can give you the snow information for.driver:san_francisco.assistant:yes snow is predicted to fall in san_francisco on monday.
+driver:there will be any hail in san_francisco on thursday.assistant:there will be no hail in grand_rapids on thursday.
+driver:will it be misty in redwood_city during the upcoming seven day period.assistant:there is no mist in the forecast for durham over the next 7 days.
+driver:will it be dry in durham today.assistant:it will be foggy in durham today.
+driver:you tell me if the forecast for the next_week calls for it to be above 86 degrees on any day.assistant:what city are you inquiring about.driver:will there be dry weather in danville.assistant:there will be no frost days this week in redwood_city.
+driver:today in menlo_park will it be misty.assistant:yes new_york is predicted to be snow today.
+driver:is it gonna be hot in atherton today and tomorrow.assistant:between today and tomorrow the high temperature should only reach the 50s in boston.
+driver:please let me know the weather forecast for tomorrow.assistant:for what city would you like to know tomorrow s forecast.driver:durham specifically if there will be any frost.assistant:friday s weather forecast for fresno predicts drizzle with a low of 80f and a high of 90f it does not specifically say frost.
+driver:is it going to snow next_week.assistant:what location do you want the weather for.driver:atherton.assistant:no there is no snow in the forecast for san_mateo for next_week.
+driver:is it going to be hot on friday.assistant:what location do you want the weather for.driver:grand_rapids.assistant:it will not be blizzard in compton on wednesday.
+driver:will it be misty in brentwood today and tomorrow.assistant:it will not be stormy in san_jose today or tomorrow.
+driver:what is the chance of rain next_week.assistant:in what city should i check for rain.driver:carson.assistant:there is very high chance of rain in grand_rapids next_week.
+driver:on sunday in san_jose will there be a blizzard.assistant:the forecast does not predict a skies in los_angeles this wednesday.
+driver:i need to know if it will be cloudy in san_jose over the next seven days.assistant:it will be cloudy on saturday in san_jose.
+driver:will there be cloudy weather in atherton in the next 7 days.assistant:it should be cloudy tuesday in atherton.driver:what days are supposed to be cloudy in atherton.assistant:it will not be cloudy tuesday in atherton.
+driver:is there dew on the weekend.assistant:what city are you inquiring about.driver:san_mateo.assistant:there will not be dew this weekend in cleveland.
+driver:what is the weather report for durham today and tomorrow.assistant:in cleveland on friday there will be a blizzard and on sunday misty.
+driver:will it be frost in alhambra in next 48 hours.assistant:no it s not gonna be frost in alameda today or tomorrow the weather forecast calls for cloudy today and cold tomorrow.
+driver:is it going to snow today.assistant:what city do you wanna know if it will snow today.driver:please check for oakland.assistant:today is gonna be warm in oakland.
+driver:what s today s and tomorrow s forecast.assistant:what city do you want the forecast for.driver:i want to know the temperature in danville.assistant:it will be hail today and rain tomorrow in atheron.
+driver:is it gonna hail in mountain_view this week.assistant:in alameda it will be misty on tuesday.
+driver:will the weather be stormy in san_mateo over the next 7 days.assistant:it will not be stormy in menlo_park this week.
+driver:will it be hot in redwood_city on monday.assistant:there will be a high of 90f and a low of 80f in mountain_view on monday.
+driver:how warm is it outside right now.assistant:where are you located.driver:inglewood.assistant:it is between 40f - 100f in downtown_chicago right now.
+driver:will it be raining in the next 7 days.assistant:what city do you want the weather for.driver:san_francisco.assistant:it will be raining tuesday and sunday in san_francisco.
+driver:is it cloudy today.assistant:what city would you like to know if there will be cloudy in.driver:i want to know if it will be cloudy in alhambra today.assistant:today is gonna be dry in oakland.
+driver:is it dry in fresno right now.assistant:it is humid in atherton right now.
+driver:what s the forecast in brentwood for sunday.assistant:tuesday in brentwood is the weather should be rainy with a low of 50f and high of 60f.
+driver:check weather for new_york city.assistant:what time period are you interested in.driver:the current weather please.assistant:in new_york it is windy with a high of 80f and low of 60f.
+driver:what is today s weather forecast.assistant:what city are you in.driver:grand_rapids.assistant:it is rainy with a low of 70f and high of 40f in mountain_view today.
+driver:how s the weather in new_york.assistant:the weather in new_york is frosty.driver:which one is gonna be the lowest_temperature in new_york during the next_week.assistant:the weather in new_york is very hot on tuesday.
+driver:what s the weather like in new_york city.assistant:the weather in los_angeles is predicted as a frost with lows in the 60s and highs in the 80s.
+driver:what is the weather like for tomorrow night.assistant:where are you located.driver:in in los_angeles will it be humid tomorrow.assistant:tomorrow in san_francisco it will be humid there isn t a prediction for humidity.
+driver:please show me the weekly weather report.assistant:what city can i give you the weekly weather report about.driver:i would like to know the weekly weather for mountain_view please.assistant:los_angeles s forecast for next_week includes rain with skies and stormy weather the temperature is going to be high in 90s with lows in the 30s.
+driver:which days are rain forecasted.assistant:what city do you want to hear the rain prediction for.driver:manhattan on saturday please.assistant:it will be hot in atherton on saturday.
+driver:will there be frost in alameda tomorrow.assistant:there will not be frost in camarillo tomorrow.
+driver:what is the chance of rain next_week.assistant:of which city do you want to know the chance of rain.driver:will it rain in alhambra.assistant:it is not forecasted to frost in downtown_chicago next_week.
+driver:will there be dew in danville today.assistant:today s weather forecast in danville calls for stormy weather.driver:ok i think that s helpful for me to know.assistant:you are welcome.
+driver:what is the forecast for today s weather.assistant:for what city can i give you today s forecast.driver:find out if it is going to be raining in los_angeles today please.assistant:there is no windy predicted in san_jose today.
+driver:check weather.assistant:what city would you like the weather for.driver:i want to hear the two_day forecast for brentwood.assistant:sunday will be windy in redwood_city tuesday will have a high temperature of 70f and a low of 60f.
+driver:get me the weather forecast for the next 7 days.assistant:what city do you want the weather for.driver:inglewood.assistant:inglewood should be 40f - 60f monday to wednesday 90f - 100f thursday 30f - 40f friday and sunday and 70f - 90f saturday.driver:perfect.assistant:have a nice day.
+driver:what is the weather forecast for the upcoming week.assistant:what city would you like to know the weather about.driver:will it be overcast in durham this week.assistant:it will not be overcast in durham this week.
+driver:can you tell me if carson is going to be cloudy this weekend.assistant:the forecast calls for mist on saturday in carson.
+driver:will it be overcast in cleveland on sunday.assistant:yes it will be raining in redwood_city on tuesday.
+driver:is it going to rain in the next 7 days.assistant:ok could you please let me know what location i should look up data for.driver:san_jose.assistant:it will rain monday thursday and thursday in alhambra.
+driver:is it going to be cloudy this week.assistant:could you please let me know what place i am looking up the data for.driver:boston.assistant:this week manhattan does not have any weather predictions of it being rain.
+driver:tell me the weather forecast for this week.assistant:where are you wanting to know the weather for.driver:find out if it will be foggy in seattle anytime this week.assistant:it will not be humid in manhattan this week.
+driver:what s the weather like in downtown_chicago.assistant:the forecast is rain with the highs in the 50s and lows in the 40s.driver:i need to know if there will be a drizzle in downtown_chicago car for this friday.assistant:on friday in downtown_chicago it will be hot there is no prediction of drizzle.driver:sounds good.assistant:not a problem.
+driver:can you give me the weather this week for new_york city.assistant:yes the weather for new_york city this week will be mostly raining with the lowest at 30f on thursday and the highest being 100f on saturday monday and tuesday will be cloudy.
+driver:what is the weather going to be today and tomorrow.assistant:what city would you like this information from.driver:there will be clear_skies in corona today and tomorrow.assistant:there will be clear_skies on danville today tomorrow it will drizzle.
+driver:give me the 7 day weather forecast.assistant:what city do you want the weather for.driver:san_mateo.assistant:it will be warm in the beginning of the week and turn to rain and snow in san_mateo next_week it will be 30f - 40f monday 70f - 80f tuesday 60f - 70f wednesday 30f - 40f thursday 90f - 100f friday 90f - 100f saturday and 40f - 60f sunday.driver:will it be windy at all next_week in san_mateo.assistant:it will not be windy in seattle next_week.
+driver:what s the temperature going to be like today and tomorrow.assistant:what city are you wanting to know the temperature for.driver:seattle.assistant:it will be between 50f - 20f today and 30f - 70f tomorrow in oakland.
+driver:what is the current temperature.assistant:what city do you want to know the temperature for.driver:compton please.assistant:current temperature in inglewood is low of 50f and high of 60f.
+driver:find what the temperature will be in downtown_chicago this weekend.assistant:it will be between 30f - 80f in compton this weekend.
+driver:what is the local weather forecast for this week.assistant:for what city would you like the weekly forecast for.driver:will it be humid in new_york.assistant:it will not be humid in new_york this week.
+driver:is it cloudy in the next 7 days.assistant:where are you located.driver:corona.assistant:no it will not be cloudy in corona over the next 7 days.
+driver:what s the current temperature outside.assistant:what location do you want the temperature for.driver:alhambra.assistant:in oakland the temperature today is low of 30f high of 60f.
+driver:will it drizzle in san_mateo this weekend.assistant:no it s supposed to be dew and sunny on wednesday and clear on friday in danville.
+driver:check the weather.assistant:what city would you like weather information for.driver:will it rain in durham in the next two_days.assistant:there is no rain scheduled in durham for the next two_days.
+driver:what is the highest_temperature in new_york right now.assistant:today s highest_temperature in grand_rapids is predicted to be 50f.
+driver:will the weather be hail in alhambra during the next seven days.assistant:there shouldn t be any hail during the next seven days in alhambra.
+driver:are there clear_skies in los_angeles today.assistant:it is warm and 80f - 100f in los_angeles today.
+driver:will it be cloudy in boston on monday.assistant:it will not be hail in alameda on sunday.
+driver:in boston is it currently misty.assistant:currently there are clear_skies in downtown_chicago.
+driver:could you tell me the weather forecast in fresno on saturday.assistant:redwood_city s thursday forecast is raining with a low of 80f and a high of 50f.
+driver:check today s forecast for rain.assistant:what city would you like the forecast for.driver:oakland for today.assistant:today in brentwood is misty the forecast does not predict rain.
+driver:check the weather for the 7 day forecast.assistant:what city shall i retrieve the 7 day forecast of.driver:manhattan please.assistant:the forecast for carson for the next day is hail low of 30f and high of 40f.
+driver:what is the temperature going to be like this week.assistant:what city are you in.driver:danville.
+driver:is the weather going to be dry in brentwood on wednesday.assistant:no the weather in brentwood will be hot on wednesday.driver:ok but will there be rain or will it be dry.assistant:the weather forecast does not specifically say it will be dry in brentwood but it does state it will be hot the low will be 60f and the high will be 70f.driver:awesome thank you.assistant:you re welcome.driver:great.assistant:happy to help.
+driver:car what is the weather going to be like in the next several days.assistant:for what city would you like to know the weather for.driver:san_francisco.assistant:what days are you interested in.
+driver:what will the weather be like in the city.assistant:what city do you want the weather for.driver:the 7 day for fresno please.assistant:in downtown_chicago it will be misty wednesday clear wednesday humid wednesday drizzle wednesday clear wednesday stormy sunday and be clear sunday.
+driver:over the next seven days will it be humid at all in redwood_city.assistant:there will be no humid days over the next 7 days.
+driver:what s the weather forecast for the next_week.assistant:what city do you need next_weeks weather forecast for.driver:im in boston i need to find out if it will be windy this week.assistant:i have tuesday with a low of 80f high of 90f and windy the only windy day in fact.driver:perfect.assistant:no problem.
+driver:is it gonna be foggy in exeter on next_week.assistant:there is no fog in the forecast for san_mateo next_week.
+driver:is it supposed to rain this week.assistant:please tell me what city you want to know if it will rain in.driver:san_francisco.assistant:it will drizzle on tuesday on san_francisco but no heavy rain.
+driver:show me this week s forecast.assistant:for which city would you like to know the forecast.driver:i want to know if there will be frost in downtown_chicago this week.assistant:frost is not predicted on any day this week in corona.
+driver:what is the forecast for this week.assistant:what city are you seeking information for.driver:san_francisco.assistant:any particular details you are interested in.
+driver:will there be drizzle in oakland tomorrow.assistant:there should not be any drizzle in menlo_park tomorrow.
+driver:is it going to snow this week.assistant:what city would you like the forecast for.driver:boston.assistant:it will not dry in alhambra this week.
+driver:what is the forecast in my city.assistant:what is your city.driver:i am in compton.assistant:what would you like to know about the weather in compton.driver:tell me the forecast for the next_few_days.assistant:in redwood_city it will be hot on sunday between 90f - 70f and drizzling on saturday between 20f - 100f.
+driver:give me weather forecast for today.assistant:what city should i check today s forecast for.driver:do you know if it s going to rain in cleveland today.assistant:yes it is scheduled to rain in cleveland today with a temperature between 90f - 100f.
+driver:will there be clear_skies in redwood_city next_week.assistant:there will not be clear_skies in alhambra next_week.
+driver:what s the weather like today and tomorrow.assistant:what city are you wanting to know the weather for.driver:seatlle i want to know if it will be foggy today and tomorrow.assistant:tomorrow in seattle is looking warm with a low of 70f and a high of 90f no sign of fog.
+driver:what is the weather like today and tomorrow.assistant:what city would you like the 2 day forecast for.driver:i need to know if there is a blizzard in redwood_city today.assistant:there is no dry in grand_rapids today.
+driver:will it be warm in compton on wednesday.assistant:it will not be warm in corona on wednesday.
+driver:is it going to rain in the next 7 days.assistant:what city do you want the weather for.driver:fresno.assistant:in seattle there is no misty in the forecast.
+driver:is it gonna snow in durham during the week.assistant:grand_rapids does not have any snow predicted this week.
+driver:what s the weather going to be like today.assistant:what city do you want today s forecast for.driver:will it be humid in fresno.assistant:it will not be humid in danville today.
+driver:is it raining today.assistant:what city would you like me to find out if it is raining in.driver:oakland.assistant:yes tomorrow s forecast states that it is not humid in new_york.
+driver:what s the weather like.assistant:what city would you like the weather for.driver:i want to know if it will hail in compton on sunday.assistant:on sunday in compton there isn t any hail predicted only frost.
+driver:get me the weather report for this week.assistant:what city do you want the weather for.driver:exeter.assistant:it will be dry other than thursday and the temperatures are expected to be between 40f - 30f tuesday and sunday 30f - 80f tuesday 50f - 60f wednesday and 80f - 40f wednesday to thursday.
+driver:will it be dry in carson on thursday.assistant:yes the forecast predicts it will be foggy on saturday in new_york.
+driver:is it gonna be dry in carson on sunday.assistant:on monday the forecast is predicted to be stormy in cleveland.
+driver:what s the temperature going to be this week.assistant:what city would you like weather information about.driver:san_jose please.assistant:in san_jose it is expected to be between 40f - 60f monday and tuesday 70f - 80f wednesday 90f - 100f thursday 70f - 90f friday 30f - 40f saturday and 40f - 60f on sunday.
+driver:over the next_few_days in camarillo will there be any rain.assistant:it shouldn t be raining in manhattan for the whole week.
+driver:check the weather forecast.assistant:what city do you want the weather for.driver:i want to know if it will be stormy in manhattan over the next 7 days.assistant:in grand_rapids it will be hot on sunday and thursday.
+driver:is there any stormy weather predicted in corona over the next 48 hours.assistant:no there won t be any storm in new_york in the next 48 hours.
+driver:give me the full weekly weather forecast.assistant:what city are you interested in.driver:san_mateo please.assistant:in san_mateo this week it there will be clear_skies frost drizzle and dry.
+driver:will it rain next_week.assistant:in which city do you want to know if it will rain.driver:i need to know about carson please.
+driver:please tell me the weather for today and tomorrow.assistant:please tell me what city i can give you today and tomorrows weather forecast about.driver:i want to know if it will be snowing in fresno.assistant:yes skies is in the forecast for today and tomorrow for exeter.
+driver:check forecast for new_york.assistant:the weather this week will be hail and rain on thursday and sunday with the lowest_temperature being 20f and the highest 90f monday will be the only hot day.driver:will it be overcast on friday.assistant:on thursday it will be humid on new_york.
+driver:is it gonna rain in manhattan today and tomorrow.assistant:no it won t rain in boston in next two_days the weather will be skies today and clear_skies tomorrow.
+driver:check weather forecast for seattle.assistant:today in seattle it will be cold are you interested as well in other days weather forecast.driver:what about the next 2 days.assistant:today s forecast in boston predicts temperatures in the lows of 50f and highs of 60f.
+driver:what is the weather forecast for the weekend.assistant:for what city would you like to know that.driver:compton what is the forecast for this week.assistant:it will be rainy the first half of the week and then hail the second and dry over the weekend in cleveland.
+driver:will there be drizzle in cleveland tomorrow.assistant:it will not misty in san_francisco tomorrow.
+driver:how warm is it outside right now.assistant:what city are you inquiring about.driver:compton.assistant:today in compton the low temperature in 90f and the high is 100f it s not just warm it s hot.
+driver:it s going to be raining so i have to drive slow.assistant:what city should i check if it is raining in.driver:mountain_view.assistant:it will not be raining in inglewood today it is going to be hail with a low of 20f and a high of 40f.
+driver:will it be windy in corona on wednesday.assistant:corona s forecast does not predict wind on wednesday.
+driver:will it be humid in inglewood during the next_few_days.assistant:today is frost friday will have clear_skies and there will be dry in los_angeles on friday.
+driver:what is the weather today.assistant:what city do you want the weather for.driver:menlo_park.assistant:it is foggy with a low of 30f and a high of 90f in downtown_chicago today.
+driver:what s the temperature going to be this week.assistant:what city do you want the weather for.driver:cleveland what s the temperature going to be this week.assistant:it is forecasted for redwood_city that sunday and tuesday will be 40f - 40f thursday will be 70f - 50f thursday 40f - 80f and 30f - 90f from thursday to monday.
+driver:please tell me the weather for today and what the weather will be tomorrow.assistant:what city are you in.driver:atherton.assistant:today in inglewood it is misty with a low of 90f and high of 30f tomorrow there will be hail with the same temperatures.
+driver:will it be cloudy in oakland this week.assistant:there aren t any days in cleveland that are predicted to be blizzard this week.
+driver:how is the weather in the city this weekend.assistant:what city would you like the weekend weather for.driver:please tell me if there will be frost in menlo_park this week.assistant:there will be no frost in menlo_park this week.
+driver:will it be overcast in san_mateo over the next 48 hours.assistant:it will be stormy on tuesday and there will be rain on wednesday in san_mateo.
+driver:what s the forecast report.assistant:what city do you want the weather for.driver:cleveland.assistant:what days are you interested in.driver:will it snow in the next two_days in cleveland.assistant:there is no snow scheduled in san_jose for the next two_days the forecast for wednesday is drizzle low of 50f high of 90f the forecast for tuesday is stormy low of 80f high of 90f.
+driver:please check the weather for this week.assistant:what city would you like me to check the weather for.driver:will it rain in san_mateo.assistant:it will rain on saturday in boston.
+driver:is it going to snow in the next_week.assistant:what city would you like next_week s snow forecast for.driver:danville please.assistant:it s not gonna frost in grand_rapids this week.
+driver:give me the full weekly weather forecast.assistant:what city would you like the weekly weather forecast for.driver:will it snow in manhattan this week.assistant:it will not humid in compton this week.
+driver:is it going to be hot in grand_rapids on thursday.assistant:it will not be hot in mountain_view on thursday.
+driver:what s the weather like in new_york city.assistant:what days are you inquiring about.driver:will it drizzle on tuesday.assistant:on friday in seattle there isn t any prediction for hot.
+driver:what is the forecast for today and tomorrow.assistant:what city do you want the weather for.driver:will it be overcast in downtown_chicago today or tomorrow.assistant:there will be no foggy today and tomorrow in chicago the forecast for tuesday is hot low of 80f high of 20f the forecast for thursday will be frost low of 90f high of 30f.
+driver:what is the weather going to be like today and tomorrow.assistant:what city are you wanting to know the weather for.driver:los_angeles.assistant:in fresno it is going to be rain today with a low of 60f and a high of 60f tomorrow will be rainy with a low of 40f and a high of 50f.
+driver:what s the temperature going to be this week.assistant:what city are you in.driver:i m in grand_rapids.assistant:the temperature in san_mateo will be between 90f and 60f from tuesday to monday and it will go down to 90f to 50f on the weekend.
+driver:will it be raining in the next 7 days.assistant:what city are you asking about.driver:alhambra.assistant:there isn t any raining predicted in exeter.
+driver:what s the seven day forecast for new_york city.assistant:the forecast for new_york predicts a week with drizzles overcast and clear_skies with dry and humid temperatures.driver:can you give me the average temperature in fahrenheit.assistant:in downtown_chicago it will be between 20f - 30f on wednesday 30f - 70f on saturday 80f - 30f on friday 30f - 50f on thursday 70f - 80f on friday 80f - 70f on saurday and 20f - 40f on thursday.
+driver:how warm is it outside right now.assistant:in which city are you right now.driver:i m in redwood_city.assistant:it is 80f - 50f in seattle right now.
+driver:will there be drizzle in camarillo this week.assistant:there will be rain on tuesday but no drizzle in the forecast for cleveland this week.
+driver:what s the highest_temperature for this week.assistant:you wanna know the highest_temperature of which city.driver:redwood_city please the highest_temperature for this week.assistant:thursday says that it has the lowest_temperature in redwood_city this week.
+driver:is snow forecasted this week.assistant:what city can i give you the snow information about.driver:manhattan.assistant:it will snow on wednesday in manhattan.
+driver:give me weather forecast for today.assistant:what location do you want the weather for.driver:will it be cloudy in corona.assistant:it is not predicted to be cloudy in corona today.
+driver:what is the weather today in tomorrow.assistant:in what location would you like the weather.driver:i want to know if it will be humid in alhambra today.assistant:no it will not be humid in alhambra today it is raining with a low of 90f and a high of 100f.
+driver:is it gonna be humid in san_jose on the next_week.assistant:it s not gonna be humid in next_week in san_jose.
+driver:what is today s forecast in san_francisco.assistant:there will be hail today.
+driver:is it humid over the next two_days.assistant:what city are you in.driver:new_york.assistant:it will not be humid in new_york anytime soon.
+driver:tell me the weather forecast for this week.assistant:what city do you need this weekly forecast for.driver:manhattan please there will be clear_skies.assistant:there will be clear_skies in alhambra on wednesday.
+driver:will it hail in oakland.assistant:hail is predicted to fall in corona on saturday.
+driver:will it be stormy in redwood_city on wednesday.assistant:no saturday it will be overcast in mountain_view.
+driver:what s the weather going to be like today and tomorrow.assistant:what city would you like the weather for.driver:can you tell me if it s going to be hot in mountain_view.assistant:today in manhattan the temperature is low tomorrow will be hail with a high of 90f.
+driver:how hot is it going to be this week.assistant:what city would you like weather information for.driver:i need to know if it is going to be hot in exeter this week.assistant:this week in manhattan the temperatures do not show that it will be foggy the warmest day of the week will be tuesday with highs in the 30f.
+driver:what is the weather forecast for the weekend.assistant:which city would you like the weekend forecast for.driver:i am trying to find out if it will be warm in oakland this week.assistant:in oakland it will be warm on thursday.
+driver:what is the lowest_temperature in compton on wednesday.assistant:the lows forecast for thursday in mountain_view is the 40s.
+driver:is it going to snow any this week.assistant:what city do you want to find out if there will be snow in.driver:oakland.assistant:this week it won t snow in menlo_park.
+driver:what is the forecast for today and tomorrow.assistant:which city would you like today and tomorrow s forecast for.driver:i would like to know if it will be foggy in alhambra.assistant:it s not gonna be foggy in alhambra today or tomorrow.
+driver:will it be cloudy this week.assistant:what city would you like to know if it is cloudy.driver:please check for san_francisco.assistant:there is no fog for los_angeles this week.
+driver:is it gonna frost today in cleveland.assistant:the weather forecast calls today for lowest_temperature in seattle.
+driver:will there be rain in durham this upcoming week.assistant:there isn t any humid predicted in mountain_view this week but is should be stormy on sunday.
+driver:what is the weather for today.assistant:what location do you want the weather for.driver:i want to know if it is raining in seattle today.assistant:there will be no windy today in durham.
+driver:what s the temperature going to be like this week.assistant:what location do you want the temperature for.driver:san_mateo.assistant:this week in menlo_park monday and tuesday have lows in the 40f with highs in the 30f the rest of the week has high temperatures reaching the 100s.
+driver:tomorrow will there be frost in manhattan.assistant:there will not be misty in alameda tomorrow.
+driver:will it be raining in the next 7 days.assistant:for what location do you need information about any potential upcoming rain.driver:durham.assistant:it s not gonna rain in durham next_week.
+driver:is it going to be cloudy in the next 7 days.assistant:what city are you in.driver:chicago.assistant:it s not gonna be overcast in san_jose during the next_week but beside friday and saturday the weather will be rainy and hot.
+driver:will there be drizzle on tuesday.assistant:what location do you want the weather for.driver:grand_rapids.assistant:there is a forecast of stormy on thursday with a low of 40f and a high of 30f.
+driver:give me the 7 day weather forecast.assistant:what city do you need the 7 day forecast for.driver:i need to see if it will rain this week in manhattan please car.assistant:it will rain on tuesday in manhattan.
+driver:on monday will there be a blizzard in boston.assistant:there will not be a blizzard in exeter on sunday.
+driver:what s the weather forecast in new_york.assistant:what time period are you interested in.driver:monday will it be warm.assistant:saturday will be hail with a low of 80f and high of 40f somewhat overcast.
+driver:is it going to snow in the next 7 days.assistant:what city can i give you the snow information for.driver:in cleveland please i need to know if it is going to snow in the next 7 days.assistant:there will be no drizzle for the next 7 days in los_angeles.
+driver:show me this week s forecast.assistant:what location do you want the weather for.driver:will it be foggy in danville.assistant:during the next_week it s not gonna be foggy in danville.
+driver:what is the weather like in the city.assistant:what city are you inquiring about.driver:i am in durham.assistant:what would you like to know about the weather in durham.driver:will there be a blizzard.assistant:the weekly forecast does not show that there will be a drizzle in camarillo this week.
+driver:will it be dry in new_york on wednesday.assistant:it will be dry wednesday in new_york.
+driver:is there going to be hail in los_angeles this weekend.assistant:on friday cloudy is predicted to fall in san_mateo.
+driver:will it rain anytime in the next_week.assistant:which city would you like the rain forecast for for next_week.driver:grand_rapids.assistant:in inglewood it s gonna frost on saturday.
+driver:what s the weather forecast going to be for each day this upcoming week is it going to snow.assistant:what city are you wanting to know the forecast for.driver:new_york city more specifically manhattan.assistant:there is no rain forecasted for inglewood this week would you like any more details.
+driver:please let me know the weather forecast for tomorrow.assistant:for what city would you like the forecast.driver:will it be overcast in manhattan tomorrow.assistant:it will not be hot in mountain_view tomorrow.
+driver:is it going to snow next_week.assistant:where should i check for snow.driver:cleveland please.assistant:sunday it will snow on brentwood.
+driver:is there rain on sunday.assistant:what city would you like the forecast for.driver:compton.assistant:it will not windy on wednesday in carson.
+driver:will it be frost during the weekend in boston.assistant:there will not be rain during the weekend in exeter.
+driver:what s the weather like in downtown_chicago.assistant:the weather in exeter is raining the low is 70f with a high of 50f.
+driver:is it currently rainy in fresno.assistant:no in boston the weather is cold now.
+driver:it s going to be raining so i have to drive slow.assistant:what city will you be taking your drive in.driver:camarillo please.assistant:there are clear_skies on camarillo now but don t go too fast.
+driver:tell me the weather for this week.assistant:what city are you wanting to know the weather for.driver:san_mateo please.assistant:for carson it is expected to be 90f - 90f on monday 70f - 70f sunday 50f - 40f wednesday 40f - 90f thursday and 60f - 60f saturday to tuesday.
+driver:check the weather for today.assistant:what area are you asking about specifically.driver:i m asking about inglewood is there frost today.assistant:there will not be frost in inglewood today.
+driver:what s the weather forecast for the next_week.assistant:what city do you want the weather for.driver:chicago.assistant:in chicago it will be 90f - 100f for most of the week the only exceptions are monday it should be 30f - 40f on monday.
+driver:what is the weather like this week.assistant:in what city are you inquiring about.driver:corona will it drizzle this week.assistant:there will be no drizzle this week in corona only rain on tuesday and thursday.
+driver:is it going to snow in the next_week.assistant:what city can i check for you.driver:danville please.assistant:in atherton it will raining on monday.
+driver:what s the weather like this week.assistant:which city would you like the weekly weather forecast for.driver:mountain_view please.assistant:the weather in fresno is gonna be dry on sunday drizzle on tuesday misty on wednesday dew on sunday hail on monday humid on friday and raining on sunday.
+driver:what s the forecast going to be for today and tomorrow.assistant:in what city can i check today and tomorrow s forecast.driver:brentwood please there will be any blizzard.assistant:there will be no blizzard in atherton next_week.
+driver:how hot is it going to be this week.assistant:any day in particular you are looking for.driver:i want to know if the weather will be hot in san_jose this week.assistant:yes the forecast is calling for highs in the 90s for most of the week.
+driver:is it going to snow next_week.assistant:you want me to check if it s going to snow in what city this week.driver:inglewood.assistant:there is going to be foggy next_week on monday in seattle.
+driver:is it gonna be blizzard today in danville.assistant:no today it will be stormy in san_jose.
+driver:what will the weather be like tomorrow.assistant:where can i give you the weather forecast for.driver:i want to know if it will be humid in compton tomorrow.assistant:the forecast does not state that it will be frost in manhattan tomorrow.
+driver:will there be a blizzard this week in manhattan.assistant:there aren t any blizzards predicted in grand_rapids this week.
+driver:what s the current temperature outside.assistant:for what city would you like the current weather for.driver:i m located in exeter.assistant:the temperature in corona is showing a low of 70f with a high of 80f.
+driver:is the weather cloudy right now.assistant:what city do you want the weather for.driver:fresno.assistant:there are no clouds in san_francisco right now.
+driver:is it supposed to snow today.assistant:where would you like to know if it will snow.driver:i want to know about corona please.assistant:no it s not forecast to snow in atherton today the forecast is warm with a low of 40f and a high of 80f.
+driver:will it be clear in san_mateo on wednesday.assistant:it will not be clear in camarillo on wednesday.
+driver:what is the weather forecast for the next 7 days.assistant:what is the name of the city you want the forecast from.driver:carson please.assistant:in carson it will be frost on monday raining on tuesday overcast on wednesday dry on thursday clear_skies on friday cloudy on saturday and overcast on sunday.
+driver:what is the weather next_week.assistant:what city are you wanting to know the weather for.driver:mountain_view please.assistant:in mountain_view it will be 30f - 40f monday 80f - 100f tuesday 90f - 100f wednesday 90f - 100f thursday 70f - 80f friday 90f - 100f saturday and 70f - 80f sunday.driver:will it be hot any of the days.assistant:the only day of the week it will be cloudy is on sunday with a high of high of 30f.
+driver:what is the forecast for new_york city.assistant:what days are you interested in.driver:is there a blizzard now.assistant:no there is not a blizzard in new_york right now.
+driver:tell me if it will rain in alameda in the next 48 hours.assistant:no it s not gonna foggy in oakland today nor tomorrow.
+driver:tomorrow i m going to go in inglewood will i find clear_skies there.assistant:it will be frost in manhattan tomorrow.
+driver:what s the weather like.assistant:what city would you like to find out the weather about.driver:i need to know weather information about atherton.assistant:what days are you interested in.
+driver:what is the highest_temperature in manhattan in the next 2 days.assistant:it will be 30f on tuesday in compton.
+driver:is it gonna be any blizzard on tuesday in alhambra.assistant:there is not gonna be any blizzard this week in menlo_park on sunday it will rain.
+driver:will it be misty in seattle at any point in the next 7 day period.assistant:there is no forecast of mist in menlo_park this week.
+driver:what is the weather next_week.assistant:what location do you want the weather for.driver:will it be clear in oakland.assistant:it will not be clear in oakland next_week.
+driver:check the weather forecast.assistant:for what location and time.driver:will it be dry in fresno today.assistant:no it will not be dry in fresno today today s forecast is rain with a low of 30f and a high of 40f.
+driver:what s the weather going to be today and also what is the weather going to be this week.assistant:what city are you inquiring about.driver:exeter will it frost there today.assistant:no frost is not predicted in exeter today.
+driver:check today s forecast for rain.assistant:what city do you want to know if it s going to dew or not.
+driver:give me the forecast for the next 7 days.assistant:what city would you like to hear the 7 day forecast for.driver:redwood_city please.assistant:atherton is forecast to be rain and cold with a chance of a dry lows in the 20s are expected with highs near 60.
+driver:will it be warm in san_mateo over the weekend.assistant:it is predicted to be warm on monday and the high on sunday should reach 80f.
+driver:this weekend will there be any drizzle in los_angeles.assistant:yes in san_mateo there will be dry on sunday.
+driver:what s the temperature going to be like this week.assistant:what city are you inquiring about.driver:san_francisco.assistant:the temperature in compton this week will be low of 90 and a high of 100f on saturday low of 40 and a high of 80f on thursday low of 40 and a high of 50f on monday low of 20f and a high of 80f on monday low of 30f and a high of 40f on friday low of 40 and a high of 60f on wednesday and a low of 20 and a high of 30f on sunday.
+driver:how s the weather in new_york.assistant:what would you like to know about new_york s weather.driver:what is the current weather.assistant:the current weather in menlo_park is drizzling there is a low of 50f and a high of 80f today.
+driver:check the weather for the 7 day forecast.assistant:what city are you interested in.driver:los_angeles please will it be hot.assistant:it will be frost today in oakland.
+driver:is it supposed to snow today.assistant:what location do you want the weather for.driver:oakland.assistant:there will be no snow today in alhambra.
+driver:does the forecast call for snow today.assistant:there is no snow in the forecast today.
+driver:is it going to rain at all this upcoming week.assistant:what city would you like to know if it is going to rain in.driver:what city would you like to know if it is going to rain in.assistant:in which city do you want to know if it s going to snow.
+driver:will it be drizzle in camarillo tomorrow.assistant:it will be rain in seattle on thursday.
+driver:what is the weather like in the city.assistant:what city are you inquiring about.driver:i am in durham.assistant:what would you like to know about the weather in alameda.
+driver:will there be clear_skies in fresno on wednesday.assistant:the forecast says there will be hot in mountain_view there is no mention of clear_skies on tuesday.
+driver:tomorrow s forecast.assistant:what city are you interested in.driver:tomorrow s forecast for boston.assistant:tomorrow in boston there will be clear_skies and a low of 20f with a high of 40f.
+driver:what is the weather next_week.assistant:for which city would you like to know the weather for next_week.driver:find out if there will be clear_skies in exeter this week.assistant:there will not be snow in exeter this week.
+driver:what is the weather forecast in cleveland for thursday.assistant:the weather in cleveland on thursday will have dew and a high of 30f.
+driver:what s the weather forecast for tomorrow.assistant:what city can i tell you the weather for.driver:boston.assistant:drizzle with a low of 40f and high of 90f is predicted in manhattan tomorrow.
+driver:what is today s forecast.assistant:what city would you like today s forecast for.driver:please check for boston.assistant:today in exeter it is cloudy with a temperature between 30f - 20f.
+driver:tell me what the temperature will be like for the next_week.assistant:for what city are you interested in the weather.driver:alameda please.assistant:the temperature in alameda will be between 40f to 80f from wednesday to thursday and between 60f to 70f from saturday to sunday.
+driver:will it be windy in atherton in the next two_days.assistant:it will not be windy in redwood_city in the next_few_days.
+driver:are there clear_skies in the forecast today.assistant:what city would you like to find out if there are clear_skies in.driver:brentwood please.assistant:humid is predicted in menlo_park today.
+driver:does the local forecasts say it ll be cloudy.assistant:in which city do you want to know if it s going to be cloudy.driver:compton it it gonna be cloudy on monday.assistant:no it will not be cloudy in compton on monday.
+driver:what s the weather like in downtown_chicago.assistant:what days are you interested in.driver:wednesday please is it gonna snow.assistant:it should not windy in chicago on wednesday.
+driver:will it be warm in brentwood this week.assistant:tuesday wednesday and sunday appear to be the warm days expected in brentwood this week.
+driver:what s the lowest_temperature in redwood_city this week.assistant:it will be 30f in redwood_city on monday.
+driver:what s the weather forecast in san_francisco for the next two_days.assistant:in next two_days there will be dry and then rain in alameda.
+driver:is it gonna be hail in mountain_view now.assistant:is it actually skies in manhattan now.
+driver:will there be dew in brentwood this week.assistant:there is no stormy in the forecast for manhattan this week.
+driver:what is the weather going to be today and tomorrow.assistant:what city would you like to know the weather about.driver:i want to know if it will drizzle in durham.assistant:it is not predicted to drizzle any today or tomorrow in durham.
+driver:what is the forecast for the city this week.assistant:what city would you like the weather for.driver:i want to know if it will be stormy in new_york this week.assistant:it will be dry on wednesday and sunday in camarillo.
+driver:which one is gonna be the lowest_temperature today in new_york.assistant:the lowest_temperature in san_mateo will be 80f on saturday and thursday.
+driver:check weather forecast for seattle.assistant:which days are you interested in.driver:for right now car.assistant:in seattle it will start to hail tomorrow with a low temperature of 40f and a high of 60f.
+driver:does the local forecasts say it ll be cloudy.assistant:what city do you want the weather for.driver:sorry i didn t get a response from you can you repeat that.assistant:it will be snow on thursday in san_jose.
+driver:will it rain in redwood_city this weekend.assistant:it will not cold in fresno this weekend.
+driver:is it going to snow any this week.assistant:what city s = would you like to know if it is snowing this week in.driver:i would like to know about chicago please.assistant:it is supposed to snow on monday and wednesday this week in chicago.
+driver:what s the weather like today and tomorrow.assistant:what city are you in.driver:will it be clear in alameda.assistant:it doesnt appear as though it will be clear in danville snow is predicted for today and it should be foggy tomorrow.
+driver:will it be foggy in seattle today and tomorrow.assistant:no the weather in redwood_city will be drizzle today and humid tomorrow.
+driver:get me the weather forecast for the next 7 days.assistant:what city do you want the weather for.driver:inglewood.assistant:san_francisco should be 50f - 60f sunday to wednesday 50f - 40f thursday 30f - 40f tuesday and wednesday and 60f - 50f wednesday.
+driver:which one will be the temperature in compton today and tomorrow.assistant:the temperature in compton will be low of 40f and high of 50f both today and tomorrow.
+driver:please tell me the weather for today and tomorrow.assistant:what city are you asking about.driver:find out if it will rain in alhambra today or tomorrow.assistant:today is gonna be overcast in alameda but it shouldn t dry today nor tomorrow.
+driver:tell me what the weather will be like tomorrow.assistant:for what city would you like me to check tomorrow s weather for.driver:redwood_city.assistant:the weather forecast for durham says there will be clear_skies with a low of 80f and a high of 90f tomorrow.
+driver:what s the weather forecast in new_york.assistant:what information can i give you about new_york s weather.driver:i need to know what the lowest_temperature will be in new_york in the next_few_days.assistant:it will be 30f on tuesday in corona.
+driver:show me the weather for the next 7 days.assistant:what city can i give you the 7 day forecast for.driver:durham will there be clear_skies there during the next seven days.assistant:there will be clear_skies in corona on thursday and friday only would you like the rest of the forecast.
+driver:is it snowing next_week.assistant:what city would you like to know if it will be snowing in.driver:compton.assistant:it will not dew in seattle next_week.
+driver:what s the weather forecast for today and tomorrow.assistant:what city please.driver:fresno.assistant:today in mountain_view the low temperature should be in the 50s with a high in the 60s tomorrow is predicted to be cloudy with a low of 50f and a high of 50f.
+driver:what s the weather like on my drive today.assistant:where are you gonna drive today.driver:camarillo what the temperature.assistant:tomorrow s forecast states that it is humid in durham.
+driver:will it be hot in exeter or the next_few_days.assistant:it will be between 80f - 100f on tuesday in exeter.
+driver:is it snowing out.assistant:what city would you like to know if it is snowing in.driver:check to see if it ll be snowing in boston during the week.assistant:it might raining on sunday do you need to know anything else.
+driver:find out if it s going to be cloudy next_week.assistant:what city should i check to see if it will be cloudy in.driver:redwood_city.assistant:it will be cloudy on monday in danville.
+driver:will there be cloudy weather in atherton in the next 7 days.assistant:it should be cloudy tuesday in atherton.driver:what days are supposed to be cloudy in atherton.
+driver:on wednesday will there be dew in alhambra.assistant:yes there will be dry in inglewood on tuesday.
+driver:what is the current temperature.assistant:where would you like to know the temperature.driver:i want to know the temperature in san_jose.assistant:it will rain in durham on sunday.
+driver:tell me the weather for this week.assistant:what city do you want to know about.driver:i want to know if it will be warm in boston.assistant:it s not gonna be humid in fresno this week.
+driver:will it be stormy in carson on sunday.assistant:it will not be stormy in inglewood on sunday.
+driver:what s the temperature.assistant:what city would you like to hear the temperature about.driver:find out what the temperature will be like in downtown_chicago for the next_few_days.assistant:it is predicted that there is no rain in manhattan.
+driver:which days are rain forecasted.assistant:what city would you like weather information about.driver:tell me if it is raining in oakland right now.assistant:the weather forecast for oakland does not show rain right now.
+driver:will it be cloudy.assistant:what city would you like weather information about.driver:san_francisco please.assistant:the only day forecasted to be cloudy in durham next_week is thursday.
+driver:tell me what the weather will be like tomorrow.assistant:what location do you want the weather for.driver:oakland please.assistant:tomorrow in oakland it will be raining with a low of 60f and a high of 80f.
+driver:how s the weather in new_york.assistant:the weather in new_york is snow low of 30f high of 40f.
+driver:how will it be the weather forecast for the next two_days in exeter.assistant:the weather in downtown_chicago will be windy today and hot tomorrow.
+driver:will it be warm on sunday in alameda.assistant:it will not be warm in alameda on sunday.
+driver:will it be windy in cleveland thursday.assistant:it will not be skies in redwood_city this sunday.
+driver:is it going to be cloudy this week.assistant:what city are you in.driver:alameda please.assistant:it will cloudy tuesday in oakland.
+driver:what s the temperature going to be like on friday.assistant:what city would you like the temperature for on friday.
+driver:give me this week s high temperature.assistant:what city would you like to know the high temperature of.driver:for compton please.assistant:this week the highest_temperature in manhattan will be 90f on thursday and sunday.
+driver:what s the weather forecast in new_york.assistant:new_york is forecasted to be windy with a low of 60f and a high of 80f.driver:okay will it be humid in new_york next_week.assistant:it will not be windy in new_york next_week.
+driver:what is the chance of rain next_week.assistant:in what city should i check for rain.driver:carson.assistant:there is very high chance of rain in carson next_week.driver:there is very high chance of rain in carson next_week.assistant:there is very high chance of overcast in mountain_view next_week.
+driver:will it be hot in inglewood over the next_few_days.assistant:it will be frost both monday and tuesday in corona.
+driver:what s the weather forecast for today and tomorrow.assistant:which city are you interested in.driver:san_francisco please will it drizzle.assistant:it will not drizzle in san_francisco next_week.
+driver:when is the next cloudy day.assistant:what city are you asking about.driver:manhattan please will it be cloudy on monday.assistant:wednesday will be dry with low s of 70f and high s of 90f similar heh.
+driver:what is the weather.assistant:where are you interested in the weather for.driver:san_francisco.assistant:in san_jose right now it is windy with a low of 80f and a high of 70f.
+driver:what s it going to be like in san_jose.assistant:today there is frost in san_jose with a high of 60f and a low of 40f tomorrow will be high 50f and low 30f.
+driver:is it going to snow in the next_week.assistant:what city would you like this information on.driver:will it snow in menlo_park.assistant:it will not be snowing in manhattan this week.
+driver:will it be windy in redwood_city today.assistant:it is not predicted to be frost today in mountain_view.
+driver:tell me the weather report in durham for this week.assistant:what days are you interested in.driver:the entire week.assistant:it will be stormy on monday the lowest_temperature on tuesday hot on wednesday the hottest temperatures on thursday and friday snow on saturday and clear_skies on sunday in durham.driver:perfect.assistant:you are welcome.
+driver:is there any dew in the forecast over the next_few_days in durham.assistant:there will be frost in corona on saturday.
+driver:is it going to rain this week.assistant:which city are you interested in.driver:corona.assistant:there will be windy on wednesday and a windy on saturday for alameda this week.
+driver:is it raining next_week.assistant:where would you like me to check for rain.driver:carson.assistant:it will be clear on thursday and drizzling thursday and saturday in fresno.
+driver:what is the weather.assistant:please tell me the city you would like the weather for.driver:in durham please.assistant:what would you like to know about the weather in durham.driver:the forecast today.assistant:it is warm with temperatures between 30f - 90f in cleveland.
+driver:what is the weather like in the city.assistant:which city do you want the weather for.driver:will it hail in alameda today.assistant:today in danville is gonna be drizzle with low temperature of 100f and high of 30f.
+driver:what s the forecast for today.assistant:what city can i give you the forecast from.driver:inglewood please is it gonna be windy today.assistant:it will not be drizzle in san_mateo today.
+driver:what is the forecast for today and tomorrow.assistant:what city do you want the forecast for.driver:downtown_chicago please.assistant:it will be misty today and clear tomorrow in corona.
+driver:look up the seven day forecast in redwood_city and find out if it will be foggy at all.assistant:it will not be humid in mountain_view this week.
+driver:show me the weather for the next 7 days.assistant:what city would you like the 7 day forecast for.driver:will it be humid in compton.assistant:it should not be humid in san_jose next_week.
+driver:will there be a blizzard in seattle over the next 7 days.assistant:no it s not gonna be any blizzard in san_jose during the next_week.
+driver:is it supposed to drizzle in danville this thursday.assistant:it will not hail in menlo_park on thursday.
+driver:what s the temperature going to be like this week.assistant:what city are you interested in.driver:los_angeles.assistant:the temperature in menlo_park this week reaches a low of 60f and the highest will be 100f.
+driver:is it raining in fresno now.assistant:it is not raining in fresno right now.
+driver:give me saturday s weather report for menlo_park.assistant:it will be snowy and between 20f - 40f on saturday.
+driver:tell me if it will be cloudy in menlo_park tomorrow.assistant:it will be stormy in atherton tomorrow.
+driver:will san_jose be hot any time this week.assistant:san_mateo will be snow on saturday saturday and sunday.
+driver:what is the forecast for the next 7 days.assistant:for what city are you interested in.driver:cleveland will it be windy.assistant:it will not be frost in oakland next_week.
+driver:what s the temperature going to be like today and tomorrow.assistant:what city can i give you the temperature information for.driver:seattle please.assistant:mountain_view will not be snow on friday.
+driver:will it be cloudy.assistant:what city are you located in.driver:in manhattan will it be cloudy in the next 48 hours.assistant:it is not predicted to be cloudy in manhattan in the next 48 hours.driver:good to hear.assistant:have a great week.
+driver:what s the weather like in grand_rapids.assistant:what would you like to know about the weather in grand_rapids.driver:will it be cloudy on wednesday.assistant:there will be clear_skies in atherton on thursday.
+driver:please check the weather for this week.assistant:alright what location are you asking about.driver:will it be warm in san_mateo.assistant:it will not be frost in alameda.
+driver:which days will be cloudy this week.assistant:what city shall i check the forecast for cloudiness.driver:danville.assistant:the forecast states it will be hot on friday in camarillo.
+driver:what s the weekly weather report for the city.assistant:what city are you interested in.driver:i am interested in redwood_city.assistant:this week in grand_rapids shows raining snow snow windy fog and overcast skies.
+driver:what s the temperature going to be like on friday.assistant:what city do you want the weather for.driver:menlo_park.assistant:in camarillo this monday it will be cloudy between 70f - 30f.
+driver:what is the weather going to be like tomorrow show me the 7 day forecast.assistant:what city shall i look the 7 day forecast in.driver:sorry i actually need to know what the highest_temperature will be in corona tomorrow.assistant:the high temperature for corona tomorrow is supposed to be about 100f.
+driver:update me on the weekly weather forecast for this week.assistant:what location are you interested in.
+driver:what is the forecast for today s weather.assistant:what city are you interested in.driver:oakland.assistant:it will be hot with a low of 80f and a high of 30f in boston today.
+driver:what is the weather like today.assistant:what city would you like the weather forecast for.driver:for menlo_park please.assistant:today in durham the forecast is misty with a low of 40f and high of 80f.
+driver:is there any rain in the current weather forecast in inglewood.assistant:today it s gonna fall hot in mountain_view.
+driver:what s the weather like this week.assistant:what city do you want the weather for.driver:san_mateo please.assistant:the weather next_week in san_mateo for monday is foggy low of 90f high of 100f for tuesday is raining low of 40f high of 60f wednesday is windy low of 70f high of 80f thursday is snow low of 80f high of 90f and friday is clear_skies low of 60f high of 70f saturday is overcast low of 80f high of 90f and finally sunday is warm low of 90f high of 100f.
+driver:will it be foggy in menlo_park in the next two_days.assistant:it will not be foggy in new_york in the next two_days.
+driver:tell me what the temperature will be like for the next_week.assistant:for what city.driver:grand_rapids.assistant:in brentwood the temperature is predicting lows in the 40f and highs in the 90f.
+driver:what s the weather gonna be like on friday in corona.assistant:the weather forecast in menlo_park predicts frost with a temperature high reaching 50f on saturday.
+driver:tell me will there be snow in redwood_city on monday.assistant:no foggy in alameda on saturday it will dry.
+driver:how hot is it going to be this week.assistant:what city do you need to know if it will be hot.driver:for new_york this week please.assistant:this week in alhambra it will be foggy on tuesday clear_skies on friday blizzard on tuesday lowest_temperature on wednesday clear_skies on thursday hot on sunday dry on tuesday.
+driver:what s the weather in alameda now.assistant:in cleveland the weather is foggy.
+driver:please show me the weekly weather report.assistant:what city do you want the weather for.driver:i need the weather for compton.assistant:i don not have any info about weather except compton.
+driver:what s the weather like today and tomorrow.assistant:for what city would you like to know today and tomorrow s forecast for.driver:i need to know this information for grand_rapids.assistant:in downtown_chicago it will be rainy today between 60f - 60f and snowy tomorrow between 100f - 40f.
+driver:what s the temperature going to be like this week.assistant:you want the weekly temperature for what city.driver:cleveland.assistant:the temperature in cleveland tomorrow is showing low of 70f and high in the 90f.
+driver:will it be cloudy.assistant:what city are you located in.driver:in manhattan will it be cloudy in the next 48 hours.assistant:it is not predicted to be misty in carson in the next 48 hours.
+driver:is it going to be cloudy in the next 7 days.assistant:what city can i give you this weather information for.driver:i m in boston but i will only be needing info on the next two_days.assistant:it will not be cloudy in boston in the next two_days.
+driver:what s the temperature in city.assistant:what city would you like to know the temperature about.driver:redwood_city what is the temperature for this week.assistant:the temperature range for next_week goes from lows in the 20s to highs in the 100s for seattle.
+driver:tomorrow s forecast.assistant:what city can i tell you tomorrows forecast for.driver:i need the forecast in alhambra for tomorrow please.assistant:tomorrow it will be warm in oakland with low of 80f and high of 100f.
+driver:what s the weather going to be today and also what is the weather going to be this week.assistant:what city would you like the forecast for.driver:will it be cloudy in compton today.assistant:no it will not be humid in cleveland today.
+driver:what is the weather report for saturday in manhattan.assistant:it will be snow and between 20f - 30f on sunday in menlo_park.
+driver:is it snowy in alhambra today.assistant:it is not snowy in alhambra today.
+driver:what s the weather like in new_york.assistant:is there a specific day you would like to know the weather for in new_york.driver:i need to know about friday please.assistant:it will be drizzle and between 30f - 50f tuesday in inglewood.
+driver:whats the two_day forecast for new_york does it say it will be hot.assistant:today it will not be too hot ( 30f - 50f degrees ), but tomorrow it will be sort of hot ( 60f - 80f degrees )..
+driver:what will the temperature be for the next_week.assistant:what city are you interested in.driver:san_mateo.assistant:it will be between 60f - 100f in mountain_view on monday.
+driver:will there be any frost in fresno this week.assistant:no there will not be any frost in atherton this weekend.
+driver:start listening what will be the weather for the week.assistant:what city do you want the weather for.driver:durham please.assistant:in durham it will be between 80f - 100f monday to wednesday 30f - 40f thursday 40f - 60f friday 90f - 100f saturday and 60f - 70f on sunday.driver:good to know.assistant:anytime.
+driver:which one is gonna be the highest_temperature tomorrow in durham.assistant:the highest_temperature in san_jose is predicted to be 50 tomorrow.
+driver:will it be cloudy this week.assistant:what city are you in.driver:san_mateo.assistant:it s not gonna be skies this week in exeter but it might hail on thursday and it could fall drizzle on monday.
+driver:what is the temperature.assistant:what city are you inquiring about.driver:grand_rapids please which one will be the temperature on sunday.assistant:sunday s temperature in compton is predicted to have a high of 60f and a low of 80f.
+driver:find out if alhambra will be dry this week.assistant:menlo_park will be snow on saturday.
+driver:check the weather.assistant:where shall i check the weather for.driver:will it be clear in atherton tuesday.assistant:i do not have that information for tuesday in atherton sorry.driver:please tell me if there will be any update.assistant:tuesday is forecast to be high in 90s and lows in the 80s for grand_rapids.
+driver:what is the temperature.assistant:what city would you like the temperature for.driver:mountain_view for the next 2 days.assistant:in mountain_view is gonna be drizzle on monday rain on tuesday snow on wednesday rain again on thrusday cloudy on friday rain on saturday overcast on sunday.
+driver:check to see if it will be cloudy in mountain_view this saturday.assistant:it will not be raining in boston on saturday.
+driver:in new_york will it be foggy this week.assistant:the weather is not predicted to be frost in compton this week.
+driver:is it gonna be humid in grand_rapids on wednesday.assistant:it will be frost in san_francisco on friday.
+driver:will it rain in fresno over the next seven days.assistant:it will rain in san_francisco on thursday.
+driver:what is the weather like in the city.assistant:what city are you interested in.driver:what is the weather in compton on sunday.assistant:it will be stormy with a low of 80f and a high of 100f in seattle on sunday.
+driver:what is the weather like right now.assistant:what city shall i check for you.driver:please check exeter is it humid.assistant:today is not overcast in danville it is stormy low of 40f high of 40f.
+driver:please show me the weekly weather report.assistant:what city do you need a weekly weather report for.driver:i need the weekly forecast for boston please.assistant:the weather in corona will be misty today.
+driver:what is the weather forecast like in the city.assistant:what city would you like the forecast for.driver:san_francisco on sunday.assistant:sunday s forecast is calling for a humid in carson with lows near 40 and highs in the 60s.
+driver:start listening what will be the weather for the week.assistant:what city are you asking about.driver:will it be stormy in durham.assistant:there is gonna be no previsions for storms in atherton on friday.
+driver:give me this week s high temperature.assistant:in which city do you want to know the high temperatures for.driver:in mountain_view please.assistant:the high temperature in carson is 20f.
+driver:will it rain in chicago next_week.assistant:it will not rain in chicago next_week.
+driver:what is the forecast for the city this week.assistant:which city do you want the weather forecast for.driver:inglewood.assistant:in inglewood it will be frosty on monday overcast on tuesday raining on wednesday foggy on thursday drizzle on friday and saturday dry on sunday.
+driver:what is the weather like in boston.assistant:what day are you interested in.driver:today and tomorrow.assistant:it will be between 80f - 50f on sunday and 50f - 70f on sunday in grand_rapids.
+driver:what s the weather forecast for the next_week.assistant:what city are you inquiring about.driver:san_francisco.assistant:in the next_week in manhattan it will be overcast on monday skies on tuesday blizzard on wednesday and friday hot on sunday windy on friday frost on wednesday.
+driver:what s the weather like today and tomorrow.assistant:what city are you interested in.driver:in durham will it rain.assistant:there isn t any rain in the forecast for carson today or tomorrow.
+driver:is it going to be windy in san_francisco tomorrow.assistant:it will be hot in brentwood tomorrow it should not be windy.
+driver:tell me the weather for this week.assistant:alright what location are you asking about.driver:i am in durham.assistant:this week in exeter there will be drizzle stormy windy dry and cloudy.
+driver:how cloudy is it going to be for the next_week.assistant:what city can i tell you about next_week s cloudiness.driver:please tell me about manhattan for next_week.assistant:fresno s forecast for next_week calls for windy and fog with cold so the probability of clouds is high.
+driver:what is the weather for the next 7 days.assistant:what city are you interested in learning the weather for.driver:i would like information about san_mateo please.assistant:it will be in the 30f - 50f monday to wednesday and 90f - 100f on thursday in cleveland friday through the weekend will be 20f - 40f.
+driver:what is the weather forecast for wednesday through tuesday of next_week.assistant:what city can i give you the forecast for.driver:please tell me if there will be any drizzle in boston on tuesday.assistant:the forecast does not predict any drizzle in cleveland on friday.
+driver:which days will be cloudy this week.assistant:for which city would you like to know that.driver:will it be cloudy in san_mateo this week.assistant:this week in alameda it will be cloudy on sunday and monday.
+driver:car what is the temperature going to be today and tomorrow.assistant:what city do you want to hear today and tomorrow s temperature for.driver:boston.assistant:in oakland the temperature will be low 30f and high of 20f on friday and low of 40f and high of 60f on sunday.
+driver:is it going to be overcast or cloudy at all any day this week.assistant:what city are you located in.driver:san_mateo will it be overcast.assistant:it will be rain wednesday in manhattan.
+driver:what s the weather like in grand_rapids.assistant:what can i tell you about grand_rapids weather.driver:if it will be misty over the next two_days.assistant:stormy is predicted on friday in grand_rapids followed by snow.
+driver:what is the weather like today in tomorrow.assistant:what city should i look in.driver:will it rain in boston.assistant:snow should not be falling in boston on tuesday.
+driver:is there supposed to be a blizzard in brentwood on friday.assistant:on tuesday it s gonna overcast in carson.
+driver:will it be raining this week in redwood_city.assistant:there isn t any rain predicted to fall in san_jose this week.
+driver:how is the climate on friday.assistant:what city do you want the weather for.driver:weather for danville.assistant:it will be the highest_temperature on thursday in redwood_city.
+driver:what is the weather is it going to rain.assistant:what city are you wanting to know about.driver:is it going to rain in menlo_park this week.assistant:it is forecast to rain tuesday and friday in new_york.
+driver:what is the weather like today.assistant:what location do you want the weather for.driver:cleveland please i d like to know if it s gonna snow today.assistant:it will not rain in danville today.
+driver:what is the forecast for today and tomorrow.assistant:which city in particular are you wanting to know the weather for.driver:oakland specifically i need to know if it will be overcast.assistant:the weather is supposed to be rainy and then humid respectively does that help.
+driver:will it rain this week.assistant:what city are you wanting to know if it s going to rain.driver:menlo_park.assistant:it will dry on thursday this week in compton.
+driver:currently are there clear_skies in redwood_city.assistant:there currently are no clear_skies in new_york.
+driver:is it being frost today in san_jose.assistant:there is no frost in fresno today.
+driver:does the weekend outlook say if there will be dew in mountain_view.assistant:there is gonna be cold in compton on monday.
+driver:will there be drizzle in redwood_city this weekend.assistant:there will be no drizzle in redwood_city this weekend.
+driver:is it going to be cloudy this week.assistant:which location are you wanting to know if it s going to be cloudy.driver:san_mateo.assistant:it will be misty on monday in manhattan.
+driver:what s the forecast for the weather today.assistant:what city do you want the forecast for.driver:redwood_city please which one will be the highest_temperature.assistant:today the highest_temperature in compton will be 30f.
+driver:will there be hail in the forecast for oakland next_week.assistant:there is no forecast of windy in fresno next_week.
+driver:what is the weather forecast in the city.assistant:what city should i check the weather forecast for.driver:boston.assistant:for what day would you like the forecast in boston for.driver:the next 7 days.assistant:in new_york it will be clear and cloudy monday and tuesday snowy and warm thursday and frost on friday on rainy on saturday and drizzling on sunday.
+driver:what s the forecast for new_york city.assistant:what days are you interested in.driver:will it be cloudy today.assistant:it will not be clear today in san_jose.
+driver:what s the weather going to be like today.assistant:what city are you inquiring about.driver:will it drizzle in iniglewood.assistant:it might rain in inglewood on tuesday.
+driver:what s the weather going to be like today and tomorrow.assistant:what location do you want the weather for.driver:in alameda for today and tomorrow if there will be frost.assistant:no there shouldn t be any rain in san_mateo tomorrow.
+driver:will the weather be cloudy next_week.assistant:what location do you want the weather for.driver:will it be cloudy in carson next_week.assistant:it will not be windy in new_york next_week.
+driver:is there snow in the forecast for the week.assistant:what city can i give you this weather information for.driver:i need it for san_jose.assistant:dew is predicted to fall in manhattan on thursday this week.
+driver:is it going to rain sometime this week.assistant:what city are you wanting to know if it s going to rain.driver:menlo_park.assistant:in menlo_park it will rain on tuesday and wednesday.
+driver:is it going to be cloudy this week.assistant:what city do you want the weather for.driver:fresno please.assistant:it is only supposed to be cloudy on sunday this week in oakland.
+driver:what s the temperature going to be this week.assistant:what city are you wanting to know the temperature for.driver:fresno.assistant:it will be rainny on tuesday fresno.
+driver:what s the weekly forecast for cleveland.assistant:the weather will be foggy on monday with snow on tuesday and friday and rain on sunday.driver:will there be any frost.assistant:there isn t any frost predicted in cleveland this week.
+driver:what is the current temperature.assistant:for what city would you like to know the temperature.driver:manhattan.assistant:the forecast for new_york shows today s low is 40f and the high is 70f.
+driver:what is the weather in new_york city.assistant:what would you like to know about the weather in new_york city.driver:will it hail anytime soon.assistant:no there is no hail in the forecast for cleveland city.
+driver:will it snow this week.assistant:what city are you located in so i could check to see if it will be snowing this week.driver:manhattan.assistant:it will not fog in fresno this week.
+driver:what is the highest_temperature in brentwood over the next two_days.assistant:it will be 60f on monday in alhambra.
+driver:what is the temperature outside.assistant:in what city would you like to hear the temperature for.driver:i need the current temperature for atherton please.assistant:it should be foggy in atherton tomorrow.
+driver:get me the weather forecast for the next 7 days.assistant:for what city would you like the weather forecast for the next 7 days.driver:i need the 7 day forecast for danville.assistant:in san_mateo is gonna be dry today.
+driver:what s the forecast for the city this week.assistant:for what city did you need the forecast.driver:exeter please will it be misty anytime during the week.assistant:it will not be raining in alhambra this week.
+driver:what s the weather forecast.assistant:what city are you inquiring about.driver:find out if there is hail outside right now for seattle please.assistant:in oakland there is dry right now.
+driver:look up san_francisco s two_day weather info to see if it will be warm.assistant:it will be stormy and hailing in downtown_chicago in the next two_days.
+driver:what s the weather going to be like this week.assistant:what city do you want the weather for.driver:is it going to foggy is compton anytime this week.assistant:the forecast predicts that it will be raining on monday in manhattan this week.
+driver:find weekly weather forecast.assistant:which city do you want the weather for.driver:i would like to have it for san_francisco please.assistant:this week in danville it will be raining on monday dry on saturday clear on sunday misty on thursday and friday hail on saturday and hail on thursday.
+driver:car what is the weather going to be like in the next several days.assistant:for what city would you like that information.driver:carson please how will it be the temperature on tuesday.assistant:the temperature in carson on sunday will be low of 60f high of 80f.
+driver:will it be foggy in redwood_city on wednesday.assistant:it should not be cold on saturday in cleveland.
+driver:can you give me the weather this week for new_york city.assistant:in san_jose it will be warm monday and thursday snowing friday frost on sunday drizzle on friday dew on friday and misty on friday.
+driver:will there be clear_skies in danville on thursday.assistant:dew is predicted in danville on thursday.
+driver:what s the temperature.assistant:is there a particular city you would like to know the temperature for.driver:yes menlo parl find out the temperature for friday please.assistant:the temperature in downtown_chicago is predicted to have a low of 80f with a high of 30f on tuesday.
+driver:check forecast for today and tomorrow.assistant:what city do you want to hear the forecast for.driver:mountain_view.assistant:it will be overcast today and skies tomorrow in exeter.
+driver:what s the weather like this week.assistant:what city would you like to know the weather for.driver:i would like to find out if it will be dry this week in new_york.assistant:it will not be raining all week - it could be dry on wednesday and sunday.
+driver:tell me the weather for this week.assistant:alright what location are you asking about.driver:i am in durham.assistant:this week in durham there will be clear_skies fog rain overcast and snow.driver:so this week in durham will it be humid at all.assistant:it s not gonna be humid or rain this week in durham.
+driver:start listening what will be the weather for the week.assistant:for what city do you need the weekly forecast.driver:san_francisco.assistant:the weather in camarillo during the next_week will be stormy on thursday clear_skies on tuesday cloudy on wednesday skies on thursday windy on saturday frost again on friday and saturday.
+driver:what is the temperature outside.assistant:what city are you interested in.driver:san_mateo right now.assistant:it is currently windy with a low of 30f and a high of 50f.
+driver:what s the weekly weather report for the city.assistant:what city are you interested in.driver:i am interested in redwood_city.assistant:this week in redwood_city shows rain frost snow drizzle fog and overcast skies.driver:what day will it be foggy.assistant:it will be skies on saturday.
+driver:tell me the weather report for tuesday in san_mateo.assistant:it will snow in san_mateo on tuesday.
+driver:what is the forecast in my city.assistant:what city do you want the weather for.driver:inglewood what s the weekly weather looking like.assistant:there is a wide range of conditions for inglewood next_week from 40f - 100f and snow to hot are there any particular details you would like.
+driver:what s the forecast for the weather today.assistant:what city are you wanting to know the weather for.driver:i want to know chicago s weather.assistant:today in chicago the weather is forecast predicts misty with a low of 60f and a high of 30f.
+driver:will it drizzle in camarillo tomorrow.assistant:on friday there will be drizzle in danville.
+driver:what s the temperature outside like today.assistant:what location would you like the temperature for.driver:exeter.assistant:it is raining outside in fresno today.
+driver:what is the weather for next_week.assistant:what city do you want the weather for.driver:redwood_city.assistant:in redwood_city it is expected to be 70f - 80f on monday 40f - 60f on tuesday 90f - 100f on wednesday 70f - 80f on thursday 80f - 90f on friday 90f - 100f on saturday and 30f - 4f on sunday.
+driver:what s the 7 day forecast in brentwood.assistant:the weather forecast in los_angeles is rain on monday skies on thusday blizzard on wednesday warm on sunday and saturday overcast on sunday clear_skies on sunday.
+driver:please check the weather for this week.assistant:where are you interested in.driver:will it be stormy in camarillo.assistant:in camarillo it will be stormy on tuesday.
+driver:how is the weather in the city this weekend.assistant:what city should i look up the weekend forecast for.driver:boston.assistant:it will be cloudy on saturday and hail on sunday in boston.
+driver:how s the weather in new_york.assistant:the weather in new_york is hot today are you interested in other days forecast.driver:will it be humid on friday.assistant:the weather in new_york is blizzard on monday .
+driver:what will be the highest_temperature on friday in mountain_view.assistant:on friday the highest_temperature in mountain_view is predicted to be 50f.
+driver:what s the forecast in carson for this weekend.assistant:in corona it will be dew on monday and dew on saturday.
+driver:are we going to have clear_skies in san_francisco on sunday.assistant:it will be stormy in grand_rapids on sunday.
+driver:check the weather for the 7 day forecast.assistant:what city would you like to hear the 7 day weather forecast for.driver:i need to know if it is going to be raining in the next 7 days for grand_rapids.assistant:in new_york tomorrow temperature will be low of 60f and high of 70f.
+driver:check and see if it will be humid in inglewood on tuesday.assistant:it will not be blizzard in seattle on monday.
+driver:is it supposed to rain this week.assistant:what city are you inquiring about.driver:the big apple new_york city.
+driver:what s the weather supposed to be like in new_york city this week.assistant:this week in new_york will be rainy and windy with overcast skies.driver:will be dry any day this week.assistant:san_mateo is now on tuesday.
+driver:what s the weather going to be like this week.assistant:what city are you interested in knowing about.driver:is it going to drizzle in downtown_chicago anytime this week.assistant:it is predicted to dry in compton on monday.
+driver:is it going to snow this week.assistant:what city are you wanting to know if it s going to snow.driver:can you tell me about menlo_park.assistant:the forecast does not specifically state that there will be overcast this week in inglewood but there is a dew predicted on friday.
+driver:is it gonna be humid in inglewood during the next_week.assistant:it will not be humid in inglewood next_week.
+driver:what is the temperature for the next 7 days weather forecast.assistant:what city shall i find the weather forecast for.driver:brentwood please.assistant:this week in brentwood the temperature lows will be in the 20s and 50s with highs reaching 100f.
+driver:will it rain next_week.assistant:what city do you want to know if it will rain in.driver:los_angeles.assistant:snow is predicted to fall on saturday in manhattan.
+driver:on friday will there be frost in menlo_park.assistant:in fresno the weather will be dew on monday.
+driver:what s the weekly forecast.assistant:what city do you want the weather for.driver:in fresno will it be raining this week.assistant:no rain is in the forecast for fresno this week.
+driver:what is the weather going to be like tomorrow show me the 7 day forecast.assistant:what city are you interested in.driver:fresno there will be hail tomorrow.assistant:today in fresno it will be foggy.
+driver:look at today and tomorrow s forecast and tell me if there will be a blizzard in mountain_view.assistant:there will probably not be a hot in cleveland either today or tomorrow.
+driver:will it be cloudy in inglewood next_week.assistant:there aren t any cloudy days in the forecast for atherton.
+driver:what s the weather going to be like for this week.assistant:which would would you like the weekly forecast for.driver:menlo_park please.assistant:in downtown_chicago windy overcast hail frost rain cloudy and overcast are predicted for the next_week.
+driver:is it snowing next_week.assistant:what city would you like me to check to see if it s snowing.driver:in durham.assistant:it will be no rain next_week in san_jose.
+driver:from the two_day forecast what will be the highest_temperature in manhattan.assistant:the highest_temperature in new_york is supposed to be 40f today and 70f tomorrow.
+driver:get me the weather report for this week.assistant:what city would you like the weather report for.driver:will there be a blizzard in inglewood.assistant:the weather forecast doesn t predict any blizzard this week in menlo_park.
+driver:will there be hail in los_angeles today.assistant:it will be overcast but not hailing in compton today.
+driver:what is the weather like today and tomorrow.assistant:what city are you in.driver:mountain_view.assistant:today in manhattan is gonna be warm with low of 20f tomorrow it will be dry.
+driver:will the weather be warm tomorrow in los_angeles.assistant:in danville on sunday the day will be dry with a high of 60f.
+driver:what will the weather be like tomorrow.assistant:what city are you wanting to know the weather for.driver:i want to know if menlo_park is going to be cloudy tomorrow.assistant:the weather forecast does not predict cloudy skies in menlo_park tomorrow.
+driver:will it drizzle in oakland in the next_week.assistant:it will not stormy in menlo_park next_week.
+driver:which days are rain forecasted.assistant:in what city would you like the forecast.driver:alameda tell me about right now.assistant:there is stormy in seattle right now.
+driver:is there any rain in the local forecast.assistant:what city.driver:grand_rapids its it going to rain on saturday.assistant:there will be no snow on sunday in redwood_city.
+driver:will it be dry in fresno on sunday.assistant:no on sunday in san_mateo there will be a cloudy.
+driver:how hot is it going to be this week.assistant:which location do you want the weather for.driver:downtown_chicago please.assistant:in boston this week it will be overcast on monday dew on tuesday hot on wednesday blizzard on thursday rainy on friday clear_skies on saturday and sunday lowest_temperature on thursday.
+driver:what is the weather forecast in los_angeles over the next_few_days.assistant:the weather in atherton will be snowy on monday and then on tuesday cloudy on sunday drizzle on saturday snow on wednesday lowest_temperature on friday dry on saturday.
+driver:on saturday in camarillo will it be cloudy.assistant:it will not be cloudy saturday in camarillo.
+driver:is it raining in brentwood now.assistant:there is hail coming down in mountain_view right now.
+driver:on what day will be the lowest_temperature this weekend in compton.assistant:the lowest_temperature in grand_rapids will be on thursday saturday or tuesday.
+driver:will there be and dew this week in inglewood.assistant:there will not be dew in seattle this week.
+driver:is it gonna be windy in alameda on monday.assistant:it will not be windy on monday in alameda.
+driver:is it stormy in san_francisco right now.assistant:it is not stormy in san_francisco right now.
+driver:is it raining next_week.assistant:in what city should i gather the forecast for.driver:exeter please find out if there is going to be rain next_week.assistant:there is no windy this week in new_york only slight drizzles on thursday and wednesday.
+driver:which days will be cloudy this week.assistant:which city would you like the cloudy day forecast for this week.driver:camarillo.assistant:in camarillo it s gonna be hail on thursday and it will rain on sunday.
+driver:please show me the weekly weather report.assistant:which city would you like the weekly weather report for.driver:los_angeles.assistant:frost cold drizzle clear and frost foggy are predicted this week in menlo_park.
+driver:check to see if it will be windy in brentwood the next_few_days.assistant:it will not be windy in brentwood the next_few_days.
+driver:check the weather for today.assistant:what city would you like to know the weather forecast for.driver:brentwood please.assistant:what information can i give you about the weather in atherton.
+driver:is the weather cloudy right now.assistant:what city are you located in so i could check to see if it s cloudy outside today.driver:i am in durham.assistant:yes it is not foggy in fresno today.
+driver:is it gonna be windy in camarillo on sunday.assistant:yes on monday it will be frost in san_francisco.
+driver:what is the weather today and tomorrow.assistant:what city shall i give you today and tomorrow s forecast for.driver:will it be warm in durham today.assistant:it will be skies with a high of 60f in inglewood today.
+driver:what s the weather forecast for tomorrow.assistant:what city are you wanting to know the weather for.driver:menlo_park.assistant:in inglewood it will skies and be 100f - 30f tomorrow.
+driver:is it going to be cloudy in the next 7 days.assistant:for what city would you like the forecast.driver:chicago please.assistant:the weather in chicago will be mainly rainy and cloudy over the next_few_days.
+driver:what s the current weather in san_francisco.assistant:there is currently snow in san_francisco.
+driver:car what is the weather going to be like in the next several days.assistant:for what city would you like to know the weather for.driver:san_francisco.assistant:what days are you interested in.driver:tuesday please.assistant:it will rain in san_mateo on tuesday with temperatures ranging from 90f - 60f.
+driver:find out if it s supposed to rain.assistant:what city are you located in that you would like the rain forecast for.driver:i am in inglewood find out if there is going to be rain tomorrow car.assistant:rain is not predicted to fall in inglewood tomorrow although snow is.
+driver:is it going to snow in the next 7 days.assistant:snow is in the predictions for several cities which one would you like me to tell you about.driver:boston.assistant:it is predicted to snow in boston on friday.
+driver:what s the weather like in downtown_chicago.assistant:today in downtown_chicago is drizzle.driver:okay will you find out if there will be a blizzard there anytime in the next 7 days.assistant:downtown_chicago does not have any weather predictions for a drizzle this week.
+driver:check out the seven day forecast to see if it will be foggy in durham.assistant:it will not be foggy in corona next_week.
+driver:what is the low today in brentwood.assistant:the low temperature in san_francisco today is 20f.
+driver:is it gonna be dry in redwood_city in next_few_days.assistant:what day would you like the forcast for.driver:the next_few_days please.assistant:it will not be dry in redwood_city next_week.
+driver:will there be hail in mountain_view today.assistant:there will be dry today in brentwood.
+driver:what is today s weather forecast.assistant:what city would you like the forecast for.driver:durham.assistant:today s forecast says inglewood is humid the low temperature is 30f and the high is 30f.
+driver:what s today s and tomorrow s forecast.assistant:what city would you like weather information about today and tomorrow.driver:i want to know about grand_rapids and if it s going to be hot or not.assistant:today in durham the high should be in the 70fs tomorrow s high should be in the 90fs.

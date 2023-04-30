@@ -1,0 +1,7 @@
+scikit-learn==0.23.2
+numpy==1.19.1
+fitlog==0.9.13
+tqdm==4.49.0
+sklearn==0.0
+transformers==3.2.0
+torch==1.10.0

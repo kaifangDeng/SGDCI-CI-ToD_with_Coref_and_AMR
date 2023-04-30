@@ -1,0 +1,595 @@
+driver:schedule a reminder for my yoga class at 7pm on my calendar with tom.assistant:what date is that on.driver:the_15th.assistant:okay scheduling your 7pm yoga class on the_15th with tom.
+driver:hi car can you find out the time and the parties involved for my yoga_activity thanks.assistant:your yoga_activity is the_10th at 6pm with your sister.
+driver:who is going to yoga and when is it.assistant:your aunt will be going to yoga with you on the_4th at 7pm.driver:when is going to be the next yoga lesson who will be coming with me.assistant:your next yoga_activity will be on friday at 7pm with your mother.
+driver:set meeting for saturday 11am with the boss.assistant:okay meeting with boss on saturday at 11 is set.
+driver:schedule meeting.assistant:on what date and time should i schedule your meeting.driver:today at 1pm also add the purpose is to discuss the budget.assistant:added meeting to schedule for today at 1pm purpose is to discuss the budget.
+driver:what time is my optometrist_appointment and who will be going.assistant:do you mean your optometrist_appointment on sunday or monday.driver:i am not sure what days are those.assistant:martha will be go to optometrist_appointment with you.
+driver:set a reminder for a conference with the vice_president next wednesday at 10am.assistant:okay scheduling a conference with the vice_president for next wednesday at 10am.driver:awesome.assistant:it sounds hard.
+driver:what time is yoga class.assistant:your yoga class is at 1pm.
+driver:what time and date do you have for my football_activity.assistant:four football_activity are scheduled two on the_4th at 1pm and 9am one on the_19th at 2pm and one monday at 5pm.
+driver:confirm dentist_appointment on the_12th at 4 50pm.assistant:i am showing your dentist_appointment is on monday at 10am.driver:okay i need to find out the location the agenda and who is joining please.assistant:your meeting is on friday at 7pm.
+driver:hello car hi i want to find out the time and the parties attending my lab_appointment please.assistant:your sister will be in attendance at your 5pm lab_appointment.
+driver:schedule a meeting for 6pm with hr.assistant:setting a reminder for your meeting with hr at 6pm what day is this meeting held on.driver:the meeting is one week from today.assistant:okay setting a reminder for your meeting with hr at 6pm one week from today.
+driver:can you kindly schedule a meeting at 4pm later this week with infrastructure to discuss_dress_code.assistant:scheduling meeting for 4pm later this week with infrastructure to discuss_dress_code do you have a specific day in mind.driver:thursday.assistant:anything else.
+driver:who s showing up for tennis and what s the date on that.assistant:jon and jeff will be attending your tennis_activity.driver:what time will they be there.assistant:they will be there at 1pm.
+driver:set a reminder for a football_activity at 10am on friday with tom.assistant:okay scheduling a football_activity with tom for friday at 10am.
+driver:remind me to watch the football game on the_1st.assistant:what time on the_1st should i set a reminder to watch the football game.driver:at 2pm please.assistant:i have set a reminder for the football game at 2pm on the_1st.
+driver:i need to schedule yoga with martha.assistant:what time shall i set the reminder for yoga with martha.driver:set it for 9am on the tenth please.assistant:okay setting a reminder for your yoga_activity with martha at 9am on the_10th.driver:thanks a bunch.assistant:you are welcome.driver:i want to double check when is my yoga appointment with martha.assistant:it is at 9am on the_10th.
+driver:august 3rd at 10am i am going swimming with my brother.assistant:ok i have you down for tennis_activity with your brother on august 3rd at 10am anything else.
+driver:schedule a meeting on december 10th at 2pm with the infrastructure_team to discuss_the_merger.assistant:i will make a note of the meeting for december 10th at 5pm with the infrastructure_team to discuss_the_merger.
+driver:i need a reminder for the dinner later this week.assistant:sure what time is your dinner at.
+driver:info about football please.assistant:your tennis_activity is on sunday at 6pm with your father.
+driver:what time is my tennis_activity.assistant:you have 3 upcoming tennis_activity the_13th at 7pm sunday at 3pm and wednesday at 4pm.driver:who will be attending tennis with me on wednesday.assistant:your tennis_activity on wednesday at 4pm is with jeff.
+driver:i would like to know what time and day my tennis is.assistant:your tennis_activity is on monday at 3pm.
+driver:what day and time is my swimming_activity.assistant:your swimming_activity is scheduled for the_10th at 6pm with martha.
+driver:what time is my meeting and what is the agenda also who is attending.assistant:for which one i have one with sales_team at 9am to sign_the_nda and i also have another with sales_team at 1pm to go_over_budget.
+driver:what time is the meeting.assistant:the optometrist_appointment is at 3pm.
+driver:set a reminder for lab_appointment today at 3pm with sister.assistant:reminder set for lab_appointment at 3pm today with sister.
+driver:tell me the time of today s meeting.assistant:the meeting is at 7pm.driver:perfect.assistant:anything else.
+driver:check the date and time of my doctor_appointment.assistant:your doctor_appointment is on friday at 7pm.
+driver:what time is my football_activity and who is attending.assistant:which one i have two one for 11am with ana and one for 6pm with job.
+driver:i want to find the agenda location and time for my meeting.assistant:you have two meeting scheduled one at 4pm in conference_room_102 to discuss_the_company_picnic and one at 3pm in conference_room_102 to go over the quarterly report.
+driver:hi can i set a scedule about football at 3pm next_week with alex.assistant:setting a reminder for football next_week at 3pm with alex.
+driver:i need to schedule a dentist visit.assistant:what time would you like a dentist visit scheduled.driver:please schedule it for 7pm on the_12th of this month.assistant:okay great i have that all scheduled for you can i help with anything else.
+driver:remind me about tennis at 10am at the end of march with martha.assistant:okay a reminder is set for tennis with martha at 10am what is the date for the scheduled tennis event.driver:just set it for the end of march.assistant:ok setting reminder for your tennis with martha at 10am for the last week of march.
+driver:what is the date time and agenda of my next conference.assistant:your next lab_appointment is on the_1st at 8pm to sign_the_nda.
+driver:schedule doctor_appointment for august 3 at 10.assistant:i have scheduled your appointment.
+driver:what is the date and time of my next lab_appointment.assistant:your next dinner is on the_1st at 4pm.
+driver:remind me what s planned for the meeting today.assistant:you have 2 meeting scheduled today to discuss_the_company_picnic.driver:what is my agenda today.assistant:you have a doctor_appointment with the vice_president to discuss_the_company_picnic on friday at 4pm in conference_room_100.
+driver:i need a reminder for a yoga_activity at 7pm on thursday with jeff.assistant:okay scheduling a reminder for a yoga_activity with jeff for thursday at 7pm.
+driver:what time and date is my doctor_appointment.assistant:two doctor_appointment are set in your calendar one on the_1st on 6pm and one on the_6th at 2pm.
+driver:when am i taking my medicine.assistant:is this with jon or tom.driver:jon.assistant:you are taking your medicine with jon at 6pm on the_9th.
+driver:what is the date and time for my optometrist_appointment.assistant:you have an optometrist_appointment on the_3rd at 1pm with jeff and on the_10th at 3pm with vice_president.
+driver:schedule a tennis_activity for 3pm on saturday with my father.assistant:okay i am scheduling a tennis_activity with your father on saturday at 3pm.
+driver:what time is my lab_appointment and who is attending.assistant:you have three one on the_7th at 7pm with brother one on the_16th at 7pm with marie and one on friday at 2pm with marie.
+driver:schedule a conference with the executive_team at 5pm on the_6th.assistant:i will be scheduling that now would you like to add a location for the conference.
+driver:i need you to set a schedule for a meeting at 3pm the_5th with vice_president to onboard_new_members.assistant:meeting scheduled for 3pm on the_5th with the vice_president to discuss onboard_new_members.
+driver:remind me about my meeting with the vice_president on monday the_1st.assistant:scheduling your meeting with the vice_president on monday the_1st what time shall i add.driver:it s at 6pm to discuss_the_company_picnic.assistant:okay setting a reminder about your meeting with the vice_president on monday the_2st at 8pm to discuss_the_company_picnic.
+driver:what time is my next dinner event and who will be attending.assistant:the one at 6pm with hr is on the_13th.
+driver:schedule a doctor_appointment with alex for the 29th at 11am.assistant:it has been set doctor_appointment with alex for the 29th at 11am.
+driver:schedule a football_activity at 10am on the 29th with my aunt.assistant:okay i am scheduling a football_activity with your aunt on the 29th at 10am.
+driver:remind me about the football_activity at 4pm on the_13th with tom.assistant:okay setting a reminder for your football_activity at 4pm on the_13th with tom.
+driver:what time is my workout activity this week.assistant:your yoga activity or swimming.driver:swimming and i d also like to know the time.assistant:your swimming activity is scheduled for 10am today.
+driver:what day is the swimming party and who will be attending.assistant:your swimming_activity is on the_13th with your sister.
+driver:what time is my lab_appointment and who will be attending it.assistant:your lab_appointment is at 6pm with ana.
+driver:schedule a meeting on monday the_1st at 11am with the sales_team to discuss_the_company_picnic.assistant:a meeting on monday the_1st at 8am has been scheduled with the sales_team to discuss_the_company_picnic.
+driver:set a reminder for a doctor_appointment on the_4th at 3pm with jon.assistant:okay scheduling a doctor_appointment with jon for the_4th at 3pm.
+driver:what time is my next swimming_activity and who will be attending.assistant:your next swimming_activity is scheduled at 1pm and marie will be attending with you.
+driver:what time is my swimming_activity and who is going to be attending.assistant:your next swimming_activity is at 2pm with tom would you like to know the date as well.
+driver:confirm meeting.assistant:your meeting is set for thursday at 3pm with the executive_team in conference_room_100.driver:okay that is good.assistant:happy to help.
+driver:when is my next dental appointment.assistant:your next dental appointment is on monday at 3pm.
+driver:reminder to take medicine.assistant:what time and day would you like the reminder to take medicine.driver:at 9am on the_1st with my father.assistant:reminder set to take medicine at 9am on the_2rd with your father is there anything else i can help you with.
+driver:what time is my optometrist_appointment.assistant:you have two dinner scheduled one for the_15th at 4pm with vice_president and one the_14th at 1pm with tom.
+driver:schedule a swimming_activity with marie on the_5th at 10am.assistant:okay scheduling a swimming_activity with marie on the_5th at 10am.
+driver:set a reminder for my swimming plans.assistant:swimming plans.driver:at 11am on friday.assistant:swimming plans on friday at 11am have been added to the calendar.driver:perfect nothing else for now.assistant:ok.
+driver:what day and time is my football_activity.assistant:your dentist_appointment is on the_8th at 2pm.
+driver:what day are the football parties i m going to.assistant:you have two football_activity listed on the calendar both activity are on thursday.driver:who are attending the activity.assistant:the activity is with jeff the activity is with marie.
+driver:set a reminder for the conference.assistant:what day and time is the conference.driver:it is on august 14th at 4pm.assistant:i have that conference set up for you to be reminded of is there anything else you need.
+driver:who is going to play tennis with me.assistant:alex will be attending your tennis_activity.driver:what time will we be meeting for this.assistant:with alex.
+driver:what time is dinner and who is coming.assistant:you have 3 dinners scheduled one on the_20th 13th and tuesday.driver:the one on the_20th.assistant:dinner on the_20th is at 5pm with your mother.
+driver:schedule a football_activity with my aunt on the_5th at 4pm.assistant:ok football_activity at 4pm on the_5th with you aunt has been added to the schedule.
+driver:show me what time i need to take my pills.assistant:you need to take your meeting at 6pm.
+driver:when is the date and time of my dentist_appointment.assistant:your conference is at 10am on the_13th.
+driver:set a reminder for yoga_activity at 5pm on thursday with mother.assistant:setting reminder for yoga_activity at 5pm thursday with mother.
+driver:what time is my meeting.assistant:1pm.driver:please set a reminder for 1pm for meeting.assistant:set reminder for meeting thursday at 1pm.driver:yes please.assistant:reminder is set for meeting on thursday at 1pm.
+driver:what day is my next tennis match.assistant:the next tennis_activity is thursday at 10am.
+driver:when is my dentist_appointment who am i going with.assistant:your football_activity is on wednesday at 11am and you are going with your aunt.
+driver:schedule a lab_appointment with my aunt for the_7th at 1pm.assistant:your lab_appointment with your aunt for the_7th at 1pm has been promptly scheduled.
+driver:schedule a reminder for football with ana on the_15th of this month at 11am.assistant:ok i have set your reminder for football with ana on the_15th at 11am.
+driver:i need to know when the conference is where it is and who is attending.assistant:the conference is located in the conference_room_102 at 10am with your executive_team.
+driver:what day is the meeting in the conference room.assistant:the meeting in the conference room is thursday at 7pm with hr parties would you like to know about another appointment.driver:no.assistant:your meeting is at 7pm on monday.
+driver:who is going with me to the optometrist_appointment.assistant:your mother will be going to the optometrist_appointment.driver:what time do we need to be there.assistant:your appointment starts at 6pm on sunday.
+driver:find out immediately the location time and date for my meeting.assistant:for which one i have one in conference_room_100 at 11am on the_14th and one in conference_room_50 at 9am on saturday.
+driver:set a reminder for dentist_appointment at 5pm on the_2nd with ana.assistant:reminder set for conference with vice_president at 3pm on saturday.
+driver:schedule a swimming_activity with ana for the_1st at 2pm.assistant:scheduling a conference at 6pm on the_1st with hr.
+driver:when is my optometrist_appointment and who is attending.assistant:two are scheduled one on the_13th at 9am with father and one on thursday at 8pm with infrastructure_team.
+driver:what time is my meeting at.assistant:football_activity at 5pm.
+driver:i have a lab_appointment with alex at 2 at the end of march.assistant:okay great would you like to set a reminder for it.driver:yes please.assistant:okay i just set that reminder for you can i help with anything else.
+driver:what is the date of my yoga_activity and who will be attending it.assistant:you have four yoga_activity scheduled one on monday with alex two on friday with sister and one with marie and one on saturday with martha.
+driver:i need a reminder for taking my medicine on august 14th at 7pm with brother.assistant:scheduled taking_medicine at 7pm on august 14th with brother.
+driver:add my dentist_appointment to the calendar.assistant:i will add it what date and time would you like.driver:the_12th at 11am please.assistant:added your dentist_appointment on the_12th at 11am to the calendar.
+driver:remind me about dinner tonight.assistant:what time would you like a reminder for dinner tonight.driver:dinner is at 7pm tonight.assistant:i have added dinner tonight at 7pm to your calendar what time would you like the alarm.
+driver:schedule a yoga_activity at 9am with my sister.assistant:sure do you want me to schedule it for tomorrow.driver:no schedule my yoga_activity for today.assistant:okay scheduling your yoga_activity for tomorrow at 9am with your sister.
+driver:remind me about that meeting later.assistant:when would you like the reminder.driver:11am.assistant:i have set a reminder for today at 11am.
+driver:what day is the football_activity and who is coming.assistant:you currently have three optometrist_appointment scheduled one is on monday and martha will be attending the other i on the_12th and you sister will be attending the last is on the_8th and your mother will be attending.
+driver:what is the date for my doctor_appointment and who will be attending.assistant:you have two doctor_appointment s scheduled next_week one on the_3rd at 11am with boss attending and one on the_19th with jeff at 11am.
+driver:schedule.assistant:your schedule is empty.driver:please schedule a 2pm yoga_activity with jeff on august 14th.assistant:okay setting a reminder for your yoga_activity with jeff on august the_14th at 2pm.
+driver:what is the date and time for dinner.assistant:for which one i have you set for three.driver:the soonest one please.assistant:i have the soonest dinner listed for 8pm on the_2nd with your sister.
+driver:who is going to be at the meeting.assistant:which one there is one at 11am on sunday and there is another at 7pm on the_9th.
+driver:good day car i would like to schedule a meeting at 9am next wednesday with management to discuss_the_merger.assistant:great i have just scheduled that meeting for you is there anything else i can do.
+driver:tell me when i m going swimming.assistant:you have a conference at 6pm on the_10th.
+driver:set reminder for conference at 9am on wednesday with infrastructure_team.assistant:okay setting reminder for your meeting with the infrastructure_team on wednesday at 9am.
+driver:i have an optometrist_appointment the_7th at 3pm.assistant:okay i will set a reminder and schedule a optometrist_appointment on the_7th at 3pm for you.
+driver:what is the date and time of my next yoga_activity.assistant:your next swimming_activity is on the_5th at 3pm.
+driver:can you set a reminder for my optometrist_appointment at 10am tomorrow with jeff.assistant:i will set a reminder for your optometrist_appointment at 10am tomorrow with jeff.
+driver:what time is my optometrist_appointment and who is attending.assistant:which one i have you for two one on the_5th and one on the_10th.driver:i need to know the time and parties attending try the one on the_5th.assistant:marie will be attending your yoga_activity with you at 1pm.
+driver:when s my tennis match.assistant:your tennis match is tuesday at 11am.
+driver:please add my optometrist_appointment to my schedule for august 3rd.assistant:okay great what time would you like to set it for.driver:please set it for 4pm.assistant:i ve set taking_medicine for you for 2pm.
+driver:what is the date of my next lab_appointment and who will be attending.assistant:your next lab_appointment is on the_3rd jeff is coming along.
+driver:can you schedule in my dentist_appointment today.assistant:yes i can for what time would you like that.driver:i would like you to schedule me that dentist_appointment at 1pm today jon will be coming along.assistant:i have scheduled a dentist_appointment with jon today at 1pm.
+driver:when is the next yoga lesson and who is coming with me.assistant:you have one yoga_activity on tuesday and one on thursday which one are you interested in.driver:please give me the information for tuesday.assistant:your yoga_activity on tuesday is at 9am with your mother.driver:please give me the information for thursday.assistant:your yoga_activity on thursday is at 6pm with jon.
+driver:check out my appointment.assistant:check appointment for doctor optometrist or dentist.driver:doctor_appointment i need to find out the agenda.assistant:conference about go_over_budget is in conference_room_102 with infrastructure_team at 10 am on friday.
+driver:who is taking_medicine with me and on what day.assistant:which one i have two one on the_19th with jon and one on the_20th with your mother.driver:that will do.assistant:have a good day.
+driver:schedule a optometrist_appointment with tom today at 7pm.assistant:no problem scheduling a optometrist_appointment with tom for 7pm do you have a specific date in mind.driver:yes today.assistant:setting reminder for wednesday at 7pm for taking_medicine with jon.
+driver:where is my meeting which parties will be attending and what is the meeting about.assistant:your medicine with the infrastructure_team in in conference_room_50 to go over the quarterly report.
+driver:what time is the optometrist_appointment and who is going.assistant:i have two one at 11am with sales_team and one at 8pm with martha.
+driver:what date is my optometrist_appointment and what parties are attending.assistant:you have three optometrist_appointment scheduled one on the_18th with jeff one on the_1st and 20th with martha.
+driver:reminder for optometrist.assistant:what info should i add to your optometrist reminder.driver:it s at 6pm on the_11th with my brother.assistant:reminder set for optometrist at 6pm on the_11th with your brother is there anything else.
+driver:what time is my meeting.assistant:1pm.driver:please set a reminder for 1pm for meeting.assistant:set reminder for yoga_activity thursday at 1pm.
+driver:do you know who s coming for tennis and when is it taking place.assistant:you have two medicine scheduled one for 7pm on the_10th with your mother and one for 8pm on the_5th with executive_team.
+driver:set a reminder for the conference with the executive_team at 5pm on monday august 7th.assistant:ok conference with executive team on august 7th for 5pm is set.
+driver:what time is dinner and who is it with.assistant:tennis_activity is at 10am with tom.
+driver:remind me about that meeting later.assistant:when would you like the reminder.driver:11am.assistant:i have set a reminder for today at 11am.driver:that is all.assistant:happy to help.
+driver:i need a reminder about a lab_appointment.assistant:when is your lab_appointment.driver:please set a reminder for my lab_appointment.assistant:okay setting a reminder for lab_appointment on what date.driver:set it at 1pm on december 10th with marie.assistant:okay your reminder for meeting is set for 7pm on december 10th.
+driver:can you schedule a conference at 4pm the_12th of this month with the vice_president.assistant:okay i ve got it scheduled for you anything else.
+driver:schedule a conference with the vice_president on august 14th at 10am.assistant:reminder set for conference with vice_president at 10am on august 14th.
+driver:set a reminder for tennis at 2pm with tom next month on the_13th.assistant:okay setting a 2pm reminder for tennis with tom on the_13th of next month.driver:that will be all.assistant:have a good day.
+driver:set a reminder for my conference call tomorrow.assistant:okay reminder set for conference call tomorrow.
+driver:what is the date of my next optometrist_appointment and who will be attending.assistant:i have two one on wednesday with father and one on the_3rd with alex.
+driver:car set a reminder for a conference at 6pm i need it on the_1st with my boss.assistant:reminder set for conference at 6pm on the_1st with the boss.
+driver:i have a doctor_appointment next month on the_13th at 11am with tom please set a reminder.assistant:okay setting a reminder for your doctor_appointment on the_13th at 11am with tom.
+driver:set reminder for dinner.assistant:okay i ve set a reminder for dinner.driver:what time and date did you set it for.assistant:what date and time would you like me to set it for.
+driver:i need to schedule a doctor_appointment.assistant:when.driver:it s at 1pm today.assistant:the conference is with your boss.
+driver:what is the date and time of my doctor_appointment.assistant:you have two medicine scheduled one on wednesday at 1pm and the other on the_3rd at 11am.
+driver:hi car help me find out the location parties attending and time for my meeting please.assistant:the location of your doctor_appointment is in conference_room_100 with your sister at 6pm.
+driver:car schedule a conference at 1pm today with the infrastructure_team.assistant:okay scheduling a conference with the infrastructure_team for today at 1pm.
+driver:schedule conference with vice_president.assistant:what day and time is this conference.driver:schedule this conference for later this week please at 9am with my vice_president.assistant:okay for what day exactly would you like this meeting.driver:i want it scheduled for wednesday.assistant:i ve set that for wednesday at 9am with the vp.driver:that s all.assistant:i ve set that for monday at 9am with the vice_president.
+driver:what is the date of my next dinner and who will be attending it.assistant:your next dentist_appointment is on the_1st with alex do you need the time also.
+driver:put my eye doctor_appointment into the calendar it s tomorrow at 3pm and remind me 2 hours before.assistant:setting a reminder for today s optometrist_appointment at 5 with your mom.
+driver:remind me to go swimming at 4 50.assistant:am or pm.driver:at 4 50pm the_12th of this month.assistant:swimming reminder has been set for the_12th at 4 50pm.
+driver:schedule a tennis match for 3pm this week with jeff.assistant:setting reminder for tennis match this week at 3pm with jeff do you know the date.
+driver:schedule a swimming_activity with marie on sunday at 6pm.assistant:okay i will set a schedule for a swimming_activity with marie on sunday at 6pm.
+driver:please tell me what dates my football events are.assistant:you have an event on thursday at 8pm with brother and an even on the_12th at 4pm with sales_team.
+driver:schedule a dentist_appointment on the_8th at 1pm ana will be joining you.assistant:okay scheduling a dentist_appointment with ana on the_8th at 1pm.
+driver:i need you to schedule a reminder to take my medicine at 7pm mark it on the_1st with ana please.assistant:okay setting a reminder to take medicine on the_1st at 7pm with ana.
+driver:schedule a reminder for my tennis_activity at 6pm the tenth with father.assistant:ok reminder for tennis with your father on the tenth at 6pm is set.
+driver:find out the date and time for my swimming_activity.assistant:you have three dentist scheduled one on friday at 5pm another on the_15th at 10am and the last is on the_7th at 5pm.
+driver:please schedule me a yoga_activity with tom on the_4th at 5pm.assistant:i will schedule your yoga_activity with tom on the_4th at 5pm.
+driver:remind me to go to the optometrist at 5pm today with my father.assistant:i will remind you to go to the optometrist today at 5pm with your father.
+driver:schedule a meeting at 1pm this month on the_11th with boss to discuss_dress_code.assistant:i will schedule a meeting at 1pm this month on the_11th with boss to discuss_dress_code.
+driver:when is my football_activity and who is attending.assistant:you have two football_activity scheduled one on the_10th with jon and another on the_20th with your sister.
+driver:please look up the date and time of my swimming_activity.assistant:you have three swimming_activity scheduled one on the_4th at 9am another on the_12th at 1pm and the last on the_19th at 4pm.driver:perfect.assistant:you are welcome.
+driver:what time and date is my lab_appointment.assistant:you have three dinner scheduled the first is on the_5th at 8pm the next is on the_19th at 6pm and the last is on the_19th at 10am.
+driver:what time is my next yoga_activity and who will be attending.assistant:your next yoga_activity is on thursday with your sister.driver:what is the scheduled time for the yoga_activity on thursday.assistant:your thursday yoga_activity with your aunt is at 9am.
+driver:what day is the meeting in the conference room.assistant:the meeting in the conference room is thursday at 7pm with hr parties would you like to know about another appointment.driver:no.assistant:would you like to look up another appointment.driver:no.assistant:let me know if you need anything else.
+driver:when is taking_medicine scheduled and who is attending.assistant:you have two reminders set for taking_medicine one on monday at 3pm with mother and one on the_7th at 4pm with aunt.
+driver:what is the date of my next medicine event and who will be attending.assistant:for which one i have one on the_11th with jeff and one on monday with jon.
+driver:schedule a yoga_activity with alex on august 14th at 1pm.assistant:scheduling a conference at 6pm on the_1st with hr.
+driver:what time is my dinner reservation.assistant:you have a doctor_appointment at 5pm on friday.
+driver:find out some information for my swimming_activity parties joining me and date.assistant:okay which one i have two one is the_8th with jeff and the other is on the same day with martha.driver:the one on the_8th.assistant:both swimming_activity are on the_8th the one at 10am is with martha and the other at 2pm is with jeff.driver:thanks for your help goodbye.assistant:my pleasure.driver:that will be all.assistant:no problem.
+driver:doctor_appointment at 10am on monday august 8th.assistant:setting a reminder on august 8th for your doctor_appointment at 10am.
+driver:when is my dentist_appointment.assistant:your dentist_appointment is monday at 7pm.
+driver:what time is dinner and who is attending.assistant:there are dinners on the_10th and on friday for which one are you looking for.driver:the one on the_10th.assistant:the dinner on the_10th is at 8pm with your sister.
+driver:schedule a dentist_appointment with my aunt on the_4th at 6pm.assistant:i will schedule a dentist_appointment with your aunt on the_4th at 6pm.
+driver:who is coming to my doctor_appointment with me.assistant:you have two doctor_appointment scheduled on wednesday jon will be attending it with you and on the_8th your aunt will be attending.driver:at what time are these appointment.assistant:the doctor_appointment on wednesday is at 5pm and the one on the_8th is at 1pm.driver:great.assistant:have a great day.
+driver:what is the date and time for the yoga_activity.assistant:you have two yoga activites scheduled one on monday at 5pm and another on the_4th at 6pm.
+driver:what time is my appointment today.assistant:which appointment are you referring to.driver:my lab_appointment.assistant:it is at 7pm on thursday.
+driver:schedule a yoga_activity with martha for the_4th at 10am.assistant:setting a reminder for yoga_activity with martha for the_4th at 10am.
+driver:set a reminder for my football_activity today at 1pm with jon.assistant:okay setting a reminder for your football_activity today at 1pm with jon.
+driver:when is the football.assistant:the football game is friday at 9am.driver:who is going.assistant:alex will be at the football_activity on the_4th at 10am.
+driver:schedule a dentist_appointment at 3 next month on the_12th.assistant:i ve scheduled a dentist_appointment for 3pm on the_12th anything else.driver:can you confirm you set the dentist_appointment for next month on the_12th.assistant:the tennis_activity is the only activity for 3pm on the_12th next month.
+driver:schedule a football_activity with martha on sunday at 4pm.assistant:okay i am now scheduling a football_activity with martha on sunday at 4pm.
+driver:set a reminder for a dentist_appointment at 5pm on monday the_1st with my mother.assistant:okay i am scheduling a dentist_appointment with your mother for monday the_1st at 5pm.
+driver:i need a reminder for the dinner later this week.assistant:sure what time is your dinner at.driver:set the dinner for 10am with marie later this week like i said before thanks.assistant:i will set a reminder for dinner at 10am with marie later this week what day exactly.driver:for saturday please.assistant:setting a reminder for your dinner with marie at 10am on sunday.
+driver:what is the date and time of my dentist_appointment.assistant:for which one i have three one with your brother at 3pm on the_19th one with your sister at 10am on the_10th and one with your father at 5pm on the_9th.
+driver:find out the parties joining me and date for my doctor_appointment.assistant:you have 4 doctor_appointment scheduled marie on the_15th your brother on wednesday your mother on the_20th and ana on the_12th.
+driver:when is my tennis scheduled for.assistant:your tennis is the_13th at 10am with your father.
+driver:assistant schedule an appointment at the dentist 9am of the_12th of current month bring martha with me.assistant:i am setting an appointment at the dentist on the_12th of current month at 9am with martha.
+driver:what is the date and time for my yoga_activity.assistant:you have four yoga_activity scheduled one is on monday at 9am another is on thursday at 7pm another is on the_9th at 11am and the last is on the_16th at 2pm.
+driver:set a reminder to see my dentist at 12pm tomorrow.assistant:okay setting a reminder to swim at 12pm tomorrow.
+driver:find out the parties that are attending my football_activity also find the time.assistant:your football_activity is scheduled for the_2nd at 2pm with jeff.
+driver:set a reminder to take medicine with jon at 5pm on the tenth.assistant:reminder set for jon to take medicine on the_10th at 5pm.
+driver:set a reminder for doctor_appointment on august 14th at 4pm with my sister.assistant:reminder for doctor_appointment on august 14th at 4pm with your sister is set.driver:sorry can you confirm that that has been set one more time.assistant:a reminder for your doctor_appointment on august 14th at 4pm with jeff has been set.
+driver:i need to schedule tennis with jon.assistant:when shall i set the reminder for tennis with jon.driver:on the_15th at 1pm.assistant:okay great i have that scheduled for you on the_15th with jon.driver:make sure it s this month.assistant:okay scheduling a tennis reminder for you on the_15th of this month with jon at 1pm.
+driver:check doctor_appointment date.assistant:you have a doctor_appointment set for friday at 3pm.
+driver:schedule a meeting with hr for 1pm tuesday to onboard_new_members.assistant:okay i scheduled a meeting with hr at 1pm on tuesday to onboard_new_members.
+driver:remind me of the time for today s dinner.assistant:medicine event time 8pm wednesday evening.
+driver:schedule swimming tomorrow at 2 with my brother.assistant:scheduling a swimming_activity at 2pm with your brother what day should i add this.driver:it is tomorrow.assistant:great i have that swimming_activity all scheduled for you can i help with anything else.
+driver:what is the date and time of the conference.assistant:the meeting is at 4pm on monday.
+driver:set a reminder for a conference with vice_president at 3pm on saturday.assistant:okay setting a reminder for a football_activity with jeff for august 22nd at 5pm.
+driver:what date is the football game and who is attending.assistant:you have 2 football games one on the_18th with your tom and one on the_14th with ana.
+driver:remind me of my dentist_appointment.assistant:what is the date and time of the appointment.driver:it s at 7pm on august 12th.assistant:yoga_activity has been set at 4pm on august 12th.
+driver:what time is the doctor_appointment.assistant:your doctor_appointment is tueday at 2pm.
+driver:i need to schedule a conference.assistant:what day and time is your conference.driver:this week on tuesday at 4pm.assistant:okay setting a reminder for a tuesday at 4pm for conference is there anything else i should add.driver:the conference is with the executive_team.assistant:okay setting a reminder for your conference with the executive_team on tuesday at 4pm.
+driver:what is the date of my next dentist_appointment and who will be attending it with me.assistant:your next dentist_appointment is on the_5th with your sister.
+driver:make an appointment for me to get my laboratory results later this week.assistant:what day and time are best for you to get your laboratory results.driver:at 7pm on august the_12th.assistant:setting appointment for laboratory results for august 12th at 7pm.
+driver:schedule a swimming_activity with jon on thursday at 4pm.assistant:your next swimming_activity is scheduled for 3pm on the_5th with alex.
+driver:schedule a optometrist_appointment with my aunt on tuesday august 8th at 10am.assistant:i am scheduling you an appointment with the optometrist on tuesday august 8th at 10am your aunt will be attending.driver:that is perfect.assistant:glad i could help.
+driver:can you find out for me the date and parties attending my dinner.assistant:your football_activity is on tuesday with your mother.
+driver:schedule a swimming_activity with marie for friday at 1pm.assistant:reminder for swimming with marie on friday at 1pm is set.
+driver:what day and time is my yoga class.assistant:your medicine is on friday at 10am.
+driver:what time is the doctor_appointment and who is attending.assistant:which one i have three one with jeff on monday one with your father on the_3rd and one with tom on the_9th.
+driver:schedule a dentist_appointment at 3pm on the_11th of this month with father.assistant:i will set your dentist_appointment for 3pm on the_11th of this month with father.
+driver:set reminder for dinner at 11am with mom on friday.assistant:okay scheduling friday dinner with mom at 11am.
+driver:what day and time is my yoga_activity.assistant:your yoga_activity is on wednesday at 7pm.
+driver:i need to know who is going with me to optometrist_appointment and what day.assistant:tom will be attending your optometrist_appointment on friday.
+driver:tell me when my next tennis game is.assistant:your next tennis_activity is on wednesday at 1pm.driver:great.assistant:you re welcome.
+driver:set a reminder for the conference.assistant:please confirm the day of the conference.driver:today.assistant:and at what time would you like the reminder.driver:1pm.assistant:i have set a reminder for the dentist_appointment today at 2pm.
+driver:remind me about my son s football practice at 2 tomorrow.assistant:okay setting a reminder for your son s football practice at 2pm tomorrow.driver:also set reminder for football_activity for tomorrow at 10am.assistant:okay i will also set a reminder for football_activity for tomorrow at 10am.
+driver:what day and time is tennis.assistant:conference is at 3pm on the_9th.
+driver:what time is my doctor_appointment and who is attending with me.assistant:you have two doctor_appointment scheduled one is at 9am with jeff and the other is at 2pm with alex would you like to know the dates as well.
+driver:set a reminder for today s optometrist_appointment at 3 with my mom.assistant:setting a reminder for today s optometrist_appointment at 5 with your mom.
+driver:when is my next yoga class.assistant:your dentist_appointment in on wednesday at 1pm.
+driver:schedule dinner at 3pm next_week with sister.assistant:what date next_week would you like the dinner to be scheduled.driver:friday.assistant:ok i ve scheduled the dinner for friday.
+driver:what people have sent an rsvp or responded for the party so far what time will the party begin what activity are on the agenda for the party.assistant:you do not have any parties on your schedule.driver:what time is my conference who is attending and what is the agenda.assistant:you have two taking_medicine scheduled one is saturday at 6pm with the jon to go over the quarterly report the other is on the_11th at 4pm with the sales_team to sign_the_nda.
+driver:schedule a swimming_activity at 11am today with my father.assistant:okay scheduling a swimming_activity with your father for today at 11am.
+driver:schedule dinner with martha later this week at 11am.assistant:you are welcome.
+driver:remind me that i have a meeting at work on the_12th at 5pm in conference_room_100.assistant:reminder for event work meeting set.
+driver:schedule a conference at 1pm with management.assistant:okay i am now scheduling a conference with management for 1pm would you like to set a specific date as well.
+driver:what time is my optometrist_appointment and who is attending.assistant:you have two optometrist_appointment scheduled one at 5pm with marie and the other is also at 2opm but with marie would you like to know the dates.
+driver:set a reminder for the_15th at 6pm conference with the executive_team.assistant:okay setting reminder for conference with executive_team on the_15th at 6pm.
+driver:what is the date for my next yoga appointment.assistant:dinner is at 5pm.
+driver:can you tell me when my swimming_activity is.assistant:your swimming_activity is at 2pm on thursday.
+driver:hi car i need to find out the time and date for my dinner please.assistant:your tennis_activity is set for 3pm on thursday.
+driver:what time is my meeting at.assistant:i have one yoga_activity on your calendar it is monday at 9am.
+driver:i have a meeting at 3pm set a reminder.assistant:for what date would you like to set the reminder for.driver:later this week on friday.assistant:setting a friday reminder of your meeting at 3pm.
+driver:i need to find out some info for my optometrist_appointment the date and time please.assistant:okay which one i have one for the_12th at 9am and one for the_4th at 5pm.
+driver:schedule a conference for 11am on the_6th of this month with sales_team.assistant:okay i am scheduling a conference with the sales_team on the_6th of this month at 11am.
+driver:what time is my next football_activity and who will be attending.assistant:your next football_activity is with jeff at 4pm do you need the date as well.
+driver:on what day and time should i be taking my medicine.assistant:yoga_activity is scheduled for sunday at 9am and on the_4th at 11am.
+driver:what time is my lab_appointment and who is coming.assistant:your lab_appointment with martha is at 9am.
+driver:car find out the time and parties attending for my tennis_activity.assistant:your lab_appointment is set for 11am with infrastructure_team in attendance.
+driver:schedule a doctor_appointment.assistant:what day and time should i set the appointment.driver:at 11am with alex on the_13th.assistant:great i have that all scheduled for you.
+driver:car will you schedule a doctor_appointment for me set it for 11am tomorrow with jon.assistant:i sure will it s all set anything else.
+driver:what is the date of my lab_appointment and who is coming with me.assistant:for which one i have two one with your brother at 5pm on the_9th and one with your sister at 9am on the_13th.driver:the one with my sister.assistant:the optometrist_appointment with your sister is on the_19th at 9am.
+driver:remind me of my doctor_appointment on the_8th at 2pm.assistant:setting reminder for doctor_appointment on the_8th at 2pm.driver:okay great.assistant:happy to help.
+driver:what is the date and time i should take my medicine.assistant:you have a conference at 10am on the_17th.
+driver:remind me about a optometrist_appointment on tuesday at 2pm my sister will be coming.assistant:will set a reminder for optometrist_appointment on tuesday at 2pm with sister.
+driver:remind me about going swimming on the_7th with dad at 2pm.assistant:setting a reminder about your swimming_activity on the_7th with your father at 2pm.
+driver:set a calendar reminder to go out to dinner.assistant:for what date and time would you like the reminder.driver:2pm on august 12.assistant:i am placing conference on your calendar for august 12 at 10am.
+driver:schedule dentist_appointment.assistant:when is your dentist_appointment.driver:it is on sunday at 2pm.assistant:i have put on your calendar a dentist_appointment on sunday at 2pm.
+driver:could you tell me what day and time my meeting is on.assistant:your meeting is set for the_5th at 4pm.driver:what is the agenda.assistant:the purpose of your optometrist_appointment on the_16th at 1pm is to go over the quarterly report.
+driver:set a reminder for tennis on august 3rd at 11am with my aunt.assistant:setting reminder for tennis on august 3rd at 11am with aunt.
+driver:find out some information for my swimming_activity parties joining me and date.assistant:okay which one i have two one is the_8th with jeff and the other is on the same day with martha.driver:the one on the_8th.assistant:both lab_appointment are on the_8th the one at 10am is with boss and the other at 2pm is with aunt.
+driver:i m taking_medicine at 7pm with marie.assistant:alright setting a reminder to take medicine at 7pm with marie.
+driver:remind me about that meeting later.assistant:what day and time is the meeting.driver:at 7pm this tuesday with hr to discuss_the_merger.assistant:i have set a reminder for tuesday at 7pm to discuss_the_merger with hr.
+driver:set a reminder for a meeting to sign_the_nda on the_7th at 2pm with the vice_president.assistant:okay scheduling a meeting with the vice_president for the_7th at 2pm to sign_the_nda.
+driver:check my agenda for my meeting.assistant:the agenda for your meeting is to discuss_the_merger.driver:okay i want to find out what time my meeting is and where and what day please.assistant:your tennis_activity is on sunday at 3pm in conference_room_100.
+driver:what is the date and time of my next lab_appointment.assistant:you have two one at 4pm on the_6th and one at 6pm on tuesday.
+driver:i have a meeting on the_12th of august at 5 50 please remind me.assistant:i have set a reminder for your meeting on august 12th at 5 50.
+driver:what date is my yoga_activity and who is attending.assistant:i have two driver one on tuesday with infrastructure_team and one on the_16th with marie which one.
+driver:set a reminder for tennis with ana at 9am on the_12th of this month.assistant:ok setting reminder of your tennis match with ana on the_12th at 9 00 a m.
+driver:can you schedule an optometrist_appointment at 1pm friday with martha.assistant:your optometrist_appointment with martha at 1pm on friday has been scheduled.
+driver:schedule a new meeting.assistant:what date and time should i schedule your meeting.driver:it is today at 1pm with hr to go over the budget.assistant:i am setting a new meeting in your calendar for today at 1pm with hr to go over the budget.driver:nothing else for now.assistant:no problem.
+driver:what is the date and time for the meeting and what is the agenda.assistant:you have three meeting scheduled one on wednesday at 10am to onboard_new_members another on thursday at 4pm to discuss the dress code and one on the_6th at 7pm to discuss_dress_code.
+driver:who will be going to my doctor_appointment and what day is it on.assistant:your brother will be going to the doctor_appointment on tuesday.
+driver:schedule my 10am dentist_appointment on friday with my father.assistant:okay i have scheduled your dentist_appointment for this friday at 10am with your father anything else i can help with.driver:list my current schedule.assistant:current schedule is empty.
+driver:i have a dinner when is it and who is attending.assistant:your taking_medicine is the_18th at 5pm with your hr.
+driver:what is the date and time of my next dentist_appointment.assistant:your next tennis_activity is on the_3rd at 1pm.
+driver:when and where is my conference and who is attending.assistant:for which one i have two one at 1pm on the_15th and one at 5pm on the_20th.driver:5pm on the_20th.assistant:your football_activity at 5pm on the_2nd is with the sales_team.
+driver:schedule a conference with hr.assistant:what day and time should i set the conference with hr reminder.driver:at 2pm tomorrow.assistant:okay wonderful i just scheduled that conference for you.
+driver:give me the time for my next doctorappointment.assistant:your next doctorappointment is thursday at 1pm.driver:okay perfect.assistant:you are welcome.
+driver:when is my optometrist_appointment.assistant:it is on the_3rd at 10am.
+driver:remind me about my optometrist_appointment on thursday with my brother.assistant:for what time would you like me to remind you about your optometrist_appointment on thursday with your brother.driver:set it for 10am.assistant:set reminder for yoga_activity thursday at 10am.
+driver:what is the date and time of my optometrist_appointment.assistant:you have two optometrist_appointment scheduled one on the_2nd at 9am and one on the_6th at 10am.driver:that is all.assistant:happy to help.
+driver:schedule a football_activity with my mother for august 14th at 11am.assistant:setting a schedule for football_activity with mother for august 14th at 11am.
+driver:what is the agenda of my meeting today.assistant:your meeting is on thursday at 10am.
+driver:set a calendar reminder to go out to dinner.assistant:for what date and time would you like the reminder.driver:2pm on august 12.assistant:i am placing dinner on your calendar for august 12 at 2pm.driver:that will be all.assistant:happy to be of service.
+driver:what time and date is my dentist_appointment.assistant:you have a dentist_appointment on the_3rd 10th and 6th for which one are you asking about.driver:the one on the_3rd.assistant:the appointment on the_3rd is at 9am.
+driver:what date is tennis_activity and who is attending.assistant:you have two lab_appointment scheduled one on the_1st with tom and another on the_14th with your boss would you like to know the dates as well.
+driver:who is attending my swimming_activity and when is it.assistant:which one i am seeing two one with aunt on the_7th at 5pm and one with mother on the_20th at 1pm.
+driver:when is my swimming_activity and who is attending.assistant:you have a yoga_activity scheduled on the_20th at 10am with marie and another one on the_14th at 10am with jon.
+driver:i need a reminder about a lab_appointment.assistant:when is your lab_appointment.driver:please set a reminder for my lab_appointment.assistant:okay setting a reminder for football_activity on what date.
+driver:info for lab_appointment.assistant:your dentist is on the_17th at 1pm brother will be attending.
+driver:schedule an appointment at 5pm at the end of march with tom.assistant:scheduling your appointment with tom at the end of the month at 5pm.driver:set the appointment to be a lab_appointment.assistant:okay changing schedule for your appointment to a lab_appointment.
+driver:can you set a reminder that i have a dinner at 7pm with marie.assistant:what day is your dinner.driver:it is on the tenth.assistant:okay setting a 7pm dinner reminder with marie on the_10th.
+driver:schedule a reminder to take medicine at 2pm on monday the_1st with ana.assistant:setting reminder for taking_medicine at 2pm on monday the_1st with ana.
+driver:schedule a work meeting for the conference room this tuesday at 10.assistant:okay setting a reminder on tuesday for your work meeting in the conference room at 10am.
+driver:remind me about my optometrist_appointment at 11am on monday the_1st with jeff.assistant:okay setting a reminder for your optometrist_appointment at 11am on monday the_1st with jeff.
+driver:i need you to set a reminder for me to take my medicine set it for 10am the_7th with jon please.assistant:alright setting a reminder at 10am to take medicine on the_7th with jon.
+driver:schedule a meeting with the vice_president to discuss_the_company_picnic on sunday at 2pm.assistant:i have set a schedule for a meeting with the vice_president to discuss_the_company_picnic on sunday at 2pm.
+driver:car remind me to take my medicine at 11am with jeff.assistant:reminder set to take medicine at 11am with jeff.
+driver:what is the date of my optometrist_appointment and who will be attending it.assistant:two dentist_appointment are scheduled one on the_5th with hr and one on saturday with tom.
+driver:remind me to go to the football game on december 12th at 4 50pm.assistant:reminder set for conference with vice_president at 3pm on saturday.
+driver:remind me to watch football on sunday.assistant:what time would like the reminder.driver:2pm.assistant:is the_conference with your boss.
+driver:set a reminder for the conference.assistant:please confirm the day of the conference.driver:today.assistant:and at what time would you like the reminder.
+driver:i need to find out the time and parties attending for my medicine taking.assistant:you have three medicine events scheduled one at 5pm with you brother another at 3pm with tom and one at 2pm with your brother.
+driver:schedule a dentist_appointment with jeff for next wednesday at 1pm.assistant:your dentist_appointment with jeff has been scheduled for wed at 8am.
+driver:remind me about my doctor_appointment at 1pm on thursday with tom.assistant:and when should i schedule this reminder.driver:thursday at 1pm.assistant:reminder scheduled for your doctor_appointment at 1pm on thursday with tom is there anything else.driver:nope that s it.assistant:you re welcome.
+driver:i need to schedule a lab_appointment.assistant:what day and time shall i set a reminder for your lab_appointment.driver:please set it for 7pm on august 3rd my mother will be there as well.assistant:okay perfect i have scheduled dinner 7pm on august 12th for you .
+driver:i need to set a reminder for dinner.assistant:for what day and time would you like to set this.driver:it is for monday at 6pm.assistant:reminder set for dinner on monday at 6pm is there anything else.
+driver:what day is my lab_appointment and who all will be there.assistant:your dinner is set for the_13th and ana will be there.
+driver:what time is my doctor_appointment and who is attending.assistant:for which one would you like to know i have one on thursday and one on friday.driver:the one on thursday please.assistant:your conference for thursday is at 2pm with marie.
+driver:what time and date is my lab_appointment.assistant:your lab_appointment is scheduled on friday at 10am.
+driver:what date and time is my football_activity.assistant:your football_activity is on the_6th at 11am.
+driver:can you schedule a doctor_appointment at 10am monday the_1st with martha.assistant:i will get on it you are schedule for a doctor_appointment at 10am monday the_1st with martha.
+driver:what is the date of my swimming_activity and who is attending.assistant:you have a swimming_activity on saturday tuesday and the_3rd which one do you want.driver:the one on saturday.assistant:your swimming_activity on saturday is with jon would you like to know the other activity s information.driver:yes please.assistant:your tennis_activity on tuesday is with sister your medicine on the_14th is with your ana.
+driver:what is the date and time of my next optometrist_appointment.assistant:you have two conference scheduled one on the_4th at 5pm with tom and one on saturday at 2pm with executive_team.
+driver:in which day do i have doctor_appointment.assistant:doctor_appointment is on monday at 7pm.
+driver:when will my lab results be in.assistant:your lab_appointment is on tuesday at 10am.
+driver:when is yoga and who is attending.assistant:you have three yoga_activity scheduled one on the_2nd at 9am with your brother another on the_4th at 4pm with tom and the last one on the_11th at 1pm with marie.
+driver:i need to set up a reminder to go to the dentist.assistant:for what time would you like me to set the reminder.driver:3pm on tuesday.assistant:setting reminder for dentist at 3pm on tuesday.
+driver:i need to schedule a lab_appointment.assistant:what day and time shall i set a reminder for your lab_appointment.driver:please set it for 7pm on august 3rd my mother will be there as well.assistant:okay perfect i have that all scheduled for you can i help with anything else.driver:nope that s it.assistant:no problem.
+driver:set reminder for dinner.assistant:is there a date or time for dinner that i should add to this reminder.driver:tomorrow at 7pm.assistant:where is the location.
+driver:can you set a reminder for a yoga_activity at 2pm on the_1st.assistant:okay i am scheduling a yoga_activity for you on the_1st at 2pm.
+driver:set a reminder to take medicine at 10am on the_11th with my brother.assistant:okay setting a reminder to take medicine with your brother on the_11th at 10am.
+driver:tell me when i have yoga class.assistant:your yoga is class is on tuesday at 2pm.
+driver:add meeting in conference_room_102 the calendar.assistant:what day and time is the meeting.driver:the meeting is at 2pm on august 3rd with sales_team to discuss_the_merger.assistant:setting meeting at 2pm on august 3rd with sales_team to discuss_the_merger.driver:perfect nothing else for now.assistant:glad to be of service.
+driver:please add playing tennis to my schedule.assistant:what day and time should i add playing tennis to your schedule.driver:august 8th at 10am.assistant:okay adding swimming class to your calendar on august the_8th at 9am.
+driver:what day is the football game.assistant:the football game is friday at 5pm.
+driver:i need information about my yoga.assistant:your lab_appointment is on the_9th at 2pm martha will be there.
+driver:schedule a football_activity with tom on the_4th at 6pm.assistant:okay i am scheduling a football_activity with tom on the_4th at 6pm for you.
+driver:what day and time is my dentist_appointment.assistant:your meeting is set for the_2nd at 1pm.
+driver:can you check the time and date of my dinner.assistant:your dinner is on the_10th at 6pm.
+driver:set a reminder for dinner at 1pm on the_10th with my father.assistant:reminder set for dinner on the_10th at 1pm with my father.
+driver:can you schedule a reminder for my football_activity at 7pm the_8th with martha.assistant:reminder for football on the_8th at 7pm with martha is set.driver:awesome.assistant:you re welcome need help with anything else.
+driver:i need to find out the time and parties attending my optometrist_appointment.assistant:i have 3 appointment scheduled with alex your sister and jeff which are you interested in.driver:i want to know about the one that alex is joining me at.assistant:i have no appointment scheduled with alex.
+driver:set a reminder for yoga_activity at 11am on the_4th with martha.assistant:setting reminder for yoga_activity at 11am on the_4th with martha.
+driver:what time and date is my next yoga_activity.assistant:your next yoga_activity is scheduled for sunday at 2pm.
+driver:schedule yoga with marie at 4pm on the_5th of this month.assistant:setting a reminder for yoga with ana on the_5th of this month at 4pm.
+driver:set a reminder for a lab_appointment at 6pm on sunday august 8th with sister.assistant:okay scheduling a lab_appointment with your sister for sunday august 8th at 6pm.
+driver:when is my yoga.assistant:your yoga class will be this tuesday at 7pm with marie.
+driver:schedule a conference with the boss for this month on the_5th at 1pm.assistant:okay i am scheduling a conference with your boss for the_5th of this month at 5pm.
+driver:remind me that i have a meeting with my boss on the_13th of next month at 5pm.assistant:okay setting reminder for your meeting with your boss on the_13th of next month at 5pm.
+driver:schedule a conference with management on monday august 8th at 10am.assistant:i will schedule a conference with management on monday august 8th at 10am immediately.
+driver:what is the date time and agenda for my next conference.assistant:your dentist_appointment is on tuesday at 7pm to onboard_new_members.
+driver:remind me to take my pills.assistant:what time do you need to take your pills.driver:i need to take my pills at 7pm.assistant:ok setting your medicine appointment for 7pm.
+driver:schedule a yoga_activity with jon on wednesday at 1pm.assistant:okay i am scheduling a yoga_activity with jon for wednesday at 1pm.
+driver:please schedule a reminder for my doctor_appointment at 11am on august 3rd with alex.assistant:i am scheduling a doctor_appointment on august 3rd at 11am with ana.
+driver:what is the date time and location of my next conference.assistant:your next football_activity will take place on thursday at 7pm in conference_room_50.
+driver:i need to schedule yoga with martha.assistant:what time shall i set the reminder for yoga with martha.driver:set it for 9am on the tenth please.assistant:okay reminder has been set for tennis_activity with hr at 10am on wednesday.
+driver:when is the football event and who is attending.assistant:you have two football events scheduled one with jeff at 6pm on the_19th and one with alex at 8pm on the same day.
+driver:remind me to take my medicine with ana at 2pm august 3.assistant:setting a reminder for yoga with ana on the_5th of this month at 4pm.
+driver:i need to find out the date and whoever is attending my lab_appointment.assistant:you have two lab_appointment scheduled one on the_5th with your father attending and the other is on the_15th with your sister attending would you like to know the times as well.driver:yes please that will be helpful.assistant:your lab_appointment with your sales_team on the_1st is at 9am and the one on the_15th with your sister is at 8pm.
+driver:remind me about my football_activity with my father at 5pm.assistant:setting a reminder for your football_activity with your father at 5pm.
+driver:remind me about meeting later.assistant:what time do you wish me to remind you about the meeting later.driver:the meeting is at 7pm.assistant:i will remind you about the dinner at 10am.
+driver:what time is my doctor_appointment today.assistant:your swimming_activity is scheduled for 10am.
+driver:can you schedule a reminder for my football_activity at 7pm the_8th with martha.assistant:reminder for football on the_8th at 7pm with martha is set.driver:awesome.assistant:you re welcome need help with anything else.driver:nope.assistant:happy to help.
+driver:when should i take my medicine next.assistant:you should take your medicine next on tuesday at 3pm.driver:please set a reminder for medication.assistant:reminder about optometrist_appointment has been set.
+driver:add tennis on wednesday at 5 to my calendar.assistant:is that 5pm on wednesday.driver:yes set a reminder for tennis_activity at 5pm on wednesday at 3pm.assistant:i am putting your tennis event on the calendar at 5pm on wednesday and will send a reminder at 3pm.
+driver:schedule a yoga_activity at 5pm wednesday with ana.assistant:okay setting your reminder for your conference call with the vp on august 14th at 6pm.
+driver:where s the conference happening who s going to be there and what are we talking about.assistant:you have several conference on your schedule which one in particular would you like information about.driver:please choose a random one.assistant:your conference is in conference_room_102 with the vice_president to go over the budget.
+driver:add meeting in conference_room_102 the calendar.assistant:what day and time is the meeting.driver:the meeting is at 2pm on august 3rd with sales_team to discuss_the_merger.assistant:setting meeting at 2pm on august 3rd with sales_team to discuss_the_merger.
+driver:set a reminder for tennis.assistant:when and where will you be playing tennis.driver:at moms house on the_15th of april 2017.assistant:for what time and day would you like to schedule the reminder.
+driver:when is my doctor_appointment and who is going.assistant:you have four dentist scheduled one on the_13th with your executive_team one on the_13th with martha another on the_14th with your infrastructure_team and the last on the_19th with jon.
+driver:where and on what day is my meeting and what is the agenda.assistant:you currently have 3 meeting scheduled the first is on tuesday in dentist_appointment room 10 to dicu the company picnic the second i on the_7th in conference_room_100 to go over the budget the last is on the_8th in conference_room_100 to discuss the dress code.
+driver:who is going to my optometrist_appointment and what time is it.assistant:you have three optometrist_appointment one on the_13th at 10am with your infrastructure_team another on the_13th at 5pm with alex and the last is on thursday at 1pm with marie.
+driver:what time do i have to take medicine and who is helping.assistant:i have you set for two one at 6pm and one at 3pm.driver:who will be helping me for the one at 3pm.assistant:jeff is one the helping at 4pm anything else.
+driver:what parties and am i attending and what are the dates.assistant:you do not have any parties on your schedule at this time.driver:what tennis_activity are on my schedule what are the dates and who are they with.assistant:you have two taking_medicine on your schedule one on the_9th with your mother and one on tuesday with your jon.
+driver:remind me about my optometrist_appointment with my father on the 29th at 7pm.assistant:okay i will be sure to remind you about that is there anything else.driver:list my current reminders.assistant:you have an optometrist_appointment on the 29th at 7pm your father is attending.
+driver:when is my dentist_appointment the date and time.assistant:for which one i have two one at 9am the_8th and one at 8pm the_1st.
+driver:please set a reminder for a meeting at 1pm with hr to sign_the_nda.assistant:i will set a reminder for a meeting at 1pm with hr to sign_the_nda.
+driver:i need information about my conference.assistant:your conference is on saturday at 7pm with hr in conference_room_50 to discuss_the_company_picnic.driver:ok great.assistant:you re welcome.
+driver:what time is my next dinner and who will be attending it.assistant:i have two which one one with executive_team on the_16th or one with aunt on the_15th.
+driver:schedule a reminder about a doctor_appointment with my mother at 11am on the_7th of this month.assistant:okay scheduling a reminder for your doctor_appointment at 11am on the_7th of this month with your mother.
+driver:when is my tennis_activity.assistant:you have a tennis_activity on the_19th at 8pm and sunday at 1pm.
+driver:when s the football_activity and who s attending.assistant:you have four football_activity scheduled one on monday at 1pm with alex one on the_13th at 9am with alex one on wednesday at 11am with vice_president and one on saturday at 5pm with ana.
+driver:what is the date and time for my yoga_activity.assistant:you have two doctor_appointment scheduled one on monday at 5pm and another on the_17th at 11am.
+driver:what time is my swimming lessons this afternoon.assistant:your swimming lessons are at 3pm today.
+driver:make an appointment for the doctor on the_12th.assistant:at what time should i set the appointment.driver:set it at 7pm please.assistant:i have made an appointment for the doctor on the_10th at 7pm.
+driver:what is the agenda for the conference.assistant:the purpose of the conference is to discuss_the_merger.driver:okay perfect what day and time is the conference on.assistant:the dinner is set for saturday at 5pm.
+driver:set a reminder for doctor_appointment.assistant:reminder for event doctor_appointment set.driver:did you get the time or date.assistant:ok please state the location for swimming_activity.
+driver:hi car can you set a reminder for my conference at 5pm the_6th of this month with executive_team for 1pm.assistant:ok i ve set a reminder for your conference at 5 on the_6th of this month with the executive_team anything else.driver:thank you.assistant:you re welcome just to reiterate your conference is at 1pm correct or was that 5pm.driver:5pm.assistant:okay i ve set a reminder for your conference at 5pm on the_6th of this month with the executive_team.
+driver:what time is my doctor apartment and who is it with.assistant:are you talking about the doctor_appointment on wednesday or the one on the_5th.driver:the one on wednesday.assistant:your doctor_appointment on wednesday is at 7pm with your father.driver:and how about the one on the_5th.assistant:your doctor_appointment on the_11th is at 6pm with father.
+driver:i have yoga on saturday with marie.assistant:and what time should i schedule it for.driver:at 9am on saturday.assistant:no problem.
+driver:where is my conference what is it about and what day is it.assistant:your dinner is at 7pm.
+driver:remind me about my doctor_appointment at 9am today my sister is coming.assistant:setting a reminder for your doctor_appointment with your sister at 9am today.
+driver:when where and what time is my meeting and who will be there.assistant:your meeting to discuss_the_merger with hr is on friday at 4pm.driver:okay and where is the meeting.assistant:it s in conference_room_100.
+driver:i need to know the agenda for my meeting as well as who is attending and the location.assistant:the purpose of your doctor_appointment is to go over the budget your jeff will be in attendance.
+driver:schedule an optometrist_appointment next friday at 4pm with tom.assistant:okay i am scheduling a optometrist_appointment with tom for next friday at 4pm.
+driver:what time is my tennis_activity and who is attending.assistant:you have two tennis_activity scheduled on different dates both are at 5pm with your father would you like to know the dates.driver:yes that would be helpful.assistant:one is on monday and one is on the_15th.
+driver:mark on my calendar that i am going to the football game this saturday at 3 30.assistant:your calendar has been set for football game this saturday at 3 30pm.
+driver:set reminder for lab check up.assistant:okay what date should the reminder be on.driver:the_12th.assistant:the_12th.
+driver:what is the date and time of my next meeting and who will be attending it.assistant:you have a optometrist_appointment on sunday with jon.
+driver:schedule meeting.assistant:what details shall i add to your meeting reminder.
+driver:what time is my appointment today.assistant:you are welcome.
+driver:remind me about my optometrist_appointment on thursday at 11am my aunt is coming.assistant:okay i will be sure to remind you about your appointment anything else.
+driver:remind me about my yoga_activity with mother on the_15th of this month it is at 3pm.assistant:okay i will remind you of your yoga_activity with your mother scheduled on the_15th of this month.driver:schedule it for 3pm.assistant:setting reminder for yoga_activity with your mother on the_15th at 3pm.
+driver:i need a reminder for my doctor_appointment on the_1st at 2pm with ana.assistant:scheduling doctor_appointment for the_1st at 2pm with ana.
+driver:i m taking_medicine on the_1st.assistant:setting a reminder for the_1st to take medicine.
+driver:schedule conference.assistant:what details shall i add to your conference reminder.driver:set it for today at 4pm with my boss.assistant:anything else.
+driver:what is the date and location of my meeting and who is attending.assistant:i have you for two meeting one is in conference_room_102 with the vice_president on the_12th and one is in conference_room_100 with sales_team on the_15th.driver:great.assistant:no problem.
+driver:find out the location date and time for my meeting.assistant:you have two meeting scheduled one on the_7th in conference_room_100 at 9am and another on the_16th at conference_room_50 at 9am.
+driver:schedule a swimming_activity with alex for the_13th at 1pm.assistant:okay scheduling a swimming_activity with alex for the_13th at 1pm.
+driver:info about meeting.assistant:your dentist is on the_4th at 11am with the alex you will be having it in conference_room_100 and the agenda is to discuss the dress code.
+driver:schedule an optometrist_appointment at 2pm with jon.assistant:i will schedule an optometrist_appointment at 2pm with jon for what day.driver:monday sounds good.assistant:scheduled optometrist_appointment for monday at 2pm with jon.
+driver:what date and time is the football event.assistant:your next football event is on the_8th at 6pm.driver:will anyone be attending with me.assistant:yes marie will be attending the football event on the_8th with you.
+driver:what time is my doctor_appointment and who is going with me.assistant:your doctor_appointment at 1pm your jon will be going.
+driver:schedule a conference with the vice_president on the_5th at 11am.assistant:conference scheduled for the_5th at 11am with the vice_president.driver:perfect.assistant:have a good day.
+driver:when is my dentist_appointment and who is attending.assistant:which one there is two one for the_10th at 4pm and one for friday at 3pm.driver:the one on friday.assistant:alex will be attending your dentist_appointment on friday at 3pm.
+driver:i have an appointment at 1pm on wednesday with alex.assistant:okay making appointment with alex on wednesday at 1pm.
+driver:schedule a conference with management on the_7th at 2pm.assistant:okay i am now scheduling a conference on the_7th at 2pm with management.
+driver:set an alarm for my doctor_appointment.assistant:what day and time should i set the alarm for.driver:please set it on the_12th of this month at 3pm.assistant:the dinner on the_19th is at 4pm with your sister.
+driver:schedule a optometrist_appointment for thursday at 5pm my father is joining me.assistant:your optometrist_appointment with your father has been scheduled for thursday at 5pm.
+driver:what is the date of my next dentist_appointment and who will be attending it.assistant:your next football_activity is on the_2nd with sales_team.
+driver:schedule dinner with my father at 4pm on monday the_1st.assistant:okay scheduling a dinner with your father for monday the_1st at 4pm.
+driver:schedule dentist_appointment.assistant:ok what day should i make the appointment.driver:10am wednesday morning.assistant:all right i ve set your next dentist_appointment for 10am on wednesday morning anything else.
+driver:schedule a meeting at 4pm today with the boss to discuss_dress_code.assistant:okay scheduling meeting with the boss at 4pm today to discuss_dress_code.
+driver:schedule a dinner at 3pm on monday the_1st with alex.assistant:scheduling a reminder for your meeting with hr to discuss the dress code at 3pm on august the_3rd.
+driver:when is my scheduled appointment for my lab.assistant:your doctor_appointment is scheduled for tuesday at 3pm.
+driver:can you set my schedule for a dentist_appointment at 10am the_15th of this month with jon.assistant:i set your schedule for a dentist_appointment at 10am the_15th of this month with jon.
+driver:set a reminder for yoga next month on the_13th at 6pm with my mom.assistant:okay scheduling a yoga_activity with your mom for the_13th of next month at 6pm.
+driver:what time is my meeting what is the agenda and who is going.assistant:you have three dentist_appointment one at 9am to meet with management to onboard_new_members one at 6pm with boss to go_over_budget and one at 4pm with the executive_team to discuss_the_company_picnic.
+driver:what time is my dentist_appointment and who is going.assistant:i have you set for two one is at 2pm with jon and one at 4pm with brother.
+driver:i have a dentist_appointment on the_12th of this month.assistant:what time is it.driver:it is at 2pm schedule it with my sister please.assistant:setting a reminder for your doctor_appointment at 3pm on the_12th with your brother.
+driver:please schedule a swimming_activity tuesday at 5pm with martha.assistant:okay scheduling a swimming_activity with martha for tuesday at 5pm.
+driver:please give me all relevant information about my meeting.assistant:you have a meeting on friday at 7pm with management in the 102 conference room to go over the budget.
+driver:what time is my meeting tomorrow and what is the agenda.assistant:your optometrist_appointment is scheduled for 8pm tomorrow the agenda is to discuss_dress_code.
+driver:schedule a reminder for a doctor_appointment with my father on august 22nd at 10am.assistant:okay setting a reminder for your doctor_appointment on august the 22nd at 10am with your father.
+driver:set a reminder for dinner on august 8th at 3pm with my aunt.assistant:setting reminder for dinner on august 8th at 3pm with aunt.
+driver:set a reminder for dinner at 5pm on the_6th with jeff.assistant:setting a reminder for today s optometrist_appointment at 5 with your mom.
+driver:when is my lab_appointment.assistant:your yoga_activity is on the_3rd at 6pm.
+driver:remind me about the conference tomorrow at 12pm in conference_room_100.assistant:okay setting a 12pm reminder for your conference tomorrow in conference_room_100.
+driver:what time and day is my doctorappointment on.assistant:your doctorappointment is on thursday at 2pm.
+driver:what time is dinner and who is attending.assistant:you have two dinners one on monday at 8pm with jon and one on the_15th at 5pm with marta.
+driver:schedule my dentist_appointment on the_12th.assistant:what time would you like to schedule your appointment.driver:10am please.assistant:okay scheduled your dentist_appointment on the_12th 10am.
+driver:what is the date time and agenda of my next conference.assistant:you next conference is tuesday at 6pm to discuss onboard_new_members in 100_conference_room.
+driver:confirm dentist_appointment on the_12th at 4 50pm.assistant:i am showing your dentist_appointment is on monday at 10am.driver:okay i need to find out the location the agenda and who is joining please.assistant:i see that there is no information for the requested items would you like to update them now.driver:yes i would thanks.assistant:i m ready to update that whenever you are.driver:it will be at central hospital with my sister to get a tooth pulled.assistant:your agenda parties and event location for your dentist on monday at 10pm has been updated.
+driver:set a reminder for my daughter s swimming lessons.assistant:okay for what time and day.driver:i need it to be set for 7pm on the_1st.assistant:i am setting a reminder for swimming lessons at 10am on the_1st.
+driver:set a reminder for tennis next month on the_13th at 6pm with my aunt.assistant:okay scheduling a tennis_activity with your aunt for the_13th of next month at 6pm.
+driver:schedule an appointment at 7pm today with jeff the optometrist please.assistant:okay i am scheduling an optometrist_appointment with jeff for today at 7pm.
+driver:schedule a new meeting.assistant:what date and time should i schedule your meeting.driver:it is today at 1pm with hr to go over the budget.assistant:i am setting a new meeting in your calendar for today at 1pm with hr to go over the budget.
+driver:please schedule me an optometrist_appointment at 2pm this week with jon.assistant:set reminder for optometrist_appointment at 2pm this week with jon do you know what date exactly.
+driver:i need to set a reminder for a lab_appointment.assistant:what day and time is your lab_appointment.driver:on thursday at 2pm with tom.assistant:scheduling a reminder of your lab_appointment on thursday at 2pm with tom.
+driver:what is the agenda for the conference.assistant:the purpose of the conference is to discuss_the_merger.driver:okay perfect what day and time is the conference on.assistant:the conference is set for the_3rd at 3pm.driver:anything else i should know.assistant:reminder scheduled for your lab_appointment at 3pm on thursday with tom.
+driver:what s the time and date for the soonest yoga session.assistant:the soonest yoga class available is at 1pm on the_3rd with jeff.
+driver:please schedule a swimming_activity on sunday at 4pm with my brother.assistant:will do your swimming_activity with brother on sunday at 4pm has been scheduled.
+driver:schedule a meeting.assistant:when is your meeting.driver:at 10am on thursday with management to discuss_dress_code.assistant:okay i have scheduled your tennis_activity at 7pm  on thursday.
+driver:please schedule a dentist_appointment at 3pm the_7th with aunt.assistant:reminder for dinner on the_7th at 3pm with your aunt is set.
+driver:what time do i go to yoga and who is going with me.assistant:yoga is with marie at 11am.
+driver:i need to schedule tennis with jon.assistant:when shall i set the reminder for tennis with jon.driver:on the_15th at 1pm.assistant:okay great i have that scheduled for you on the_15th with jon.
+driver:who is going to play tennis with me.assistant:alex will be attending your tennis_activity.driver:what time will we be meeting for this.assistant:at 7pm.driver:where is it located.assistant:don t forget that it s on the_4th with alex i don t have a location for this event however.
+driver:good morning car i d like to schedule a conference at 7pm next wednesday with hr please.assistant:setting a reminder for your conference next wednesday at 7pm with hr.
+driver:schedule swimming.assistant:what day and time should i schedule your swimming.driver:on the_11th at 3pm with tom.assistant:you are now scheduled to meet with tom on the_11th at 3pm for swimming.
+driver:set an optometrist_appointment for 3pm on the_15th of this month with my aunt.assistant:i will set this optometrist_appointment for 3pm on the_10th of this month with aunt.
+driver:what is the date of football and who is coming.assistant:you have four optometrist_appointment scheduled one on the_5th with john on the_10th with management one on the_16th with alex and one on the_6th with mother.
+driver:tell me when my dentist_appointment is.assistant:your dentist_appointment is this saturday at 6pm.
+driver:schedule a blood test.assistant:what date and time are you blood test.driver:it is tomorrow at 1pm.assistant:your blood test has been scheduled for tomorrow at 1pm.driver:perfect.assistant:no problem.
+driver:remind me there s a football game on the_12th.assistant:what time would you like a reminder for the football game.driver:for 3pm please.assistant:i am setting a reminder for the football game on the_12th at 4pm.
+driver:set a reminder for me to take my medicine at 9am on sunday with by brother frank.assistant:okay setting a reminder to take medicine with your brother frank at 9am on sunday.
+driver:remind me about my optometrist_appointment with jon at 2pm at the end of march.assistant:okay perfect i will be sure to remind you of that can i help you with anything else.driver:that ll be all.assistant:you re welcome.
+driver:when am i going swimming.assistant:you have two meeting scheduled one on the_9th at 2pm and the other on the_5th at 4pm.
+driver:please remind me i m going to a swimming party at 5pm on july 7th with martha.assistant:ok swimming party with martha on july 7th at 5pm is saved to your calendar.
+driver:schedule a meeting with the infrastructure_team to go_over_budget on thursday at 5pm.assistant:okay scheduling a meeting with the infrastructure_team to go over the budget for thursday at 5pm.
+driver:what date is my optometrist_appointment on and who will be attending.assistant:your tennis_activity is on the_3rd with sales_team.
+driver:what date is my dentist_appointment and who is attending.assistant:you have two tennis_activity one with your ana and one with your management both on the_18th.
+driver:what day is my lab_appointment and who is coming with.assistant:currently you have two lab_appointment one on the_3rd which martha is attending and one on the_13th that your brother is attending.
+driver:what date and time is my dentist_appointment at.assistant:your football_activity is on the_13th at 6pm.
+driver:what is the date and time of my next football_activity.assistant:your next football_activity is saturday at 11am.
+driver:get me the time of the doctor_appointment.assistant:the doctor_appointment is at 3pm.
+driver:on my calendar set a time for tennis at 12pm.assistant:okay what calendar date should i set a reminder for tennis at 12pm.driver:set the reminder for tennis to be on the august 12th.assistant:i have set a reminder for august 12th at 12pm for tennis will that be all.
+driver:what is the time and date of my doctor_appointment.assistant:you have two doctor_appointment set one on the_2nd at 2pm and one on the_13th at 1pm.
+driver:schedule conference with vice_president.assistant:what day and time is this conference.driver:schedule this conference for later this week please at 9am with my vice_president.assistant:okay for what day exactly would you like this meeting.
+driver:set a reminder for tennis.assistant:when and where will you be playing tennis.driver:at moms house on the_15th of april 2017.assistant:for what time and day would you like to schedule the reminder.driver:1pm on the_12th.assistant:setting a reminder on the_3rd at 1pm to see doctor.
+driver:what day and time is my dentist_appointment.assistant:your dentist_appointment is set for 4pm on the_3rd.
+driver:schedule a meeting today at 9am with management to discuss_the_company_picnic.assistant:setting reminder for meeting with management to discuss company picnic for today at 9am.
+driver:what is the date for my doctor_appointment and who is attending.assistant:for which one i have two appointment one on the_5th with martha and one on saturday with sister.
+driver:make a note that at 5pm on the_12th i have yoga.assistant:okay making note of your yoga appointment at 3pm on the_12th.
+driver:set a schedule for a meeting at 5pm 6th of this month with hr to sign_the_nda.assistant:a schedule has been set for a meeting at 5pm 6th of this month with hr to sign_the_nda.
+driver:set a schedule for dinner at 2pm sunday with mother.assistant:dinner with your mother on sunday at 2pm is added to the schedule.
+driver:schedule conference with sales_team on the_11th of this month 9am.assistant:okay scheduling a conference with the sales_team at 9am on the_11th of this month.
+driver:put my optometrist_appointment in my calendar.assistant:what date and time is your optometrist_appointment at.driver:my optometrist_appointment is at 10am on sunday.assistant:optometrist_appointment in calendar for 10am on sunday.
+driver:can you find out the parties attending and time for my optometrist_appointment.assistant:i have four one with alex at 11am on saturday one with your sister at 2pm on the_5th one with jeff on the_6th and one with brother on thursday which one.
+driver:i have a meeting at 3pm set a reminder.assistant:for what date would you like to set the reminder for.driver:later this week on friday.assistant:setting a friday reminder of your meeting at 3pm.driver:ok it is with my boss to go over the budget.assistant:great i have that meeting scheduled for you.driver:perfect i appreciate it.assistant:you are welcome.
+driver:set a reminder for optometrist_appointment at 2pm today with marie.assistant:okay i am scheduling a optometrist_appointment with marie for today at 2pm.
+driver:when is the meeting what is the agenda and who are attending.assistant:you have three conference scheduled the first is at 2pm on the_13th with management to onboard_new_members the second is at 7pm on the_11th with the vice_president to go over the budget the third is at 9am on tuesday with the executive_team to go over the quarterly report.
+driver:set a reminder for my conference call tomorrow.assistant:what time should i set a reminder for tomorrow s conference call.driver:tomorrow at 2pm.assistant:i have scheduled a conference call for tomorrow at 2pm.
+driver:what time is my next football_activity and who will be attending.assistant:your next football_activity will be with infrastructure_team at 1pm.
+driver:what is the time location and agenda of my next conference.assistant:your next dinner is with management on the_13th at 6pm to discuss_the_company_picnic in conference_room_50.
+driver:when is my tennis match.assistant:your tennis_activity is on friday at 11am.
+driver:i need to schedule a doctor_appointment.assistant:what day and time shall i add this to your schedule.driver:it s at 3pm next_week and my father is joining me.assistant:okay i have scheduled a doctor_appointment for 3pm next_week with your father.
+driver:what time is my football_activity and who is attending.assistant:you have three football_activity scheduled two on the_16th at 2pm and 3pm with tom and one on the_15th at 2pm with marie.
+driver:what time is my optometrist_appointment and who all will be there.assistant:your conference is at 4pm on the_13th and your management will also be attending.
+driver:schedule a reminder for me to take my medicine today with my father at 1pm.assistant:setting a reminder for you to take your medicine with your father today at 1pm.
+driver:can you find out the time and date for my next meeting oh and the location.assistant:your next yoga_activity is in conference_room_102 on the_12th at 11am.
+driver:schedule a yoga_activity with tom on the_8th at 2pm.assistant:okay scheduling a yoga_activity with tom for the_8th at 4pm.
+driver:what day do i need to take my medicine and who will be there.assistant:your aunt will be there on tuesday at 10am when you take medicine.driver:okay perfect.assistant:you are welcome.
+driver:when is my tennis.assistant:your next tennis_activity is thursday at 3pm with your brother.
+driver:what is the date and time for my optometrist_appointment.assistant:you have an optometrist_appointment on the_3rd at 10am with jeff and on the_7th at 3pm with martha.driver:thanks.assistant:you re welcome.driver:great.assistant:you are welcome.
+driver:i really need to have an appointment scheduled for tennis on the_7th at 11am.assistant:i am scheduling tennis on the_10th at 11am.
+driver:when is my conference and where is it.assistant:your conference is thursday at 6pm and it will be in conference_room_50.
+driver:when is yoga and who is going.assistant:you have yoga_activity on the_2nd 8th and thursday which one are you interested in.driver:the one on the_2nd.assistant:your hr will be attending your yoga_activity on the_15th with you.
+driver:set a reminder for tennis.assistant:reminder for event tennis set.driver:please make sure thats for august 12th at 1pm.assistant:fine reminder for doctor_appointment has been set for august 12th at 5pm.
+driver:when s my next scheduled yoga class.assistant:your next yoga class is at 1pm on tuesday.
+driver:can you tell me what day and what the agenda is for the business meeting i have in the 100 conference room.assistant:your business meeting with the sister in conference_room_102 is set for tuesday at 10am to discuss to discuss_dress_code.
+driver:is my doctor_appointment on tuesday or wednesday.assistant:your doctorappointment is on the_18th.
+driver:set a reminder for optometrist_appointment on the_15th at 6pm with marie.assistant:okay i am scheduling a optometrist_appointment with marie on the_15th at 6pm for you now.
+driver:schedule a swimming_activity with my brother for the_7th at 11am.assistant:okay scheduling a swimming_activity with your brother for the_7th at 11am.
+driver:remind me about my football_activity on the_1st at 1pm with my brother.assistant:all set for reminder about football_activity with your brother on the_1st at 1pm.
+driver:schedule a doctor_appointment with my brother for august 3rd at 10am.assistant:okay scheduling a doctor_appointment with your brother for august 3rd at 10am.
+driver:what is the date and time of my next football_activity.assistant:your lab_appointment is with jeff at 4pm.
+driver:what time is dinner and who is going.assistant:you have 3 dinners scheduled one with alex one with your sister and one with your aunt.driver:the one with alex.assistant:your tennis_activity event with alex is at 7pm on sunday.
+driver:set date for a meeting.assistant:what is the date and time for the meeting.driver:august 3rd at 11am.assistant:meeting has been set on august 3rd at 11am.
+driver:set an appointment for swimming.assistant:what time would like me to set the appointment.driver:at 3pm on saturday please.assistant:okay i set your appointment for 3pm on saturday have a good time.
+driver:tell me when my dinner reservations are scheduled for.assistant:your doctor_appointment reservations are set for the_6th at 5pm.
+driver:when s my next scheduled yoga class.assistant:your next yoga class is the_13th at 11am.
+driver:schedule a conference with the sales_team on the_6th at 9am.assistant:i have scheduled a conference with the sales_team on the_6th at 9am.
+driver:what time do i play tennis and who is coming.assistant:your dinner is scheduled for the_13th at 2pm with marie.
+driver:can you please find me the time date and what is planned for the next meeting i have scheduled in my calendar.assistant:your tennis_activity is with jeff.
+driver:on what date is my conference what is it about and who will be there.assistant:your conference is on tuesday at 11am it is to discuss the dress code with the infrastructure_team.
+driver:when is my lab_appointment.assistant:would you like to know when your lab_appointment is with your sister or with marie.driver:i want the date and time of each lab_appointment.assistant:your swimming_activity is at 10am on the_3rd.
+driver:schedule a football game on tuesday at 6pm with marie.assistant:reminder set for football game at 6pm on tuesday with marie.
+driver:what parties am i attending and what are the dates and times.assistant:you have no parties in your calendar.
+driver:set an event for football game this week at 5pm with my brother.assistant:you have a doctor_appointment on thursday.
+driver:what is the date and time of my next dentist_appointment.assistant:can you clarify which one i have one on the_11th at 5pm and one on sunday at 10am.
+driver:set a reminder for an optometrist_appointment at 9am on the_6th of this month - my brother will be there as well.assistant:setting a reminder for yoga with ana on the_5th of this month at 4pm.
+driver:what time is my football_activity and who is attending.assistant:i have two driver one for 6pm with alex and one for 1pm with brother.driver:perfect.assistant:no problem.
+driver:put on my calendar that i need to get my lab results this thursday at 3 30.assistant:setting a reminder to get lab results on thursday at 3 30pm.
+driver:set an optometrist_appointment for saturday.assistant:what time on saturday should i set the appointment reminder.driver:at 3pm and my sister is joining.assistant:okay great i have set the appointment with your sister ar 7pm on saturday.
+driver:i need to find out the date and time of my dentist_appointment please.assistant:you have two dentist_appointment scheduled one on monday at 5pm and another on the_12th at 8pm.
+driver:i need the time and parties for taking_medicine please.assistant:for which one i have three one with jeff at 6pm one with alex at 10am and one with your mother at 2pm.
+driver:set a reminder for an optometrist_appointment with jeff later this week at 3pm.assistant:okay i am now scheduling a optometrist_appointment for later this week at 3pm with jeff any specific day.
+driver:what is the date location and agenda of my next conference.assistant:your next conference is on the_3rd in conference_room_100 to sign_the_nda.
+driver:set a reminder for a meeting with my boss on the_12th of this month at 10am to discuss the budget.assistant:okay i have set a reminder for your meeting with your boss at 10am on the_12th of the month to discuss the budget.
+driver:good evening car set a reminder about a swimming_activity at 3pm december 10th with aunt set it for 1pm.assistant:setting a swimming_activity reminder on the_10th at 3pm with your aunt.
+driver:remind me of my yoga_activity with marie.assistant:what time is your yoga_activity with marie.driver:it is going to be at 1pm on august 22nd.assistant:ok i will set it for 1pm on august 22and.
+driver:what is the time and date of my football_activity.assistant:you have multiple football_activity one on sunday two on the_10th and one on saturday which one do you want.driver:the one on sunday.assistant:i have you listed for 6pm on sunday for your football_activity.
+driver:remind me that next_week at 5pm i have tennis with jon.assistant:ok i have i will remind you next_week that you have tennis with jon at 5pm.
+driver:set a reminder to take medicine at 9am on the_12th of this month with alex.assistant:okay setting a reminder to take medicine at 9am on the_12th of this month with alex.
+driver:what is the time and date for my yoga_activity.assistant:you have two conference scheduled one for the_11th at 10am with sales_team and one for the_5th at 6pm with tom.
+driver:set reminder for yoga classes on the_12th of this month.assistant:okay setting reminder for your yoga class on the_12th of this month.driver:i need the reminder at 7pm for the yoga class on december 12th.assistant:reminder has been set for yoga class on the 12 of this month.
+driver:set a reminder for me to take my medicine at 10am when i meet with my sister at the end of march.assistant:okay adding a reminder to take medicine with your sister at 10am at the end of march.
+driver:when are we getting together for football and who s coming.assistant:got it.driver:when is football and who s coming.assistant:do you want the information for the football_activity on thursday or friday.
+driver:what is the date and time for my scheduled dinner this week with sue.assistant:i find no dinner scheduled this week with sue.
+driver:can you set a reminder for a yoga_activity at 2pm on the_1st.assistant:okay i am scheduling a yoga_activity for you on the_1st at 2pm.driver:my sister is coming along thanks.assistant:your sister has been added to parties involved for your yoga_activity at 2pm on the_1st.driver:perfect.assistant:i m happy to help you.
+driver:what is the date of my next doctor_appointment and who will be attending it with me.assistant:your next football_activity is scheduled for thursday at 10am with your mother.
+driver:schedule a swimming_activity on monday the_1st with my father at 4pm.assistant:i will promptly schedule a swimming_activity on monday the_1st with your father at 4pm.
+driver:schedule a doctor_appointment on the_12th.assistant:ive scheduled a doctor_appointment for you on the_12th.
+driver:what day is my meeting.assistant:your meeting is friday at 7pm.driver:who is attending.assistant:you are attending the meeting with hr.
+driver:schedule an appointment with the optometrist on the_12th.assistant:appointment has been recorded for the_12th.driver:but you didn t ask for the time.assistant:what time should i set the appointment.
+driver:what time is the swimming party and who is attending.assistant:you have three swimming_activity scheduled the one at 5pm is with your brother the other at 7pm is with alex and the one at 2pm is also with your brother would you like to know the dates as well.driver:yes that would be helpful.assistant:the one at 2pm is on sunday the one at 7pm is on monday and the one at 5pm is on the_6th.
+driver:when is my doctor_appointment.assistant:your doctor_appointment is the_20th at 5pm.
+driver:car remind me to take my medicine at 2pm monday august 8th i need you to add jeff to the parties involved.assistant:setting reminder to take medicine on monday august 8th at 2pm with jeff.
+driver:set a reminder that i have a lab_appointment with my aunt next wednesday at 1pm.assistant:i have scheduled a lab_appointment at 1pm next wednesday with your aunt.
+driver:i need you to find out the time and who is attending my yoga_activity.assistant:you have three yoga_activity scheduled one at 3pm with jon another at 4pm with your mother and the last is at 3pm with your aunt do you need any more info.
+driver:what is the date and time for my doctor_appointment.assistant:you have three doctor_appointment scheduled one on the_4th at 6pm another on the_5th at 5pm and the last one the_8th at 1pm.
+driver:dinner what time and date.assistant:taking_medicine is at 2pm on the_18th.
+driver:what time is my tennis match for this saturday.assistant:your medicine is scheduled for 11am on the_4th nothing is scheduled for saturday.
+driver:what time is my next yoga_activity and who will be attending.assistant:your next yoga_activity is with jeff at 7pm.
+driver:schedule a swimming_activity with tom on the_6th of this month at 2pm.assistant:okay i am scheduling a swimming event with tom on the_6th at 2pm.
+driver:what time is the group meeting.assistant:the meeting is at 3pm on friday.driver:great.assistant:happy to help.
+driver:remind me at 4pm next wednesday about my conference with the sales_team.assistant:setting reminder for conference at 5pm on next wednesday with the sales_team.
+driver:what parties are on the calendar what time are they and where are they being held.assistant:there are no parties scheduled.driver:what time is my meeting where is it and who will be there.assistant:you have two meeting scheduled on the calendar the first meeting is on the_13th at 11am with the vice_president in conference_room_100 the second meeting is at 4pm with management in conference_room_50.
+driver:set a reminder for my tennis_activity at 6pm this week with martha.assistant:okay setting a reminder for your tennis_activity at 6pm this week with martha.
+driver:i have a dinner on tuesday.assistant:what time is your dinner on tuesday.driver:it is at 3pm.assistant:okay i will set a reminder for dinner on tuesday at 3pm.
+driver:i would like to know who is attending my meeting and when it is.assistant:your executive_team will be at the doctor_appointment on monday at 10am.
+driver:i am doing yoga with my brother wednesday.assistant:do you want me to set a reminder.driver:yes set a reminder for an hour before 11am.assistant:okay setting a reminder for wednesday at 10am for yoga with your bro.
+driver:set a schedule for playing tennis with marie.assistant:for what date and time would you like to set it.driver:set the reminder for 2pm the_15th of this month please.assistant:alright setting a reminder for playing tennis with marie at 2pm on the_15th of this month.
+driver:set a reminder for my swimming plans.assistant:swimming plans.driver:at 11am on friday.assistant:swimming plans on friday at 11am have been added to the calendar.
+driver:schedule conference with vice_president.assistant:what day and time is this conference.driver:schedule this conference for later this week please at 9am with my vice_president.assistant:okay for what day exactly would you like this meeting.driver:i want it scheduled for wednesday.assistant:i ve set that for wednesday at 9am with the vp.
+driver:what is the date of my next dinner event and who will be attending.assistant:your next dentist_appointment event is with your sales_team on sunday.
+driver:give me the time for my next doctor_appointment.assistant:your doctor_appointment is at 3pm.driver:what day is the doctor_appointment.assistant:your doctor_appointment is scheduled for tuesday.
+driver:schedule a reminder to take medicine with my brother on friday at 3pm.assistant:reminder set for taking_medicine at 3pm on friday with brother.
+driver:schedule a tennis_activity with alex on the_13th at 11am.assistant:now scheduling a tennis_activity with alex for the_13th at 11am.
+driver:find out what time my eye doctor_appointment is.assistant:your eye doctor_appointment is at 5pm on thursday.
+driver:please set a reminder that i have a conference call with the vp on august 14th at 6pm.assistant:okay setting a reminder for football_activity with tom for the_4th at 1pm.
+driver:set a reminder for lab work on the_12th.assistant:a reminder has been set for lab work on the_12th.driver:set the time as 7pm.assistant:for your swimming_activity on the_12th of this month i ve set the appointment time at 5pm.
+driver:schedule an optometrist_appointment.assistant:on what date and time should i set the appointment reminder.driver:4pm on thursday and my aunt is joining.assistant:okay setting a reminder for your optometrist_appointment with your aunt on thursday at 4pm.
+driver:what date is my optometrist_appointment and what parties are attending.assistant:you have three dentist scheduled one on the_18th with jeff one on the_11th and 20th with brother.
+driver:when is my swimming_activity and who is attending.assistant:you have a swimming_activity scheduled for friday monday thursday and on the_8th which one would you like the information about.driver:the activity on the_8th.assistant:your football_activity on the_8th is at 11am with jon.
+driver:can you schedule a football game next month on the_13th.assistant:setting a reminder for football game on the_13th what time should i add.driver:at 6pm and alex will be going.assistant:setting a reminder for your swimming_activity with alex on the_13th at 6pm.
+driver:schedule a doctor_appointment and my sister is coming along.assistant:okay when would you like to schedule that for.driver:schedule it for 4pm today please.assistant:okay setting a reminder for your doctor_appointment with your sister today at 4pm.
+driver:set a reminder for lab work on the_12th.assistant:lab work at 12th.driver:it is at 7pm.assistant:i have set a reminder to have lab work done on the_12th at 7pm.
+driver:please make an appointment on tuesday for me to see the doctor.assistant:setting a reminder on tuesday as an appointment to see the doctor what time should i set this.driver:11am please.assistant:i ve scheduled your taking_medicine for tuesday at 2pm with your aunt.
+driver:schedule a football_activity with ana on the_6th at 7pm.assistant:your football_activity with ana on the_6th at 7pm has been scheduled.
+driver:add tennis on wednesday at 5 to my calendar.assistant:is that 5pm on wednesday.driver:yes set a reminder for tennis_activity at 5pm on wednesday at 3pm.assistant:i am putting your tennis event on the calendar at 5pm on wednesday and will send a reminder at 3pm.driver:good job car.assistant:happy to help.
+driver:what time is the football game and who will be there.assistant:your football_activity with sales_team is at 2pm.
+driver:give me the date and time of my dentist_appointment.assistant:your dentist_appointment is at 3pm on tuesday.driver:okay perfect.assistant:your football_activity is at 10am.
+driver:find what time my lab_appointment is for.assistant:you have 3 appointment doctor optometrist and dentist.driver:the one for the doctor.assistant:your doctor_appointment is the_13th at 11am.
+driver:remind me about swimming with jeff later this week at 4pm.assistant:okay setting a reminder for swimming with jeff later this week at 4pm.
+driver:what is the time and date of my doctor_appointment.assistant:you have 3 appointment in your calendar one on the_12th at 10am one on wednesday at 10am and one on the_9th at 1pm.
+driver:what day is my meeting.assistant:your meeting is friday at 7pm.driver:who is attending.assistant:you are attending the meeting with sales_team.driver:thank you.assistant:you re welcome don t forget it s in conference_room_100 and you will be discussing dress code.driver:okay and you said at 7pm got it.assistant:have a good time at 5pm .
+driver:i need to schedule a doctor_appointment at 10am the_14th of august with alex.assistant:my pleasure i will schedule a doctor_appointment at 10am the_14th of august with alex.
+driver:what time does my next dinner gathering start and who will be attending.assistant:your next dinner gathering is the_12th at 7pm with marie.driver:ok will anyone else be attending.assistant:no just martha.
+driver:what day is my optometrist_appointment and with who.assistant:your optometrist_appointment is on the_19th with your aunt.
+driver:what is the date of my swimming_activity and who is attending.assistant:you have a swimming_activity on saturday tuesday and the_3rd which one do you want.driver:the one on saturday.assistant:your swimming_activity on saturday is with jon would you like to know the other activity s information.
+driver:remind me about dinner at 6pm with my brother.assistant:setting a 6pm dinner reminder with your brother for what date.driver:the_10th.assistant:okay setting a dinner reminder for this week at 6pm with your brother.
+driver:what is the date and time of my next tennis_activity.assistant:your next tennis_activity is on monday at 6pm.
+driver:what day and time is my tennis_activity.assistant:your lab_appointment is on the_4th at 3pm.
+driver:set a reminder on my calendar for football practice at 4 50pm on august 12th.assistant:ok your football practice reminder is set for 4 50pm on august 12th.
+driver:set a reminder that i have football at 1pm next wednesday with martha.assistant:i have scheduled football at 1pm next wednesday with martha.
+driver:schedule a tennis_activity with martha for the end of march at 9am.assistant:okay scheduling a tennis_activity with martha for the end of march at 9am.
+driver:set a reminder for my conference with management later this week at 11am.assistant:okay i have that reminder set for you anything else.
+driver:find out the parties attending and the time for my soonest lab_appointment.assistant:your next football_activity is on the_6th at 1pm with jeff.
+driver:set calendar reminder for 1pm this coming tuesday with my aunt.assistant:sure a calender reminder has been set for 1pm this upcoming tuesday with your aunt.
+driver:what is the time of my swimming_activity and who is attending.assistant:your tennis_activity is at 4pm with martha.
+driver:what date is my dentist_appointment and who is attending.assistant:you have two dentist_appointment one on wednesday with jon and one on the_18th with ana.
+driver:i need a reminder it s for a swimming_activity at 10am 14th of august with mother.assistant:okay i am setting a reminder for a swimming_activity on august 14th at 10am with your mother.
+driver:remind me about my lab_appointment.assistant:what date is your appointment.driver:my doctor_appointment is at 7pm on monday the_1st.assistant:a reminder has been set for your lab_appointment at 7pm on monday.
+driver:i need to know when my football_activity is and with whom.assistant:jon will be attending your football_activity on wednesday at 9am.
+driver:can you find out the date and parties attending for my tennis_activity.assistant:your sister will be attending your tennis_activity on the_8th.
+driver:please set reminder for the_8th at 5pm for yoga my aunt is coming along.assistant:okay reminder set for your yoga appointment on the_8th at 5pm with your aunt.
+driver:looking for the day and people attending my lab_appointment.assistant:your lab_appointment is on the_8th at 4pm and your ana is going with you.
+driver:what s on the agenda for today s meeting.assistant:your friday meeting s agenda is to go over the budget.
+driver:set a reminder.assistant:when should i set this reminder and what for.driver:i need to see the optometristet it for 7pm on august 12th please.assistant:your reminder has been set to see the optometrist at 7pm on aug 12th.
+driver:set me a reminder for football_activity at 1pm this month on the_11th with marie.assistant:reminder for football on the_11th of this month at 1pm with marie is set.
