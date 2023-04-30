@@ -12,7 +12,7 @@ We show an example of dialogue inconsistency.
 
 ##  Dataset
 
-We use the CI-ToD dataset [paper](https://arxiv.org/pdf/2109.11292.pdf) which is based on the  KVRET dataset for experiments, you can find it under `data/KBRetriever_DC`.
+We use the CI-ToD dataset （[paper](https://arxiv.org/pdf/2109.11292.pdf)） which is based on the  KVRET dataset for experiments, you can find it under `data/KBRetriever_DC`.
 
 
 The basic format of the dataset is as follows, including multiple rounds of dialogue, knowledge base and related inconsistency annotations (KBI, QI, HI)：
@@ -276,7 +276,7 @@ fitlog log logs/
 
 ## Contact us
 
-- Just feel free to open issues or send us email([me](mailto:1678421106@qq.com)) if you have any problems or find some mistakes in this dataset.
+- Just feel free to open issues or send us email ([me](mailto:1678421106@qq.com)) if you have any problems or find some mistakes in this dataset.
 
 ## Reference
 This code is mainly based on 
