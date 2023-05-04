@@ -1,4 +1,4 @@
-# 基于对话篇章级语义图的一致性检测
+# 基于篇章级语义图的对话一致性检测
 
 <img src="img/pytorch.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
