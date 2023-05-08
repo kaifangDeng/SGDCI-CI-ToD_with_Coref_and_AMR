@@ -2,7 +2,7 @@
 
 <img src="img/pytorch.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-This repository contains the PyTorch implementation and the data of the paper: 基于对话篇章级语义图的一致性检测. 
+This repository contains the PyTorch implementation and the data of the paper: 基于篇章级语义图的对话一致性检测. 
 This code is mainly based on yizhen20133868's CI-ToD repository [GitHub](https://github.com/yizhen20133868/CI-ToD) ([paper](https://arxiv.org/pdf/2109.11292.pdf)).
 
 ## Example
@@ -276,7 +276,7 @@ fitlog log logs/
 
 ## Contact us
 
-- Just feel free to open issues or send us email ([me](mailto:1678421106@qq.com)) if you have any problems or find some mistakes in this dataset.
+- Just feel free to open issues or send us email ([me](mailto:1678421106@qq.com)) if you have any problems or find some mistakes in this code.
 
 ## Reference
 This code is mainly based on 
