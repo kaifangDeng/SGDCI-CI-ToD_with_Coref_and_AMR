@@ -269,10 +269,10 @@ class Model(models.KBRetriever_DC.base.Model):
 
         # gcn gcn_layers:3
         for i in range(self.num_layers):
-            gcn_output = self.gcn[i](h, adj_4d.to(self.device)) + self.highway[i](h)
+            h = self.gcn[i](h, adj_4d.to(self.device)) + self.highway[i](h)
 
 
-        cls = gcn_output[:,0,:]
+        cls = h[:,0,:]
         # cls = utt
 
         utt = torch.cat((cls, kb_batch_sum),dim=-1)
